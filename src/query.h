@@ -3,7 +3,6 @@
 
 class Query {
 public:
-    
     std::string title;
     std::string query;
     std::string head;
