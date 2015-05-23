@@ -17,6 +17,6 @@ int main(int argc, char * argv[]) {
     Query q("DB2_query", "DB2");
     
     string curl_string = "www.google.com";
-    if (!curl(my_info.total + q.query, q.head, q.body)) { cout << "#####\nERROR: Could not curl the string: " << q.query << ". Exiting...\n#####\n"; exit(-1);}
+    if (!curl(q, my_info)) { cout << "#####\nERROR: Could not curl the string: " << q.query << ". Exiting...\n#####\n"; exit(-1);}
     return 0;
 }

@@ -24,6 +24,9 @@
 #include <curl/curl.h>
 #include <string.h>
 
+#include "query.h"
+#include "info.h"
+
 
 static size_t write_data(void *ptr, size_t size, size_t nmemb, void *stream)
 {
@@ -89,17 +92,17 @@ int c_curl(char* url, char* head, char* body) {
       return 0;
 }
 
-bool curl(std::string url, std::string header, std::string body) {
+bool curl(Query& q, Global_Info& i) {
     /* Since we are using a C library, we need to convert
        the strings to chars. In C++, it is much more conv
        enient to use string.                             */
     
     char char_url[1024], char_head[1024], char_body[1024];
-    strncpy(char_url, url.c_str(), sizeof(char_url));
-    strncpy(char_head, header.c_str(), sizeof(char_head));
-    strncpy(char_body, body.c_str(), sizeof(char_body));
+    strncpy(char_url, (i.total + q.query).c_str(), sizeof(char_url));
+    strncpy(char_head, q.head.c_str(), sizeof(char_head));
+    strncpy(char_body, q.body.c_str(), sizeof(char_body));
     if (!c_curl(char_url, char_head, char_body)) {
-        std::cout << "*** Success with url: " << url << " ***\n";
+        std::cout << "*** Success with url: " << q.title << " ***\n";
         return true;
     } 
     return false;
