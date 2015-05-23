@@ -1,0 +1,5 @@
+*.out
+CMakeFiles/*
+CMakeCache*
+cmake_inst*
+twitter-curl
