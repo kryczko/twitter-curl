@@ -20,8 +20,10 @@
  *
  ***************************************************************************/
 #include <stdio.h>
+#include <iostream>
 #include <curl/curl.h>
 #include <string.h>
+
 
 static size_t write_data(void *ptr, size_t size, size_t nmemb, void *stream)
 {
@@ -85,4 +87,20 @@ int c_curl(char* url, char* head, char* body) {
       /* cleanup curl stuff */ 
       curl_easy_cleanup(curl_handle);
       return 0;
+}
+
+bool curl(std::string url, std::string header, std::string body) {
+    /* Since we are using a C library, we need to convert
+       the strings to chars. In C++, it is much more conv
+       enient to use string.                             */
+    
+    char char_url[1024], char_head[1024], char_body[1024];
+    strncpy(char_url, url.c_str(), sizeof(char_url));
+    strncpy(char_head, header.c_str(), sizeof(char_head));
+    strncpy(char_body, body.c_str(), sizeof(char_body));
+    if (!c_curl(char_url, char_head, char_body)) {
+        std::cout << "*** Success with url: " << url << " ***\n";
+        return true;
+    } 
+    return false;
 }
