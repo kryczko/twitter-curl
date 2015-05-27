@@ -1,0 +1,24 @@
+# NOTE: The query string must be in unicode UTF-8
+
+queries:
+    - title: DB2
+      query: DB2
+      startdate: 
+          year: 2015
+          month: 01
+          day: 01
+      enddate:
+          year: 2015
+          month: 01
+          day: 02
+    
+    - title: Mysql
+      query: mysql
+      startdate: 
+          year: 2015
+          month: 01
+          day: 01
+      enddate:
+          year: 2015
+          month: 01
+          day: 02
