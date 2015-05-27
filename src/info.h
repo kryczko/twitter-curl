@@ -17,7 +17,7 @@ public:
     Date startdate, enddate, currentdate, nextdate;
     
     time_t t_current, t_end, day_ahead;
-    std::tm current, end, next_day;
+    struct tm current, end, next_day;
     
     void init_times() {
         current = *localtime(&t_current);
@@ -32,17 +32,17 @@ public:
         end.tm_year = enddate.year - 1900;
         end.tm_mon = enddate.month - 1;
         end.tm_mday = enddate.day;
-        t_current = std::mktime(&current);
-        day_ahead = std::mktime(&next_day);
-        t_end = std::mktime(&end);
+        t_current = mktime(&current);
+        day_ahead = mktime(&next_day);
+        t_end = mktime(&end);
         currentdate = startdate;
     } 
     
     void update_current_time() {
         current.tm_mday += 1;
         next_day.tm_mday = current.tm_mday + 1;
-        t_current = std::mktime(&current);
-        day_ahead = std::mktime(&next_day);
+        t_current = mktime(&current);
+        day_ahead = mktime(&next_day);
     }
     
     std::string currentheader() {

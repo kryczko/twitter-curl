@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+X-Backside-Transport: OK OK,OK OK
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Cache-Control: no-cache="set-cookie, set-cookie2"
+Content-Type: application/json;charset=UTF-8
+Date: Wed, 27 May 2015 20:21:27 GMT
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Set-Cookie: LtpaToken2=KnahD5eEYQq9chX2lAXF0CzWjm8avXY0GDTeEPXDOe1p/RAb8WgKUifRZqqvnu7XM7vNc5nopVhfsEaio825uPVjGbeSza02x/dK3iIqAEJt9Qiqfgt7sHzKWa6hQphXmrxx9vWbFLrCtJxHGgh2y+cpFUHfgH6BpUZ4TSW3s36jh8SqPHbmkPxoUPLrdSgd0wca8dZR+47uDj5cFNNcz37ql70pIUbNfBkWBBg9h2ahrJhk1I7SkzRnRjl7TOMqLUJ6fK6W4wO5f+nw28SABK/68m0lNDDA3A3RVv/QbmiJVcdjQ9mYjQRvLr66pEq1z4G+mhndqqcupt2Bl21fow==; Path=/; HttpOnly
+Set-Cookie: DPJSESSIONID=PBC5YS:17816125; Path=/; Domain=.cde-prod.ng.bluemix.net
+X-Cde-Batch-Size: 500
+X-Cf-Requestid: 01c37ec9-d59b-486f-7fda-11572708a04a
+X-Client-Ip: 75.126.167.75,199.246.40.54
+X-Global-Transaction-Id: 75712499
+X-Powered-By: Servlet/3.0
+X-Archived-Client-IP: 75.126.167.75
+

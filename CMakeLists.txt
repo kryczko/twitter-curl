@@ -4,9 +4,6 @@
 
 cmake_minimum_required( VERSION 2.6 )
 
-include_directories( src/dependencies/curl )
-include_directories( src/dependencies/yaml-cpp )
-
 project(twitter-curl)
 
 aux_source_directory(

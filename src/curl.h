@@ -91,17 +91,17 @@ int c_curl(char* url, char* head, char* body) {
       return 0;
 }
 
-bool curl(Item& q, Global_Info& i) {
+bool curl(Item* q, Global_Info* i) {
     /* Since we are using a C library, we need to convert
        the strings to chars. In C++, it is much more conv
        enient to use string.                             */
     
     char char_url[1024], char_head[1024], char_body[1024];
-    strncpy(char_url, (i.total + q.currentquery()).c_str(), sizeof(char_url));
-    strncpy(char_head, q.currentheader().c_str(), sizeof(char_head));
-    strncpy(char_body, q.currentbody().c_str(), sizeof(char_body));
+    strncpy(char_url, (i->total + q->currentquery()).c_str(), sizeof(char_url));
+    strncpy(char_head, q->currentheader().c_str(), sizeof(char_head));
+    strncpy(char_body, q->currentbody().c_str(), sizeof(char_body));
     if (!c_curl(char_url, char_head, char_body)) {
-        std::cout << "*** Success with curl for: " << q.title << "  |  date: " << q.current.tm_year + 1900 << "-" << q.current.tm_mon + 1 << "-" << q.current.tm_mday << " ***\n";
+        std::cout << "*** Success with curl for: " << q->title << "  |  date: " << q->current.tm_year + 1900 << "-" << q->current.tm_mon + 1 << "-" << q->current.tm_mday << " ***\n";
         return true;
     } 
     return false;

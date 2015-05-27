@@ -1,14 +1,25 @@
 #include "curl.h"
 #include "info.h"
+#include <vector>
+#include <thread> 
+
+void do_work(Item* q, Global_Info* my_info) {
+    while (difftime(q->t_end, q->t_current) > 0) {
+      if (!curl(q, my_info)) { 
+            std::cout << "#####\nERROR: Could not curl the query with title: " << q->title << ". Exiting...\n#####\n"; 
+            exit(-1);
+        }
+        q->update_current_time(); 
+    }
+}
 
 void call_api(Global_Info& my_info) { 
+    Global_Info* my_info_pointer = &my_info;
+    std::vector<std::thread> my_threads;
     for (auto& q : my_info.config.queries) {
-        while (std::difftime(q.t_end, q.t_current) > 0) {
-          if (!curl(q, my_info)) { 
-                std::cout << "#####\nERROR: Could not curl the query with title: " << q.title << ". Exiting...\n#####\n"; 
-                exit(-1);
-            }
-            q.update_current_time(); 
-        }
+        my_threads.push_back(std::thread (do_work, &q, my_info_pointer));
+    }
+    for (auto& t : my_threads) {
+        t.join();
     }
 }
