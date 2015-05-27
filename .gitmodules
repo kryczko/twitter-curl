@@ -1,0 +1,6 @@
+[submodule "src/dependencies/curl"]
+	path = src/dependencies/curl
+	url = git@github.com:bagder/curl.git
+[submodule "src/dependencies/yaml-cpp"]
+	path = src/dependencies/yaml-cpp
+	url = git@github.com:jbeder/yaml-cpp.git
