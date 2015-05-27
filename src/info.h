@@ -1,6 +1,8 @@
 #ifndef _INFO_H_
 #define _INFO_H_
- 
+
+#include <vector>
+
 const int s_in_day = 24 * 60 * 60;
 
 class Date {
@@ -18,44 +20,47 @@ public:
     std::tm current, end, next_day;
     
     void init_times() {
+        current = *localtime(&t_current);
+        end = *localtime(&t_end);
+        next_day = *localtime(&day_ahead);
         current.tm_year = startdate.year - 1900;
         current.tm_mon = startdate.month - 1;
         current.tm_mday = startdate.day;
+        next_day.tm_year = startdate.year - 1900;
+        next_day.tm_mon = startdate.month - 1;
+        next_day.tm_mday = startdate.day + 1;
         end.tm_year = enddate.year - 1900;
         end.tm_mon = enddate.month - 1;
         end.tm_mday = enddate.day;
         t_current = std::mktime(&current);
+        day_ahead = std::mktime(&next_day);
         t_end = std::mktime(&end);
         currentdate = startdate;
     } 
     
     void update_current_time() {
-        t_current += s_in_day;
-        day_ahead = t_current + s_in_day;
-        currentdate.year = current.tm_year + 1900;
-        currentdate.month = current.tm_mon + 1;
-        currentdate.day = current.tm_mday;
-        nextdate.year = next_day.tm_year + 1900;
-        nextdate.month = next_day.tm_mon + 1;
-        nextdate.day = next_day.tm_mday; 
+        current.tm_mday += 1;
+        next_day.tm_mday = current.tm_mday + 1;
+        t_current = std::mktime(&current);
+        day_ahead = std::mktime(&next_day);
     }
     
     std::string currentheader() {
         char header[1024];
-        int n = sprintf(header, "queries/%s_%d-%02d-%02d.head", title.c_str(), currentdate.year, currentdate.month, currentdate.day);
+        int n = sprintf(header, "queries/%s_%d-%02d-%02d.head", title.c_str(), current.tm_year + 1900, current.tm_mon + 1, current.tm_mday);
         return header;
     }
     
     std::string currentbody() {
         char body[1024];
-        int n = sprintf(body, "queries/%s_%d-%02d-%02d.body", title.c_str(), currentdate.year, currentdate.month, currentdate.day);
+        int n = sprintf(body, "queries/%s_%d-%02d-%02d.body", title.c_str(), current.tm_year + 1900, current.tm_mon + 1, current.tm_mday);
         return body;
     }
     
     std::string currentquery() {
         char start[100], end[100];
-        int n = sprintf(start, "%d-%02d-%02d", currentdate.year, currentdate.month, currentdate.day);
-        n = sprintf(end, "%d-%02d-%02d", enddate.year, enddate.month, enddate.day);
+        int n = sprintf(start, "%d-%02d-%02d", current.tm_year + 1900, current.tm_mon + 1, current.tm_mday);
+        n = sprintf(end, "%d-%02d-%02d", next_day.tm_year + 1900, next_day.tm_mon + 1, next_day.tm_mday);
         return query + "%20posted%3A" + start + "%2C" + end + "&size=500";
     }
     

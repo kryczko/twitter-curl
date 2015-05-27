@@ -101,7 +101,7 @@ bool curl(Item& q, Global_Info& i) {
     strncpy(char_head, q.currentheader().c_str(), sizeof(char_head));
     strncpy(char_body, q.currentbody().c_str(), sizeof(char_body));
     if (!c_curl(char_url, char_head, char_body)) {
-        std::cout << "*** Success with curl for: " << q.title << " ***\n";
+        std::cout << "*** Success with curl for: " << q.title << "  |  date: " << q.current.tm_year + 1900 << "-" << q.current.tm_mon + 1 << "-" << q.current.tm_mday << " ***\n";
         return true;
     } 
     return false;
