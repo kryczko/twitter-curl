@@ -2,6 +2,10 @@
 #include "info.h"
 
 #include <iostream>
+#include <stdlib.h>
+#include <stdio.h>
+
+#include <string>
 
 void get_config(Global_Info& my_info) {
     YAML::Node config = YAML::LoadFile("query_input.yaml");
