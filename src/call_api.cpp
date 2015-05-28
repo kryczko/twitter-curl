@@ -2,7 +2,6 @@
 #include "info.h"
 #include <vector>
 #include <cstdlib>
-#include "omp.h"
 
 void do_work(Item* q, Global_Info* my_info) {
     while (difftime(q->t_end, q->t_current) > 0) {
@@ -17,7 +16,6 @@ void do_work(Item* q, Global_Info* my_info) {
 void call_api(Global_Info& my_info) { 
     //Global_Info* my_info_pointer = &my_info;
     //std::vector<std::thread> my_threads;
-    #pragma omp parallel for
     for (int i = 0; i < my_info.config.queries.size(); i ++) {
         //my_threads.push_back(std::thread (do_work, &q, &my_info));
         Item& q = my_info.config.queries[i];
