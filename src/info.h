@@ -2,6 +2,8 @@
 #define _INFO_H_
 
 #include <vector>
+#include <cstdlib>
+#include <string>
 
 const int s_in_day = 24 * 60 * 60;
 
