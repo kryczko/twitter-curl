@@ -81,11 +81,8 @@ public:
     
     Config config;
     
-    Global_Info(std::string u, std::string p, std::string h) {
-        this->username = u;
-        this->password = p;
-        this->hostname = h;
-        this->total = "https://" + u + ":" + p + "@" + h;
+    void set_url() {
+        this->total = "https://" + this->username + ":" + this->password + "@" + this->hostname;
     }
 };
 

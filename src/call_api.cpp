@@ -14,12 +14,14 @@ void do_work(Item* q, Global_Info* my_info) {
 }
 
 void call_api(Global_Info& my_info) { 
-    Global_Info* my_info_pointer = &my_info;
-    std::vector<std::thread> my_threads;
+    //Global_Info* my_info_pointer = &my_info;
+    //std::vector<std::thread> my_threads;
     for (auto& q : my_info.config.queries) {
-        my_threads.push_back(std::thread (do_work, &q, my_info_pointer));
+        //my_threads.push_back(std::thread (do_work, &q, &my_info));
+        do_work(&q, &my_info);
     }
-    for (auto& t : my_threads) {
+    
+    /*for (auto& t : my_threads) {
         t.join();
-    }
+    }*/
 }

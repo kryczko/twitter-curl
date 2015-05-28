@@ -2,3 +2,21 @@ Twitter-curl
 ------------
 
 This repository used the curl command to probe the Twitter API, pulling JSON. This repository is likely to go private.
+
+DEPENDENCIES:
+    curl: found in twitter-curl/src/dependencies/curl
+            RUN: cmake . && make && sudo make install
+
+    yaml-cpp: found in twitter-curl/src/dependencies/yaml-cpp
+            RUN: cmake . && make && sudo make install
+
+COMPILING:
+    In the top level directory of twitter-curl RUN:
+        
+        cmake . && make && ./twitter-curl
+
+USAGE:
+    For best results, edit the query_input.yaml file. This is where you can set your queries and the starting and stop times of when you want to stop. 
+
+DESCRIPTION:
+    This code will call the Twitter API every day between two specified days. The code can handle crossing months and years and is therefore very robust to recieve tweets to be stored elsewhere (like a database).

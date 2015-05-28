@@ -6,6 +6,10 @@
 void get_config(Global_Info& my_info) {
     YAML::Node config = YAML::LoadFile("query_input.yaml");
     YAML::Node queries = config["queries"];
+    YAML::Node cred = config["twitter-api"];
+    my_info.username = cred["username"].as<std::string>();
+    my_info.password = cred["password"].as<std::string>();
+    
     for (int i = 0; i < queries.size(); i ++) {
         Item item;
         item.title = queries[i]["title"].as<std::string>();

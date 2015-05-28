@@ -13,10 +13,10 @@ int main(int argc, char * argv[]) {
     
     system("mkdir -p queries");
     // Credentials from Twitter
-    Global_Info my_info("b35e1f53fef9d989e102dc24de1b4c7b", "PIOpd1CE0Z", "cdeservice.mybluemix.net:443/api/v1/messages/search?q=");
-    
+    Global_Info my_info;
+    my_info.hostname = "cdeservice.mybluemix.net:443/api/v1/messages/search?q=";
     get_config(my_info);
-    
+    my_info.set_url();
     call_api(my_info);
     
     return 0;

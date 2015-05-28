@@ -1,5 +1,9 @@
 # NOTE: The query string must be in unicode UTF-8
 
+twitter-api:
+    username: b35e1f53fef9d989e102dc24de1b4c7b
+    password: PIOpd1CE0Z
+
 queries:
     - title: DB2
       query: DB2
