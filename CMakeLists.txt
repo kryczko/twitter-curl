@@ -11,7 +11,7 @@ aux_source_directory(
 	twitter-curl-src
 )
 
-add_definitions( -std=c++11 )
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fopenmp")
 
 add_executable (
 	twitter-curl 
