@@ -4,6 +4,7 @@
 #include <vector>
 #include <stdlib.h>
 #include <stdio.h>
+#include <iostream>
 
 #include <string>
 
@@ -44,7 +45,7 @@ public:
     
     void update_current_time() {
         current.tm_mday += 1;
-        next_day.tm_mday = current.tm_mday + 1;
+        next_day.tm_mday += 1;
         t_current = mktime(&current);
         day_ahead = mktime(&next_day);
     }
@@ -65,6 +66,7 @@ public:
         char start[100], end[100];
         int n = sprintf(start, "%d-%02d-%02d", current.tm_year + 1900, current.tm_mon + 1, current.tm_mday);
         n = sprintf(end, "%d-%02d-%02d", next_day.tm_year + 1900, next_day.tm_mon + 1, next_day.tm_mday);
+        std::cout << query + "%20posted%3A" + start + "%2C" + end + "&size=500" << "\n";
         return query + "%20posted%3A" + start + "%2C" + end + "&size=500";
     }
     
