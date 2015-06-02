@@ -58,13 +58,13 @@ public:
     
     std::string currentheader() {
         char header[1024];
-        int n = sprintf(header, "queries/%s_%d-%02d-%02d.head", title.c_str(), current.tm_year + 1900, current.tm_mon + 1, current.tm_mday);
+        int n = sprintf(header, "queries/headers/%s_%d-%02d-%02d.head", title.c_str(), current.tm_year + 1900, current.tm_mon + 1, current.tm_mday);
         return header;
     }
     
     std::string currentbody() {
         char body[1024];
-        int n = sprintf(body, "queries/%s_%d-%02d-%02d.body", title.c_str(), current.tm_year + 1900, current.tm_mon + 1, current.tm_mday);
+        int n = sprintf(body, "queries/bodies/%s_%d-%02d-%02d.body", title.c_str(), current.tm_year + 1900, current.tm_mon + 1, current.tm_mday);
         return body;
     }
     
