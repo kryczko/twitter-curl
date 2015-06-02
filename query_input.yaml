@@ -8,11 +8,11 @@ queries:
     - title: DB2
       query: DB2
       startdate: 
-          year: 2014
-          month: 12
-          day: 29
+          startyear: 2014
+          startmonth: 12
+          startday: 29
       enddate:
-          year: 2015
-          month: 1
-          day: 2
+          endyear: 2015
+          endmonth: 1
+          endday: 2
     
