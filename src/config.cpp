@@ -18,14 +18,12 @@ void get_config(Global_Info& my_info) {
         Item item;
         item.title = queries[i]["title"].as<std::string>();
         item.query = queries[i]["query"].as<std::string>();
-        YAML::Node start = queries[i]["startdate"];
-        YAML::Node end = queries[i]["enddate"];
-        item.startdate.year = start["startyear"].as<int>();
-        item.startdate.month = start["startmonth"].as<int>();
-        item.startdate.day = start["startday"].as<int>();
-        item.enddate.year = end["endyear"].as<int>();
-        item.enddate.month = end["endmonth"].as<int>();
-        item.enddate.day = end["endday"].as<int>();
+        item.startdate.year = queries[i]["startyear"].as<int>();
+        item.startdate.month = queries[i]["startmonth"].as<int>();
+        item.startdate.day = queries[i]["startday"].as<int>();
+        item.enddate.year = queries[i]["endyear"].as<int>();
+        item.enddate.month = queries[i]["endmonth"].as<int>();
+        item.enddate.day = queries[i]["endday"].as<int>();
         item.init_times();
         my_info.config.queries.push_back(item);
     }
