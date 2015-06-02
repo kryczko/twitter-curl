@@ -84,13 +84,13 @@ int c_curl(char* url, char* head, char* body, char* date, char* title) {
       /* close the header file */ 
       fclose(headerfile);
       
-      fputs("{", bodyfile);
+      fputs("\{", bodyfile);
       char json_date[100], json_title[100];
       sprintf(json_date, "\"date\": %s,", date);
       sprintf(json_title, "\"title\": %s", title);
       fputs(json_date, bodyfile);
       fputs(json_title, bodyfile);
-      fputs("}", bodyfile);
+      fputs("\}", bodyfile);
  
       /* close the body file */ 
       fclose(bodyfile);
