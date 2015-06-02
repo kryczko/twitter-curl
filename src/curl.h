@@ -33,7 +33,7 @@ static size_t write_data(void *ptr, size_t size, size_t nmemb, void *stream)
   return written;
 }
 
-int c_curl(char* url, char* head, char* body) {
+int c_curl(char* url, char* head, char* body, char* date, char* title) {
       CURL *curl_handle;
       static const char *headerfilename = head;
       FILE *headerfile;
@@ -75,6 +75,7 @@ int c_curl(char* url, char* head, char* body) {
       /* we want the body be written to this file handle instead of stdout */ 
       curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, bodyfile);
       
+      
       /* get it! */ 
       if (curl_easy_perform(curl_handle)) {
           return -1;
@@ -82,6 +83,14 @@ int c_curl(char* url, char* head, char* body) {
  
       /* close the header file */ 
       fclose(headerfile);
+      
+      fputs("{", bodyfile);
+      char json_date[100], json_title[100];
+      sprintf(json_date, "date: %s,", date);
+      sprintf(json_title, "title: %s", title);
+      fputs(json_date, bodyfile);
+      fputs(json_title, bodyfile);
+      fputs("}", bodyfile);
  
       /* close the body file */ 
       fclose(bodyfile);
@@ -96,11 +105,13 @@ bool curl(Item* q, Global_Info* i) {
        the strings to chars. In C++, it is much more conv
        enient to use string.                             */
     
-    char char_url[1024], char_head[1024], char_body[1024];
+    char char_url[1024], char_head[1024], char_body[1024], char_date[1024], char_title[1024];
     strncpy(char_url, (i->total + q->currentquery()).c_str(), sizeof(char_url));
     strncpy(char_head, (q->currentheader() + ".js").c_str(), sizeof(char_head));
     strncpy(char_body, (q->currentbody() + ".js").c_str(), sizeof(char_body));
-    if (!c_curl(char_url, char_head, char_body)) {
+    strncpy(char_date, (q->current_date()).c_str(), sizeof(char_date));
+    strncpy(char_title, (q->title).c_str(), sizeof(char_title));
+    if (!c_curl(char_url, char_head, char_body, char_date, char_title)) {
         std::cout << "*** Success with curl for: " << q->title << "  |  date: " << q->current.tm_year + 1900 << "-" << q->current.tm_mon + 1 << "-" << q->current.tm_mday << " ***\n";
         return true;
     } 

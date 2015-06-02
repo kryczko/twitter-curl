@@ -50,6 +50,12 @@ public:
         day_ahead = mktime(&next_day);
     }
     
+    std::string current_date() {
+        char date[1024];
+        int n = sprintf(date, "%d-%02d-%02d", current.tm_year + 1900, current.tm_mon + 1, current.tm_mday);
+        return date;
+    }
+    
     std::string currentheader() {
         char header[1024];
         int n = sprintf(header, "queries/%s_%d-%02d-%02d.head", title.c_str(), current.tm_year + 1900, current.tm_mon + 1, current.tm_mday);
