@@ -72,7 +72,7 @@ int c_curl(char* url, char* head, char* body, char* date, char* title) {
       /* we want the headers be written to this file handle */ 
       curl_easy_setopt(curl_handle, CURLOPT_HEADERDATA, headerfile);
  
-      fputs("[", bodyfile);
+      fputs("{\"content:\"[", bodyfile);
       
       /* we want the body be written to this file handle instead of stdout */ 
       curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, bodyfile);
@@ -88,7 +88,7 @@ int c_curl(char* url, char* head, char* body, char* date, char* title) {
       
       char json_date[100], json_title[100];
       sprintf(json_date, ",{\"date\": %s,", date);
-      sprintf(json_title, "\"title\": %s}]", title);
+      sprintf(json_title, "\"title\": %s}]}", title);
       fputs(json_date, bodyfile);
       fputs(json_title, bodyfile);
  
