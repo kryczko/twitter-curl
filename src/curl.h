@@ -72,7 +72,7 @@ int c_curl(char* url, char* head, char* body, char* date, char* title) {
       /* we want the headers be written to this file handle */ 
       curl_easy_setopt(curl_handle, CURLOPT_HEADERDATA, headerfile);
  
-      fputs("{\"content\":{", bodyfile);
+      fputs("{\"content\":", bodyfile);
       
       /* we want the body be written to this file handle instead of stdout */ 
       curl_easy_setopt(curl_handle, CURLOPT_WRITEDATA, bodyfile);
