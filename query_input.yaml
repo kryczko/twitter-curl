@@ -5,14 +5,14 @@ twitter-api:
     password: PIOpd1CE0Z
 
 queries:
-    - title: DB2
-      query: Database%20AND%2012C%20AND%20%28features%20OR%20happy%20OR%20love%20OR%20like%20OR%20enjoy%20OR%20great%20OR%20awesome%20OR%20helpful%29 
+    - title: Mysql
+      query: mysql
       startdate: 
-          startyear: 2014
-          startmonth: 12
-          startday: 29
+        startyear: 2013
+        startmonth:  11
+        startday:  1
       enddate:
-          endyear: 2015
-          endmonth: 1
-          endday: 2
+        endyear: 2015
+        endmonth:  6
+        endday:  1
     
