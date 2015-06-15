@@ -33,7 +33,7 @@ static size_t write_data(void *ptr, size_t size, size_t nmemb, void *stream)
   return written;
 }
 
-int c_curl(char* url, char* head, char* body, char* date, char* title) {
+int curl_to_file(char* url, char* head, char* body, char* date, char* title) {
       CURL *curl_handle;
       static const char *headerfilename = head;
       FILE *headerfile;
@@ -72,7 +72,7 @@ int c_curl(char* url, char* head, char* body, char* date, char* title) {
       /* we want the headers be written to this file handle */ 
       curl_easy_setopt(curl_handle, CURLOPT_HEADERDATA, headerfile);
  
-      fputs("{\"content\":[", bodyfile);
+      fputs("{\"content\":{\"added\":", bodyfile);
       char json_date[100], json_title[100];
       sprintf(json_date, "{\"date\": \"%s\",", date);
       sprintf(json_title, "\"title\": \"%s\"},", title);
@@ -90,7 +90,7 @@ int c_curl(char* url, char* head, char* body, char* date, char* title) {
  
       /* close the header file */ 
       fclose(headerfile);
-      fputs("]}", bodyfile);
+      fputs("}}", bodyfile);
       /* close the body file */ 
       fclose(bodyfile);
  
@@ -99,7 +99,7 @@ int c_curl(char* url, char* head, char* body, char* date, char* title) {
       return 0;
 }
 
-bool curl(Item* q, Global_Info* i) {
+bool curl_file(Item* q, Global_Info* i) {
     /* Since we are using a C library, we need to convert
        the strings to chars. In C++, it is much more conv
        enient to use string.                             */
@@ -110,7 +110,7 @@ bool curl(Item* q, Global_Info* i) {
     strncpy(char_body, (q->currentbody() + ".js").c_str(), sizeof(char_body));
     strncpy(char_date, (q->current_date()).c_str(), sizeof(char_date));
     strncpy(char_title, (q->title).c_str(), sizeof(char_title));
-    if (!c_curl(char_url, char_head, char_body, char_date, char_title)) {
+    if (!curl_to_file(char_url, char_head, char_body, char_date, char_title)) {
         std::cout << "*** Success with curl for: " << q->title << "  |  date: " << q->current.tm_year + 1900 << "-" << q->current.tm_mon + 1 << "-" << q->current.tm_mday << " ***\n";
         return true;
     } 

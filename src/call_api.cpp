@@ -1,11 +1,11 @@
-#include "curl.h"
+#include "curl-memory.h"
 #include "info.h"
 #include <vector>
 #include <cstdlib>
 
 void do_work(Item* q, Global_Info* my_info) {
     while (difftime(q->t_end, q->t_current) > 0) {
-      if (!curl(q, my_info)) { 
+      if (!curl_string(q, my_info)) { 
             std::cout << "#####\nERROR: Could not curl the query with title: " << q->title << ". Exiting...\n#####\n"; 
             exit(-1);
         }

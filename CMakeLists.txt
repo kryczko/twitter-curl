@@ -20,5 +20,6 @@ target_link_libraries (
 	twitter-curl
 	curl
 	yaml-cpp
+	jsoncpp
 )
 
