@@ -1,0 +1,5333 @@
+{
+	"date" : "2014-12-25",
+	"related" : 
+	{
+		"next" : 
+		{
+			"href" : "https://cdeservice.mybluemix.net/api/v1/messages/search?q=DB2+posted%3A2014-12-25%2C2014-12-26&from=32&size=500"
+		}
+	},
+	"search" : 
+	{
+		"current" : 32,
+		"results" : 32
+	},
+	"title" : "DB2",
+	"tweets" : 
+	[
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "Denmark",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Jørn Thyssen",
+					"favoritesCount" : 7,
+					"followersCount" : 30,
+					"friendsCount" : 93,
+					"id" : "id:twitter.com:97288586",
+					"image" : "https://pbs.twimg.com/profile_images/2241445571/1b2e286_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/JoernThyssen",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 2,
+					"location" : 
+					{
+						"displayName" : "Denmark",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-12-16T21:03:35.000Z",
+					"preferredUsername" : "JoernThyssen",
+					"statusesCount" : 423,
+					"summary" : "Soccer-fan and triathlete. Works at #IBM with #DB2 for z/OS on #systemZ. Views are personal.",
+					"twitterTimeZone" : "Athens",
+					"utcOffset" : "7200",
+					"verified" : false
+				},
+				"body" : "RT @IBM_IM_Support: 10-byte RBA/LRSN values in a log report for DB2 10 for z/OS #DB2zOS http://t.co/SQQwQHvMUP",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter for iPhone",
+					"link" : "http://twitter.com/download/iphone"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Denmark",
+								"countryCode" : "DK"
+							},
+							"displayName" : "Denmark",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									10,
+									56
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www-01.ibm.com/support/docview.wss?uid=swg21662480&myns=swgimgmt&mynp=OCSSZJXP&mync=R&cm_sp=swgimgmt-_-OCSSZJXP-_-R",
+							"url" : "http://t.co/SQQwQHvMUP"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548412552154480640",
+				"link" : "http://twitter.com/JoernThyssen/statuses/548412552154480640",
+				"object" : 
+				{
+					"actor" : 
+					{
+						"displayName" : "IBM IM Support",
+						"favoritesCount" : 2,
+						"followersCount" : 1963,
+						"friendsCount" : 441,
+						"id" : "id:twitter.com:92071084",
+						"image" : "https://pbs.twimg.com/profile_images/551795512/IBM_IM_square_half_green_normal.jpg",
+						"languages" : 
+						[
+							"en"
+						],
+						"link" : "http://www.twitter.com/IBM_IM_Support",
+						"links" : 
+						[
+							{
+								"href" : "http://www.ibm.com/software/data/support/",
+								"rel" : "me"
+							}
+						],
+						"listedCount" : 105,
+						"location" : 
+						{
+							"displayName" : "International",
+							"objectType" : "place"
+						},
+						"objectType" : "person",
+						"postedTime" : "2009-11-23T17:40:57.000Z",
+						"preferredUsername" : "IBM_IM_Support",
+						"statusesCount" : 7897,
+						"summary" : "Tweets for Informix, Infosphere, MDM, Optim, Guardium, Initiate, Netezza. Managed by Andrew McCarl and Kate Dawson. Follows IBM Social Computing Guidelines.",
+						"twitterTimeZone" : "Central Time (US & Canada)",
+						"utcOffset" : "-21600",
+						"verified" : false
+					},
+					"body" : "10-byte RBA/LRSN values in a log report for DB2 10 for z/OS #DB2zOS http://t.co/SQQwQHvMUP",
+					"favoritesCount" : 0,
+					"generator" : 
+					{
+						"displayName" : "Hootsuite",
+						"link" : "http://www.hootsuite.com"
+					},
+					"id" : "tag:search.twitter.com,2005:548387909993529344",
+					"link" : "http://twitter.com/IBM_IM_Support/statuses/548387909993529344",
+					"object" : 
+					{
+						"id" : "object:search.twitter.com,2005:548387909993529344",
+						"link" : "http://twitter.com/IBM_IM_Support/statuses/548387909993529344",
+						"objectType" : "note",
+						"postedTime" : "2014-12-26T08:00:40.000Z",
+						"summary" : "10-byte RBA/LRSN values in a log report for DB2 10 for z/OS #DB2zOS http://t.co/SQQwQHvMUP"
+					},
+					"objectType" : "activity",
+					"postedTime" : "2014-12-26T08:00:40.000Z",
+					"provider" : 
+					{
+						"displayName" : "Twitter",
+						"link" : "http://www.twitter.com",
+						"objectType" : "service"
+					},
+					"twitter_entities" : 
+					{
+						"hashtags" : 
+						[
+							{
+								"indices" : 
+								[
+									60,
+									67
+								],
+								"text" : "DB2zOS"
+							}
+						],
+						"symbols" : [],
+						"trends" : [],
+						"urls" : 
+						[
+							{
+								"display_url" : "ibm.co/1ABqloE",
+								"expanded_url" : "http://ibm.co/1ABqloE",
+								"indices" : 
+								[
+									68,
+									90
+								],
+								"url" : "http://t.co/SQQwQHvMUP"
+							}
+						],
+						"user_mentions" : []
+					},
+					"twitter_filter_level" : "low",
+					"twitter_lang" : "en",
+					"verb" : "post"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T09:38:36.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 1,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								80,
+								87
+							],
+							"text" : "DB2zOS"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ibm.co/1ABqloE",
+							"expanded_url" : "http://ibm.co/1ABqloE",
+							"indices" : 
+							[
+								88,
+								110
+							],
+							"url" : "http://t.co/SQQwQHvMUP"
+						}
+					],
+					"user_mentions" : 
+					[
+						{
+							"id" : 92071084,
+							"id_str" : "92071084",
+							"indices" : 
+							[
+								3,
+								18
+							],
+							"name" : "IBM IM Support",
+							"screen_name" : "IBM_IM_Support"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "share"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Jobs Agent",
+					"favoritesCount" : 0,
+					"followersCount" : 1364,
+					"friendsCount" : 1989,
+					"id" : "id:twitter.com:2301408342",
+					"image" : "https://pbs.twimg.com/profile_images/427768511973183488/NwgwKEVh_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Jobsnotst_agent",
+					"links" : 
+					[
+						{
+							"href" : "http://dragplus.com/browse/jobs",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 24,
+					"objectType" : "person",
+					"postedTime" : "2014-01-20T13:32:26.000Z",
+					"preferredUsername" : "Jobsnotst_agent",
+					"statusesCount" : 218398,
+					"summary" : "jobs, employment, HR, career, careers, technical, sales",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Software Engineer – Mainframe COBOL / DB2 Focus at American Express (Baton Rouge, LA) http://t.co/HYinE4FjuR #jobs #hiring #careers",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IFTTT",
+					"link" : "http://ifttt.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://dragplus.com/web/go/?title=jobs&utm_source=twitter&utm_medium=link&utm_campaign=jobs&utm_term=jobs&url=http://www.simplyhired.com/job-id/s6r5pzvfqa/software-engineer-jobs/",
+							"url" : "http://t.co/HYinE4FjuR"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:547957175327678464",
+				"link" : "http://twitter.com/Jobsnotst_agent/statuses/547957175327678464",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:547957175327678464",
+					"link" : "http://twitter.com/Jobsnotst_agent/statuses/547957175327678464",
+					"objectType" : "note",
+					"postedTime" : "2014-12-25T03:29:05.000Z",
+					"summary" : "Software Engineer – Mainframe COBOL / DB2 Focus at American Express (Baton Rouge, LA) http://t.co/HYinE4FjuR #jobs #hiring #careers"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T03:29:05.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								109,
+								114
+							],
+							"text" : "jobs"
+						},
+						{
+							"indices" : 
+							[
+								115,
+								122
+							],
+							"text" : "hiring"
+						},
+						{
+							"indices" : 
+							[
+								123,
+								131
+							],
+							"text" : "careers"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ift.tt/1CEA2Hd",
+							"expanded_url" : "http://ift.tt/1CEA2Hd",
+							"indices" : 
+							[
+								86,
+								108
+							],
+							"url" : "http://t.co/HYinE4FjuR"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "New York"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Cameron Ross",
+					"favoritesCount" : 15,
+					"followersCount" : 231,
+					"friendsCount" : 106,
+					"id" : "id:twitter.com:2665543243",
+					"image" : "https://pbs.twimg.com/profile_images/491171627921457154/hBh-ragc_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Cam_Ross_IT",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobPro.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 5,
+					"location" : 
+					{
+						"displayName" : "New York, USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-07-21T10:38:04.000Z",
+					"preferredUsername" : "Cam_Ross_IT",
+					"statusesCount" : 35960,
+					"summary" : "Business Development Manager at http://www.ITJobPro.com",
+					"twitterTimeZone" : "Mountain Time (US & Canada)",
+					"utcOffset" : "-25200",
+					"verified" : false
+				},
+				"body" : "☆ JOB ALERT ☆ #ITJob #Job #Baltimore - Oracle/DB2 Database Lead http://t.co/xRXADmGi4A ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "New York"
+							},
+							"displayName" : "New York, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-75.499899999999997,
+									43.000349999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=ee94d403-d082-49bb-a26c-a4301cf9c117&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/xRXADmGi4A"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548151234842992642",
+				"link" : "http://twitter.com/Cam_Ross_IT/statuses/548151234842992642",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548151234842992642",
+					"link" : "http://twitter.com/Cam_Ross_IT/statuses/548151234842992642",
+					"objectType" : "note",
+					"postedTime" : "2014-12-25T16:20:13.000Z",
+					"summary" : "☆ JOB ALERT ☆ #ITJob #Job #Baltimore - Oracle/DB2 Database Lead http://t.co/xRXADmGi4A ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T16:20:13.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								14,
+								20
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								21,
+								25
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								26,
+								36
+							],
+							"text" : "Baltimore"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7wjMb8",
+							"expanded_url" : "http://dlvr.it/7wjMb8",
+							"indices" : 
+							[
+								64,
+								86
+							],
+							"url" : "http://t.co/xRXADmGi4A"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "TORONTO",
+						"country" : "CANADA",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "SLIM Enterprises",
+					"favoritesCount" : 14329,
+					"followersCount" : 65070,
+					"friendsCount" : 6724,
+					"id" : "id:twitter.com:85707941",
+					"image" : "https://pbs.twimg.com/profile_images/1898978670/SLIM_S_Logo_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/EmceeSLIM",
+					"links" : 
+					[
+						{
+							"href" : "http://www.SLIM-ENT.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 307,
+					"location" : 
+					{
+						"displayName" : "TORONTO - INTERNATIONAL",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-10-28T00:54:47.000Z",
+					"preferredUsername" : "EmceeSLIM",
+					"statusesCount" : 152458,
+					"summary" : "#SLIM #Enterprises | #Toronto | #International http://www.SLIM-ENT.com #Technology | #Multimedia |  #Outsourcing | #Telecom | #RealEstate ++ → info@slim-ent.com",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "1950 Aston Martin DB2 #astonmartin #vintagecars #roadtrip http://t.co/TvRZodpUUD",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter Web Client",
+					"link" : "http://twitter.com"
+				},
+				"id" : "tag:search.twitter.com,2005:548355330770743296",
+				"link" : "http://twitter.com/EmceeSLIM/statuses/548355330770743296",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548355330770743296",
+					"link" : "http://twitter.com/EmceeSLIM/statuses/548355330770743296",
+					"objectType" : "note",
+					"postedTime" : "2014-12-26T05:51:13.000Z",
+					"summary" : "1950 Aston Martin DB2 #astonmartin #vintagecars #roadtrip http://t.co/TvRZodpUUD"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T05:51:13.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 1,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								22,
+								34
+							],
+							"text" : "astonmartin"
+						},
+						{
+							"indices" : 
+							[
+								35,
+								47
+							],
+							"text" : "vintagecars"
+						},
+						{
+							"indices" : 
+							[
+								48,
+								57
+							],
+							"text" : "roadtrip"
+						}
+					],
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/TvRZodpUUD",
+							"expanded_url" : "http://twitter.com/EmceeSLIM/status/548355330770743296/photo/1",
+							"id" : 548355330330353664,
+							"id_str" : "548355330330353664",
+							"indices" : 
+							[
+								58,
+								80
+							],
+							"media_url" : "http://pbs.twimg.com/media/B5wmRIMIYAAgwpC.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B5wmRIMIYAAgwpC.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 720,
+									"resize" : "fit",
+									"w" : 960
+								},
+								"medium" : 
+								{
+									"h" : 450,
+									"resize" : "fit",
+									"w" : 600
+								},
+								"small" : 
+								{
+									"h" : 255,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/TvRZodpUUD"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_extended_entities" : 
+				{
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/TvRZodpUUD",
+							"expanded_url" : "http://twitter.com/EmceeSLIM/status/548355330770743296/photo/1",
+							"id" : 548355330330353664,
+							"id_str" : "548355330330353664",
+							"indices" : 
+							[
+								58,
+								80
+							],
+							"media_url" : "http://pbs.twimg.com/media/B5wmRIMIYAAgwpC.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B5wmRIMIYAAgwpC.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 720,
+									"resize" : "fit",
+									"w" : 960
+								},
+								"medium" : 
+								{
+									"h" : 450,
+									"resize" : "fit",
+									"w" : 600
+								},
+								"small" : 
+								{
+									"h" : 255,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/TvRZodpUUD"
+						}
+					]
+				},
+				"twitter_filter_level" : "low",
+				"twitter_lang" : "tl",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IBM DB2",
+					"favoritesCount" : 1822,
+					"followersCount" : 4586,
+					"friendsCount" : 1835,
+					"id" : "id:twitter.com:116565980",
+					"image" : "https://pbs.twimg.com/profile_images/483975598096654338/ww-R8m6T_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/IBM_DB2",
+					"links" : 
+					[
+						{
+							"href" : "http://ibm.com/db2",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 222,
+					"objectType" : "person",
+					"postedTime" : "2010-02-22T22:58:27.000Z",
+					"preferredUsername" : "IBM_DB2",
+					"statusesCount" : 11164,
+					"summary" : "The official Twitter account for IBM DB2 for Linux, Unix and Windows. Managed by @susvis, @basir5283 and @jsnburns. Follows IBM Social Computing Guidlines.",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "A look at the cost-benefit comparison of #DB2 10.5 and #Oracle offerings - http://t.co/QXHOY9GC3D",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "TweetDeck",
+					"link" : "https://about.twitter.com/products/tweetdeck"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 403,
+							"expanded_url" : "https://db2guys.wordpress.com/2014/05/27/comparison-db2-oracle/",
+							"url" : "http://t.co/QXHOY9GC3D"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548600175137001474",
+				"link" : "http://twitter.com/IBM_DB2/statuses/548600175137001474",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548600175137001474",
+					"link" : "http://twitter.com/IBM_DB2/statuses/548600175137001474",
+					"objectType" : "note",
+					"postedTime" : "2014-12-26T22:04:08.000Z",
+					"summary" : "A look at the cost-benefit comparison of #DB2 10.5 and #Oracle offerings - http://t.co/QXHOY9GC3D"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T22:04:08.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								41,
+								45
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								55,
+								62
+							],
+							"text" : "Oracle"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1wQPv2c",
+							"expanded_url" : "http://bit.ly/1wQPv2c",
+							"indices" : 
+							[
+								75,
+								97
+							],
+							"url" : "http://t.co/QXHOY9GC3D"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Don Guzz",
+					"favoritesCount" : 1,
+					"followersCount" : 141,
+					"friendsCount" : 42,
+					"id" : "id:twitter.com:43609269",
+					"image" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/guzogang",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 10,
+					"objectType" : "person",
+					"postedTime" : "2009-05-30T22:48:12.000Z",
+					"preferredUsername" : "guzogang",
+					"statusesCount" : 143437,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Java with DB2 &amp; Stored Procedure http://t.co/dtLEC1PjQw",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Google",
+					"link" : "http://www.google.com/"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://jobs.monster.com.sg/details/16275016.html",
+							"url" : "http://t.co/dtLEC1PjQw"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548408843571458048",
+				"link" : "http://twitter.com/guzogang/statuses/548408843571458048",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548408843571458048",
+					"link" : "http://twitter.com/guzogang/statuses/548408843571458048",
+					"objectType" : "note",
+					"postedTime" : "2014-12-26T09:23:51.000Z",
+					"summary" : "Java with DB2 &amp; Stored Procedure http://t.co/dtLEC1PjQw"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T09:23:51.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "goo.gl/fb/xgWZHF",
+							"expanded_url" : "http://goo.gl/fb/xgWZHF",
+							"indices" : 
+							[
+								37,
+								59
+							],
+							"url" : "http://t.co/dtLEC1PjQw"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Dell_Toad",
+					"favoritesCount" : 117,
+					"followersCount" : 1581,
+					"friendsCount" : 1241,
+					"id" : "id:twitter.com:15456653",
+					"image" : "https://pbs.twimg.com/profile_images/3443136057/f07479c603cf4aaae8c008a89f516756_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Dell_Toad",
+					"links" : 
+					[
+						{
+							"href" : "http://www.toadworld.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 112,
+					"objectType" : "person",
+					"postedTime" : "2008-07-16T16:57:36.000Z",
+					"preferredUsername" : "Dell_Toad",
+					"statusesCount" : 3111,
+					"summary" : "De facto standard for Information Management, DBAs, database developers and analysts.",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "RT @MichaelMicalizz: See all the new features just added to Toad for #DB2! New user interface, Predictive Space Growth &amp; more http://t.co/5fuHubknEo @Dell_Toad",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Sprinklr",
+					"link" : "http://www.sprinklr.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.toadworld.com/products/toad-for-ibm-db2/m/media-library/default.aspx",
+							"url" : "http://t.co/5fuHubknEo"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548538741976223745",
+				"link" : "http://twitter.com/Dell_Toad/statuses/548538741976223745",
+				"object" : 
+				{
+					"actor" : 
+					{
+						"displayName" : "Michael Micalizzi",
+						"favoritesCount" : 82,
+						"followersCount" : 143,
+						"friendsCount" : 276,
+						"id" : "id:twitter.com:1345452355",
+						"image" : "https://pbs.twimg.com/profile_images/378800000541113835/bf1862199fc0841924792668ecf311fb_normal.jpeg",
+						"languages" : 
+						[
+							"en"
+						],
+						"link" : "http://www.twitter.com/MichaelMicalizz",
+						"links" : 
+						[
+							{
+								"href" : null,
+								"rel" : "me"
+							}
+						],
+						"listedCount" : 13,
+						"location" : 
+						{
+							"displayName" : "Orange County, CA",
+							"objectType" : "place"
+						},
+						"objectType" : "person",
+						"postedTime" : "2013-04-11T22:35:29.000Z",
+						"preferredUsername" : "MichaelMicalizz",
+						"statusesCount" : 692,
+						"summary" : "Product Marketing Manager - Dell Software Enterprise DB Tools: Toad for DB2, Toad for Sybase, SQL Optimizer, Spotlight, Toad Data Modeler",
+						"twitterTimeZone" : "Pacific Time (US & Canada)",
+						"utcOffset" : "-28800",
+						"verified" : false
+					},
+					"body" : "See all the new features just added to Toad for #DB2! New user interface, Predictive Space Growth &amp; more http://t.co/5fuHubknEo @Dell_Toad",
+					"favoritesCount" : 1,
+					"generator" : 
+					{
+						"displayName" : "Hootsuite",
+						"link" : "http://www.hootsuite.com"
+					},
+					"id" : "tag:search.twitter.com,2005:546076280719167489",
+					"link" : "http://twitter.com/MichaelMicalizz/statuses/546076280719167489",
+					"object" : 
+					{
+						"id" : "object:search.twitter.com,2005:546076280719167489",
+						"link" : "http://twitter.com/MichaelMicalizz/statuses/546076280719167489",
+						"objectType" : "note",
+						"postedTime" : "2014-12-19T22:55:05.000Z",
+						"summary" : "See all the new features just added to Toad for #DB2! New user interface, Predictive Space Growth &amp; more http://t.co/5fuHubknEo @Dell_Toad"
+					},
+					"objectType" : "activity",
+					"postedTime" : "2014-12-19T22:55:05.000Z",
+					"provider" : 
+					{
+						"displayName" : "Twitter",
+						"link" : "http://www.twitter.com",
+						"objectType" : "service"
+					},
+					"twitter_entities" : 
+					{
+						"hashtags" : 
+						[
+							{
+								"indices" : 
+								[
+									48,
+									52
+								],
+								"text" : "DB2"
+							}
+						],
+						"symbols" : [],
+						"trends" : [],
+						"urls" : 
+						[
+							{
+								"display_url" : "bit.ly/1zFZtEC",
+								"expanded_url" : "http://bit.ly/1zFZtEC",
+								"indices" : 
+								[
+									109,
+									131
+								],
+								"url" : "http://t.co/5fuHubknEo"
+							}
+						],
+						"user_mentions" : 
+						[
+							{
+								"id" : 15456653,
+								"id_str" : "15456653",
+								"indices" : 
+								[
+									132,
+									142
+								],
+								"name" : "Dell_Toad",
+								"screen_name" : "Dell_Toad"
+							}
+						]
+					},
+					"twitter_filter_level" : "low",
+					"twitter_lang" : "en",
+					"verb" : "post"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T18:00:02.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 2,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								69,
+								73
+							],
+							"text" : "DB2"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1zFZtEC",
+							"expanded_url" : "http://bit.ly/1zFZtEC",
+							"indices" : 
+							[
+								130,
+								144
+							],
+							"url" : "http://t.co/5fuHubknEo"
+						}
+					],
+					"user_mentions" : 
+					[
+						{
+							"id" : 1345452355,
+							"id_str" : "1345452355",
+							"indices" : 
+							[
+								3,
+								19
+							],
+							"name" : "Michael Micalizzi",
+							"screen_name" : "MichaelMicalizz"
+						},
+						{
+							"id" : 15456653,
+							"id_str" : "15456653",
+							"indices" : 
+							[
+								143,
+								144
+							],
+							"name" : "Dell_Toad",
+							"screen_name" : "Dell_Toad"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "share"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IBM IM Support",
+					"favoritesCount" : 2,
+					"followersCount" : 1963,
+					"friendsCount" : 441,
+					"id" : "id:twitter.com:92071084",
+					"image" : "https://pbs.twimg.com/profile_images/551795512/IBM_IM_square_half_green_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/IBM_IM_Support",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ibm.com/software/data/support/",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 105,
+					"location" : 
+					{
+						"displayName" : "International",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-11-23T17:40:57.000Z",
+					"preferredUsername" : "IBM_IM_Support",
+					"statusesCount" : 7897,
+					"summary" : "Tweets for Informix, Infosphere, MDM, Optim, Guardium, Initiate, Netezza. Managed by Andrew McCarl and Kate Dawson. Follows IBM Social Computing Guidelines.",
+					"twitterTimeZone" : "Central Time (US & Canada)",
+					"utcOffset" : "-21600",
+					"verified" : false
+				},
+				"body" : "10-byte RBA/LRSN values in a log report for DB2 10 for z/OS #DB2zOS http://t.co/SQQwQHvMUP",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Hootsuite",
+					"link" : "http://www.hootsuite.com"
+				},
+				"id" : "tag:search.twitter.com,2005:548387909993529344",
+				"link" : "http://twitter.com/IBM_IM_Support/statuses/548387909993529344",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548387909993529344",
+					"link" : "http://twitter.com/IBM_IM_Support/statuses/548387909993529344",
+					"objectType" : "note",
+					"postedTime" : "2014-12-26T08:00:40.000Z",
+					"summary" : "10-byte RBA/LRSN values in a log report for DB2 10 for z/OS #DB2zOS http://t.co/SQQwQHvMUP"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T08:00:40.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 1,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								60,
+								67
+							],
+							"text" : "DB2zOS"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ibm.co/1ABqloE",
+							"expanded_url" : "http://ibm.co/1ABqloE",
+							"indices" : 
+							[
+								68,
+								90
+							],
+							"url" : "http://t.co/SQQwQHvMUP"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "low",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "DB2 z/OS Jobs",
+					"favoritesCount" : 0,
+					"followersCount" : 17,
+					"friendsCount" : 28,
+					"id" : "id:twitter.com:1171569350",
+					"image" : "https://pbs.twimg.com/profile_images/3242977443/c513d637f9e9fabae9a16780807eb6b8_normal.png",
+					"languages" : 
+					[
+						"de"
+					],
+					"link" : "http://www.twitter.com/ITJob_DB2",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobBoard.de",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Deutschland",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-02-12T10:32:48.000Z",
+					"preferredUsername" : "ITJob_DB2",
+					"statusesCount" : 1026,
+					"summary" : "Hier gibt's die aktuellen DB2 und z/OS Stellenangeobte von IT Job Board.de Impressum und weitere Jobs auf unserer Website! #karriere #jobs #ITjob",
+					"twitterTimeZone" : "Berlin",
+					"utcOffset" : "3600",
+					"verified" : false
+				},
+				"body" : "Java Entwickler (m/w) http://t.co/JptYkozhiy #karriere #DB2 #zOS",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "sv"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Germany",
+								"countryCode" : "DE"
+							},
+							"displayName" : "Germany",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									10.5,
+									51.5
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobboard.de/IT-Job/Java-Entwickler-mw/9420791/de/?xc=248&SearchTerms=DB2%20OR%20z%252FOS&OrderBy=1&Currency=EUR&utm_campaign=twitter&utm_source=ITJob_DB2&utm_medium=social%20media",
+							"url" : "http://t.co/JptYkozhiy"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:547914444571832320",
+				"link" : "http://twitter.com/ITJob_DB2/statuses/547914444571832320",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:547914444571832320",
+					"link" : "http://twitter.com/ITJob_DB2/statuses/547914444571832320",
+					"objectType" : "note",
+					"postedTime" : "2014-12-25T00:39:18.000Z",
+					"summary" : "Java Entwickler (m/w) http://t.co/JptYkozhiy #karriere #DB2 #zOS"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T00:39:18.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								45,
+								54
+							],
+							"text" : "karriere"
+						},
+						{
+							"indices" : 
+							[
+								55,
+								59
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								60,
+								64
+							],
+							"text" : "zOS"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1EgoSu3",
+							"expanded_url" : "http://bit.ly/1EgoSu3",
+							"indices" : 
+							[
+								22,
+								44
+							],
+							"url" : "http://t.co/JptYkozhiy"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "et",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "Barcelona",
+						"country" : "Spain",
+						"state" : "Catalonia"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Empleos IT BCN",
+					"favoritesCount" : 27,
+					"followersCount" : 911,
+					"friendsCount" : 1437,
+					"id" : "id:twitter.com:1110737520",
+					"image" : "https://pbs.twimg.com/profile_images/3146800337/140019e1138263bc958506df4d6fb936_normal.png",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/developerbcn",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 57,
+					"location" : 
+					{
+						"displayName" : "Barcelona",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-01-22T06:14:39.000Z",
+					"preferredUsername" : "developerbcn",
+					"statusesCount" : 90154,
+					"summary" : "Twitejem ofertes laborals per a programadors a Barcelona / Twiteamos ofertas de empleo para programadores en Barcelona. \r\n#feina #empleo #trabajo #Bcn #tic",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Analista Programador Cobol (Cisc, DB2) * http://t.co/iXldcLR9tR\n #empleo #trabajo #it #bcn",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Tweeting Aplication BCN",
+					"link" : "http://tweetempleo.diegoruizdelarbol.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "pt"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"locality" : "Barcelona",
+								"region" : "Catalonia"
+							},
+							"displayName" : "Barcelona, Catalonia, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									2.1589900000000002,
+									41.38879
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 400,
+							"expanded_url" : "http://www.infojobs.net/barcelona/analista-programador-cobol-cisc-db2/of-ia5d7a7d4424f30bac5941461b4aa14&navOrigen=ppl_c_pa_ofer_empl_opci_info_info&xtor=SEC-11-ADF-%5Bopcionempleo.infojobs.informatica.oferta_empleo%5D&xts=463787",
+							"url" : "http://t.co/iXldcLR9tR"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548166042867236865",
+				"link" : "http://twitter.com/developerbcn/statuses/548166042867236865",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548166042867236865",
+					"link" : "http://twitter.com/developerbcn/statuses/548166042867236865",
+					"objectType" : "note",
+					"postedTime" : "2014-12-25T17:19:03.000Z",
+					"summary" : "Analista Programador Cobol (Cisc, DB2) * http://t.co/iXldcLR9tR\n #empleo #trabajo #it #bcn"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T17:19:03.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								65,
+								72
+							],
+							"text" : "empleo"
+						},
+						{
+							"indices" : 
+							[
+								73,
+								81
+							],
+							"text" : "trabajo"
+						},
+						{
+							"indices" : 
+							[
+								82,
+								85
+							],
+							"text" : "it"
+						},
+						{
+							"indices" : 
+							[
+								86,
+								90
+							],
+							"text" : "bcn"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1zBzlNA",
+							"expanded_url" : "http://bit.ly/1zBzlNA",
+							"indices" : 
+							[
+								41,
+								63
+							],
+							"url" : "http://t.co/iXldcLR9tR"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "pt",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "Toyota",
+						"country" : "Japan",
+						"state" : "Aichi"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "しまづん",
+					"favoritesCount" : 57,
+					"followersCount" : 392,
+					"friendsCount" : 662,
+					"id" : "id:twitter.com:2597672802",
+					"image" : "https://pbs.twimg.com/profile_images/504017262479560704/TUo1J3jI_normal.jpeg",
+					"languages" : 
+					[
+						"ja"
+					],
+					"link" : "http://www.twitter.com/DUN_USSR",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 9,
+					"location" : 
+					{
+						"displayName" : "愛知県豊田市",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-07-01T09:21:06.000Z",
+					"preferredUsername" : "DUN_USSR",
+					"statusesCount" : 5249,
+					"summary" : "Showroom公式配信者。部屋名「しまづんのＳＲ交流場(別名:星部屋)」(お笑い・トーク枠）。「第１回talent from today」１位。ましらぶ(福岡三銃士＆営業)/奥井教（生徒会長）/檀家(ヲタ担当)/岡田軍(参謀)/まどかレンジャー(総司令官)/へんたい戦隊(イエロー) /バター＆チーズ帝国(配信担当)",
+					"twitterTimeZone" : "Tokyo",
+					"utcOffset" : "32400",
+					"verified" : false
+				},
+				"body" : "@bkbkngm がんばれいたん！私も夜バスでＤＢ２人で４列シートの最悪な環境でそっち向かってるから！ｗ",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Keitai Web",
+					"link" : "http://twtr.jp"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "ja"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Japan",
+								"countryCode" : "JP",
+								"locality" : "Toyota",
+								"region" : "Aichi"
+							},
+							"displayName" : "Toyota, Aichi, Japan",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									137.15000000000001,
+									35.083329999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548519515722481664",
+				"inReplyTo" : 
+				{
+					"link" : "http://twitter.com/bkbkngm/statuses/548494422325735424"
+				},
+				"link" : "http://twitter.com/DUN_USSR/statuses/548519515722481664",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548519515722481664",
+					"link" : "http://twitter.com/DUN_USSR/statuses/548519515722481664",
+					"objectType" : "note",
+					"postedTime" : "2014-12-26T16:43:38.000Z",
+					"summary" : "@bkbkngm がんばれいたん！私も夜バスでＤＢ２人で４列シートの最悪な環境でそっち向かってるから！ｗ"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T16:43:38.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : 
+					[
+						{
+							"id" : 637365156,
+							"id_str" : "637365156",
+							"indices" : 
+							[
+								0,
+								8
+							],
+							"name" : "REI@おつかれいたん！",
+							"screen_name" : "bkbkngm"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "ja",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "India",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IT Jobs, India",
+					"favoritesCount" : 0,
+					"followersCount" : 1344,
+					"friendsCount" : 0,
+					"id" : "id:twitter.com:123537533",
+					"image" : "https://pbs.twimg.com/profile_images/790482269/sm_it1_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/tech_career",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 50,
+					"location" : 
+					{
+						"displayName" : "India",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-03-16T11:48:44.000Z",
+					"preferredUsername" : "tech_career",
+					"statusesCount" : 77198,
+					"summary" : "Get latest job opportunities in Indian IT industry",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "AS400, RPG Developer, Other - India, 0 - 10 Year Exp,  , DB2,RPG,AS400,SQL http://t.co/UIPdrqEUVx",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IT jobs, India",
+					"link" : "http://monsterindia.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "India",
+								"countryCode" : "IN"
+							},
+							"displayName" : "India",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									77,
+									20
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://jobs.monsterindia.com/details/15869745.html?from=MSTWT&spl=IN_Twitter_feed&WT.mc_n=sk_feed_Twitter_IN",
+							"url" : "http://t.co/UIPdrqEUVx"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548547055107702784",
+				"link" : "http://twitter.com/tech_career/statuses/548547055107702784",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548547055107702784",
+					"link" : "http://twitter.com/tech_career/statuses/548547055107702784",
+					"objectType" : "note",
+					"postedTime" : "2014-12-26T18:33:04.000Z",
+					"summary" : "AS400, RPG Developer, Other - India, 0 - 10 Year Exp,  , DB2,RPG,AS400,SQL http://t.co/UIPdrqEUVx"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T18:33:04.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1ysubR4",
+							"expanded_url" : "http://bit.ly/1ysubR4",
+							"indices" : 
+							[
+								75,
+								97
+							],
+							"url" : "http://t.co/UIPdrqEUVx"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "Sevilla",
+						"country" : "Spain",
+						"state" : "Andalusia"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Trabajo en Sevilla",
+					"favoritesCount" : 1,
+					"followersCount" : 1729,
+					"friendsCount" : 1064,
+					"id" : "id:twitter.com:1702267376",
+					"image" : "https://pbs.twimg.com/profile_images/378800000364611159/7b33a75efe8274104cdd35426d4be702_normal.jpeg",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/TrabajoSevilla_",
+					"links" : 
+					[
+						{
+							"href" : "http://Trabajos.ORG/Sevilla",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 38,
+					"location" : 
+					{
+						"displayName" : "Sevilla (España)",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-08-26T15:48:50.000Z",
+					"preferredUsername" : "TrabajoSevilla_",
+					"statusesCount" : 20196,
+					"summary" : "Trabajo y Ofertas de Empleo en Sevilla y provincia  Difundimos empleo con hashtag #trabajosevilla Red de portales de #Trabajo y #Empleo  http://Trabajos.ORG",
+					"twitterTimeZone" : "Madrid",
+					"utcOffset" : "3600",
+					"verified" : false
+				},
+				"body" : "Bases de Datos DB2. Administradores/as http://t.co/Ol0BFxTCRa #empleo #trabajo #Sevilla #trabajosevilla",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IFTTT",
+					"link" : "http://ifttt.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "pt"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"locality" : "Sevilla",
+								"region" : "Andalusia"
+							},
+							"displayName" : "Sevilla, Andalusia, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-5.9761300000000004,
+									37.38241
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://trabajos.org/sevilla/bases-de-datos-db2-administradoresas/",
+							"url" : "http://t.co/Ol0BFxTCRa"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548458130401918978",
+				"link" : "http://twitter.com/TrabajoSevilla_/statuses/548458130401918978",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548458130401918978",
+					"link" : "http://twitter.com/TrabajoSevilla_/statuses/548458130401918978",
+					"objectType" : "note",
+					"postedTime" : "2014-12-26T12:39:42.000Z",
+					"summary" : "Bases de Datos DB2. Administradores/as http://t.co/Ol0BFxTCRa #empleo #trabajo #Sevilla #trabajosevilla"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T12:39:42.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								62,
+								69
+							],
+							"text" : "empleo"
+						},
+						{
+							"indices" : 
+							[
+								70,
+								78
+							],
+							"text" : "trabajo"
+						},
+						{
+							"indices" : 
+							[
+								79,
+								87
+							],
+							"text" : "Sevilla"
+						},
+						{
+							"indices" : 
+							[
+								88,
+								103
+							],
+							"text" : "trabajosevilla"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ift.tt/1H1YAcM",
+							"expanded_url" : "http://ift.tt/1H1YAcM",
+							"indices" : 
+							[
+								39,
+								61
+							],
+							"url" : "http://t.co/Ol0BFxTCRa"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "New York City",
+						"country" : "United States",
+						"state" : "New York"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Jobs @ Cynet Systems",
+					"favoritesCount" : 0,
+					"followersCount" : 159,
+					"friendsCount" : 0,
+					"id" : "id:twitter.com:357272565",
+					"image" : "https://pbs.twimg.com/profile_images/1591196445/CYNET_LOGO_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/cynetjobs",
+					"links" : 
+					[
+						{
+							"href" : "http://www.cynetsystems.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 5,
+					"location" : 
+					{
+						"displayName" : "New York City",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2011-08-18T03:22:12.000Z",
+					"preferredUsername" : "cynetjobs",
+					"statusesCount" : 48012,
+					"summary" : "Contract and Full Time Jobs in Technology, IT and Engineering Domain",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "Accepting Applications: DB2 DBA - Orlando, FL in Orlando, FL http://t.co/JKx2GNLUtu #job#db2dba",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Bullhorn Reach",
+					"link" : "http://www.bullhornreach.com/"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "New York City",
+								"region" : "New York"
+							},
+							"displayName" : "New York City, New York, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-74.005970000000005,
+									40.714269999999999
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 408,
+							"expanded_url" : "http://www.bullhornreach.com/job/1805905_db2-dba-orlando-fl-orlando-fl?utm_campaign=v1&shortlink=3797473&utm_content=3&utm_source=twitter.com&referer=None&utm_medium=referral",
+							"url" : "http://t.co/JKx2GNLUtu"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548124707145650176",
+				"link" : "http://twitter.com/cynetjobs/statuses/548124707145650176",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548124707145650176",
+					"link" : "http://twitter.com/cynetjobs/statuses/548124707145650176",
+					"objectType" : "note",
+					"postedTime" : "2014-12-25T14:34:48.000Z",
+					"summary" : "Accepting Applications: DB2 DBA - Orlando, FL in Orlando, FL http://t.co/JKx2GNLUtu #job#db2dba"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T14:34:48.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bull.hn/l/29E5D/3",
+							"expanded_url" : "http://bull.hn/l/29E5D/3",
+							"indices" : 
+							[
+								61,
+								83
+							],
+							"url" : "http://t.co/JKx2GNLUtu"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Charlotte",
+						"country" : "United States",
+						"state" : "North Carolina"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Urban Hitz Radio",
+					"favoritesCount" : 711,
+					"followersCount" : 1400,
+					"friendsCount" : 1148,
+					"id" : "id:twitter.com:225340650",
+					"image" : "https://pbs.twimg.com/profile_images/3424721247/d1111dabf5fd05d86d7fadde2be2e956_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/HitzNY",
+					"links" : 
+					[
+						{
+							"href" : "http://www.urbanradiousa.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 20,
+					"location" : 
+					{
+						"displayName" : "Charlotte NC",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-12-11T09:58:21.000Z",
+					"preferredUsername" : "HitzNY",
+					"statusesCount" : 234555,
+					"summary" : "WUHR-DB.:: Urban Hitz Radio™ ::. The People's Choice...WHERE R&B and HIP HOP CONNECT!   FLAC/320/HQ ONLY!",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "Now Playing on Urban Hitz Radio: DB2 - Never Let You Go ...Listen Now - http://t.co/1m8F6phaAs",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "SAM Broadcaster Song Info",
+					"link" : "http://www.sam-song.info"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Charlotte",
+								"region" : "North Carolina",
+								"subRegion" : "Mecklenburg County"
+							},
+							"displayName" : "Charlotte, North Carolina, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-80.843130000000002,
+									35.227089999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.urbanradiousa.com",
+							"url" : "http://t.co/1m8F6phaAs"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548455314774044673",
+				"link" : "http://twitter.com/HitzNY/statuses/548455314774044673",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548455314774044673",
+					"link" : "http://twitter.com/HitzNY/statuses/548455314774044673",
+					"objectType" : "note",
+					"postedTime" : "2014-12-26T12:28:31.000Z",
+					"summary" : "Now Playing on Urban Hitz Radio: DB2 - Never Let You Go ...Listen Now - http://t.co/1m8F6phaAs"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T12:28:31.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "urbanradiousa.com",
+							"expanded_url" : "http://www.urbanradiousa.com",
+							"indices" : 
+							[
+								72,
+								94
+							],
+							"url" : "http://t.co/1m8F6phaAs"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IBM DB2",
+					"favoritesCount" : 1822,
+					"followersCount" : 4583,
+					"friendsCount" : 1835,
+					"id" : "id:twitter.com:116565980",
+					"image" : "https://pbs.twimg.com/profile_images/483975598096654338/ww-R8m6T_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/IBM_DB2",
+					"links" : 
+					[
+						{
+							"href" : "http://ibm.com/db2",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 222,
+					"objectType" : "person",
+					"postedTime" : "2010-02-22T22:58:27.000Z",
+					"preferredUsername" : "IBM_DB2",
+					"statusesCount" : 11157,
+					"summary" : "The official Twitter account for IBM DB2 for Linux, Unix and Windows. Managed by @susvis, @basir5283 and @jsnburns. Follows IBM Social Computing Guidlines.",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "It's true! No additional skills are needed if you move to DB2 from #Oracle. Give it a try - http://t.co/1kn5JZXlVm",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "TweetDeck",
+					"link" : "https://about.twitter.com/products/tweetdeck"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www-01.ibm.com/software/data/db2/linux-unix-windows/sql-compatibility.html",
+							"url" : "http://t.co/1kn5JZXlVm"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548441350236954626",
+				"link" : "http://twitter.com/IBM_DB2/statuses/548441350236954626",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548441350236954626",
+					"link" : "http://twitter.com/IBM_DB2/statuses/548441350236954626",
+					"objectType" : "note",
+					"postedTime" : "2014-12-26T11:33:02.000Z",
+					"summary" : "It's true! No additional skills are needed if you move to DB2 from #Oracle. Give it a try - http://t.co/1kn5JZXlVm"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T11:33:02.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								67,
+								74
+							],
+							"text" : "Oracle"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1GyrFfJ",
+							"expanded_url" : "http://bit.ly/1GyrFfJ",
+							"indices" : 
+							[
+								92,
+								114
+							],
+							"url" : "http://t.co/1kn5JZXlVm"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "India",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IT Jobs, India",
+					"favoritesCount" : 0,
+					"followersCount" : 1341,
+					"friendsCount" : 0,
+					"id" : "id:twitter.com:123537533",
+					"image" : "https://pbs.twimg.com/profile_images/790482269/sm_it1_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/tech_career",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 50,
+					"location" : 
+					{
+						"displayName" : "India",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-03-16T11:48:44.000Z",
+					"preferredUsername" : "tech_career",
+					"statusesCount" : 76656,
+					"summary" : "Get latest job opportunities in Indian IT industry",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "AS400, RPG Developer, Other - India, 0 - 10 Year Exp,  , DB2,RPG,AS400,SQL http://t.co/UIPdrqEUVx",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IT jobs, India",
+					"link" : "http://monsterindia.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "India",
+								"countryCode" : "IN"
+							},
+							"displayName" : "India",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									77,
+									20
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://jobs.monsterindia.com/details/15869745.html?from=MSTWT&spl=IN_Twitter_feed&WT.mc_n=sk_feed_Twitter_IN",
+							"url" : "http://t.co/UIPdrqEUVx"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548229869256318977",
+				"link" : "http://twitter.com/tech_career/statuses/548229869256318977",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548229869256318977",
+					"link" : "http://twitter.com/tech_career/statuses/548229869256318977",
+					"objectType" : "note",
+					"postedTime" : "2014-12-25T21:32:41.000Z",
+					"summary" : "AS400, RPG Developer, Other - India, 0 - 10 Year Exp,  , DB2,RPG,AS400,SQL http://t.co/UIPdrqEUVx"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T21:32:41.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1ysubR4",
+							"expanded_url" : "http://bit.ly/1ysubR4",
+							"indices" : 
+							[
+								75,
+								97
+							],
+							"url" : "http://t.co/UIPdrqEUVx"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "Kiev",
+						"country" : "Ukraine",
+						"state" : "Kyiv City"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Дробышева Аглая",
+					"favoritesCount" : 0,
+					"followersCount" : 745,
+					"friendsCount" : 623,
+					"id" : "id:twitter.com:737244176",
+					"image" : "https://pbs.twimg.com/profile_images/2651105021/baab4053f281ccb28ba0559ef5d98645_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/cherylfamenoah",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Киев",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2012-08-04T19:02:51.000Z",
+					"preferredUsername" : "cherylfamenoah",
+					"statusesCount" : 2992,
+					"summary" : "практикую  ... Фотограф  хочу. Бильярд, боулинг   Пробки от пивных бутылок",
+					"twitterTimeZone" : "London",
+					"utcOffset" : "0",
+					"verified" : false
+				},
+				"body" : "RT @lashaundawdwent: База данных db2 http://t.co/sf3x41SFv8",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Non ohrana-75",
+					"link" : "http://ohrana-75.ru"
+				},
+				"gnip" : 
+				{
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Ukraine",
+								"countryCode" : "UA",
+								"locality" : "Kiev",
+								"region" : "Kyiv City"
+							},
+							"displayName" : "Kiev, Kyiv City, Ukraine",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									30.523800000000001,
+									50.454659999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://ignotis.ru/blog/275177.html",
+							"url" : "http://t.co/sf3x41SFv8"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548142154179436544",
+				"link" : "http://twitter.com/cherylfamenoah/statuses/548142154179436544",
+				"object" : 
+				{
+					"actor" : 
+					{
+						"displayName" : "Нина Галиева",
+						"favoritesCount" : 0,
+						"followersCount" : 844,
+						"friendsCount" : 679,
+						"id" : "id:twitter.com:572975134",
+						"image" : "https://pbs.twimg.com/profile_images/2625260749/45c9930690ed11e19e4a12313813ffc0_7-300x300_normal.jpg",
+						"languages" : 
+						[
+							"en"
+						],
+						"link" : "http://www.twitter.com/lashaundawdwent",
+						"links" : 
+						[
+							{
+								"href" : null,
+								"rel" : "me"
+							}
+						],
+						"listedCount" : 0,
+						"location" : 
+						{
+							"displayName" : "Питер",
+							"objectType" : "place"
+						},
+						"objectType" : "person",
+						"postedTime" : "2012-05-06T20:07:07.000Z",
+						"preferredUsername" : "lashaundawdwent",
+						"statusesCount" : 3648,
+						"summary" : "все о Спички  #",
+						"twitterTimeZone" : "London",
+						"utcOffset" : "0",
+						"verified" : false
+					},
+					"body" : "База данных db2 http://t.co/sf3x41SFv8",
+					"favoritesCount" : 0,
+					"generator" : 
+					{
+						"displayName" : "Non ohrana-75",
+						"link" : "http://ohrana-75.ru"
+					},
+					"id" : "tag:search.twitter.com,2005:547371607547985920",
+					"link" : "http://twitter.com/lashaundawdwent/statuses/547371607547985920",
+					"object" : 
+					{
+						"id" : "object:search.twitter.com,2005:547371607547985920",
+						"link" : "http://twitter.com/lashaundawdwent/statuses/547371607547985920",
+						"objectType" : "note",
+						"postedTime" : "2014-12-23T12:42:15.000Z",
+						"summary" : "База данных db2 http://t.co/sf3x41SFv8"
+					},
+					"objectType" : "activity",
+					"postedTime" : "2014-12-23T12:42:15.000Z",
+					"provider" : 
+					{
+						"displayName" : "Twitter",
+						"link" : "http://www.twitter.com",
+						"objectType" : "service"
+					},
+					"twitter_entities" : 
+					{
+						"hashtags" : [],
+						"symbols" : [],
+						"trends" : [],
+						"urls" : 
+						[
+							{
+								"display_url" : "bit.ly/1B1vJS4",
+								"expanded_url" : "http://bit.ly/1B1vJS4",
+								"indices" : 
+								[
+									16,
+									38
+								],
+								"url" : "http://t.co/sf3x41SFv8"
+							}
+						],
+						"user_mentions" : []
+					},
+					"twitter_filter_level" : "low",
+					"twitter_lang" : "ru",
+					"verb" : "post"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T15:44:08.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 2,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1B1vJS4",
+							"expanded_url" : "http://bit.ly/1B1vJS4",
+							"indices" : 
+							[
+								37,
+								59
+							],
+							"url" : "http://t.co/sf3x41SFv8"
+						}
+					],
+					"user_mentions" : 
+					[
+						{
+							"id" : 572975134,
+							"id_str" : "572975134",
+							"indices" : 
+							[
+								3,
+								19
+							],
+							"name" : "Нина Галиева",
+							"screen_name" : "lashaundawdwent"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "ru",
+				"verb" : "share"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Doug Curtis",
+					"favoritesCount" : 0,
+					"followersCount" : 19,
+					"friendsCount" : 1,
+					"id" : "id:twitter.com:2923640201",
+					"image" : "https://pbs.twimg.com/profile_images/544604406734282752/m8JUuX_M_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/RVTravelGuide",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-12-15T21:14:00.000Z",
+					"preferredUsername" : "RVTravelGuide",
+					"statusesCount" : 1230,
+					"summary" : "Hit the open road and travel the country RV style with Doug!",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "RT @EmceeSLIM: 1950 Aston Martin DB2 #astonmartin #vintagecars #roadtrip http://t.co/TvRZodpUUD",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "RoundTeam",
+					"link" : "https://roundteam.co"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US"
+							},
+							"displayName" : "United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-98.5,
+									39.759999999999998
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://twitter.com/EmceeSLIM/status/548355330770743296/photo/1",
+							"url" : "http://t.co/TvRZodpUUD"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548370259716358144",
+				"link" : "http://twitter.com/RVTravelGuide/statuses/548370259716358144",
+				"object" : 
+				{
+					"actor" : 
+					{
+						"displayName" : "SLIM Enterprises",
+						"favoritesCount" : 14329,
+						"followersCount" : 65070,
+						"friendsCount" : 6724,
+						"id" : "id:twitter.com:85707941",
+						"image" : "https://pbs.twimg.com/profile_images/1898978670/SLIM_S_Logo_normal.jpg",
+						"languages" : 
+						[
+							"en"
+						],
+						"link" : "http://www.twitter.com/EmceeSLIM",
+						"links" : 
+						[
+							{
+								"href" : "http://www.SLIM-ENT.com",
+								"rel" : "me"
+							}
+						],
+						"listedCount" : 307,
+						"location" : 
+						{
+							"displayName" : "TORONTO - INTERNATIONAL",
+							"objectType" : "place"
+						},
+						"objectType" : "person",
+						"postedTime" : "2009-10-28T00:54:47.000Z",
+						"preferredUsername" : "EmceeSLIM",
+						"statusesCount" : 152458,
+						"summary" : "#SLIM #Enterprises | #Toronto | #International http://www.SLIM-ENT.com #Technology | #Multimedia |  #Outsourcing | #Telecom | #RealEstate ++ → info@slim-ent.com",
+						"twitterTimeZone" : "Eastern Time (US & Canada)",
+						"utcOffset" : "-18000",
+						"verified" : false
+					},
+					"body" : "1950 Aston Martin DB2 #astonmartin #vintagecars #roadtrip http://t.co/TvRZodpUUD",
+					"favoritesCount" : 0,
+					"generator" : 
+					{
+						"displayName" : "Twitter Web Client",
+						"link" : "http://twitter.com"
+					},
+					"id" : "tag:search.twitter.com,2005:548355330770743296",
+					"link" : "http://twitter.com/EmceeSLIM/statuses/548355330770743296",
+					"object" : 
+					{
+						"id" : "object:search.twitter.com,2005:548355330770743296",
+						"link" : "http://twitter.com/EmceeSLIM/statuses/548355330770743296",
+						"objectType" : "note",
+						"postedTime" : "2014-12-26T05:51:13.000Z",
+						"summary" : "1950 Aston Martin DB2 #astonmartin #vintagecars #roadtrip http://t.co/TvRZodpUUD"
+					},
+					"objectType" : "activity",
+					"postedTime" : "2014-12-26T05:51:13.000Z",
+					"provider" : 
+					{
+						"displayName" : "Twitter",
+						"link" : "http://www.twitter.com",
+						"objectType" : "service"
+					},
+					"twitter_entities" : 
+					{
+						"hashtags" : 
+						[
+							{
+								"indices" : 
+								[
+									22,
+									34
+								],
+								"text" : "astonmartin"
+							},
+							{
+								"indices" : 
+								[
+									35,
+									47
+								],
+								"text" : "vintagecars"
+							},
+							{
+								"indices" : 
+								[
+									48,
+									57
+								],
+								"text" : "roadtrip"
+							}
+						],
+						"media" : 
+						[
+							{
+								"display_url" : "pic.twitter.com/TvRZodpUUD",
+								"expanded_url" : "http://twitter.com/EmceeSLIM/status/548355330770743296/photo/1",
+								"id" : 548355330330353664,
+								"id_str" : "548355330330353664",
+								"indices" : 
+								[
+									58,
+									80
+								],
+								"media_url" : "http://pbs.twimg.com/media/B5wmRIMIYAAgwpC.jpg",
+								"media_url_https" : "https://pbs.twimg.com/media/B5wmRIMIYAAgwpC.jpg",
+								"sizes" : 
+								{
+									"large" : 
+									{
+										"h" : 720,
+										"resize" : "fit",
+										"w" : 960
+									},
+									"medium" : 
+									{
+										"h" : 450,
+										"resize" : "fit",
+										"w" : 600
+									},
+									"small" : 
+									{
+										"h" : 255,
+										"resize" : "fit",
+										"w" : 340
+									},
+									"thumb" : 
+									{
+										"h" : 150,
+										"resize" : "crop",
+										"w" : 150
+									}
+								},
+								"type" : "photo",
+								"url" : "http://t.co/TvRZodpUUD"
+							}
+						],
+						"symbols" : [],
+						"trends" : [],
+						"urls" : [],
+						"user_mentions" : []
+					},
+					"twitter_extended_entities" : 
+					{
+						"media" : 
+						[
+							{
+								"display_url" : "pic.twitter.com/TvRZodpUUD",
+								"expanded_url" : "http://twitter.com/EmceeSLIM/status/548355330770743296/photo/1",
+								"id" : 548355330330353664,
+								"id_str" : "548355330330353664",
+								"indices" : 
+								[
+									58,
+									80
+								],
+								"media_url" : "http://pbs.twimg.com/media/B5wmRIMIYAAgwpC.jpg",
+								"media_url_https" : "https://pbs.twimg.com/media/B5wmRIMIYAAgwpC.jpg",
+								"sizes" : 
+								{
+									"large" : 
+									{
+										"h" : 720,
+										"resize" : "fit",
+										"w" : 960
+									},
+									"medium" : 
+									{
+										"h" : 450,
+										"resize" : "fit",
+										"w" : 600
+									},
+									"small" : 
+									{
+										"h" : 255,
+										"resize" : "fit",
+										"w" : 340
+									},
+									"thumb" : 
+									{
+										"h" : 150,
+										"resize" : "crop",
+										"w" : 150
+									}
+								},
+								"type" : "photo",
+								"url" : "http://t.co/TvRZodpUUD"
+							}
+						]
+					},
+					"twitter_filter_level" : "low",
+					"twitter_lang" : "tl",
+					"verb" : "post"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T06:50:32.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 1,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								37,
+								49
+							],
+							"text" : "astonmartin"
+						},
+						{
+							"indices" : 
+							[
+								50,
+								62
+							],
+							"text" : "vintagecars"
+						},
+						{
+							"indices" : 
+							[
+								63,
+								72
+							],
+							"text" : "roadtrip"
+						}
+					],
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/TvRZodpUUD",
+							"expanded_url" : "http://twitter.com/EmceeSLIM/status/548355330770743296/photo/1",
+							"id" : 548355330330353664,
+							"id_str" : "548355330330353664",
+							"indices" : 
+							[
+								73,
+								95
+							],
+							"media_url" : "http://pbs.twimg.com/media/B5wmRIMIYAAgwpC.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B5wmRIMIYAAgwpC.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 720,
+									"resize" : "fit",
+									"w" : 960
+								},
+								"medium" : 
+								{
+									"h" : 450,
+									"resize" : "fit",
+									"w" : 600
+								},
+								"small" : 
+								{
+									"h" : 255,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"source_status_id" : 548355330770743296,
+							"source_status_id_str" : "548355330770743296",
+							"type" : "photo",
+							"url" : "http://t.co/TvRZodpUUD"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : 
+					[
+						{
+							"id" : 85707941,
+							"id_str" : "85707941",
+							"indices" : 
+							[
+								3,
+								13
+							],
+							"name" : "SLIM Enterprises",
+							"screen_name" : "EmceeSLIM"
+						}
+					]
+				},
+				"twitter_extended_entities" : 
+				{
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/TvRZodpUUD",
+							"expanded_url" : "http://twitter.com/EmceeSLIM/status/548355330770743296/photo/1",
+							"id" : 548355330330353664,
+							"id_str" : "548355330330353664",
+							"indices" : 
+							[
+								73,
+								95
+							],
+							"media_url" : "http://pbs.twimg.com/media/B5wmRIMIYAAgwpC.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B5wmRIMIYAAgwpC.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 720,
+									"resize" : "fit",
+									"w" : 960
+								},
+								"medium" : 
+								{
+									"h" : 450,
+									"resize" : "fit",
+									"w" : 600
+								},
+								"small" : 
+								{
+									"h" : 255,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"source_status_id" : 548355330770743296,
+							"source_status_id_str" : "548355330770743296",
+							"type" : "photo",
+							"url" : "http://t.co/TvRZodpUUD"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "tl",
+				"verb" : "share"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "#بيع_حسابات 10/10",
+					"favoritesCount" : 149,
+					"followersCount" : 14229,
+					"friendsCount" : 10458,
+					"id" : "id:twitter.com:1562645564",
+					"image" : "https://pbs.twimg.com/profile_images/516205819021373440/Bj_jSMou_normal.jpeg",
+					"languages" : 
+					[
+						"ar"
+					],
+					"link" : "http://www.twitter.com/TYETG73",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 2,
+					"objectType" : "person",
+					"postedTime" : "2013-07-02T08:54:45.000Z",
+					"preferredUsername" : "TYETG73",
+					"statusesCount" : 81379,
+					"summary" : "❤️❤️Kik: kamelw9f ❤️❤️Whats app: 0542745807 ❤️",
+					"twitterTimeZone" : "Arizona",
+					"utcOffset" : "-25200",
+					"verified" : false
+				},
+				"body" : "للاشتراك بقروب زيادة المتابعين سجل على الرابط التالي http://t.co/FfZSNrT9m7 انتظركم ❤️❤️db2",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "aamk1411.com",
+					"link" : "http://www.aamk1411.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "ar"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://v.ht/DxgL",
+							"url" : "http://t.co/FfZSNrT9m7"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548221653847527424",
+				"link" : "http://twitter.com/TYETG73/statuses/548221653847527424",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548221653847527424",
+					"link" : "http://twitter.com/TYETG73/statuses/548221653847527424",
+					"objectType" : "note",
+					"postedTime" : "2014-12-25T21:00:02.000Z",
+					"summary" : "للاشتراك بقروب زيادة المتابعين سجل على الرابط التالي http://t.co/FfZSNrT9m7 انتظركم ❤️❤️db2"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T21:00:02.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "v.ht/DxgL",
+							"expanded_url" : "http://v.ht/DxgL",
+							"indices" : 
+							[
+								53,
+								75
+							],
+							"url" : "http://t.co/FfZSNrT9m7"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "ar",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "AutumnLaird",
+					"favoritesCount" : 0,
+					"followersCount" : 41,
+					"friendsCount" : 1,
+					"id" : "id:twitter.com:1240595652",
+					"image" : "https://pbs.twimg.com/profile_images/3501003397/2fab1ea38acc3a73c78198c75821f958_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/AutumnLaird1",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 1,
+					"objectType" : "person",
+					"postedTime" : "2013-03-04T05:55:08.000Z",
+					"preferredUsername" : "AutumnLaird1",
+					"statusesCount" : 61691,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Sway star over and above electromyography 000-730 db2 9 lineage fundamentals: yaighsZpG",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:548168067855831040",
+				"link" : "http://twitter.com/AutumnLaird1/statuses/548168067855831040",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548168067855831040",
+					"link" : "http://twitter.com/AutumnLaird1/statuses/548168067855831040",
+					"objectType" : "note",
+					"postedTime" : "2014-12-25T17:27:06.000Z",
+					"summary" : "Sway star over and above electromyography 000-730 db2 9 lineage fundamentals: yaighsZpG"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T17:27:06.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Huddersfield",
+						"country" : "United Kingdom",
+						"state" : "England"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Jobs in Huddersfield",
+					"favoritesCount" : 0,
+					"followersCount" : 398,
+					"friendsCount" : 0,
+					"id" : "id:twitter.com:53377335",
+					"image" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/jobhuddersfield",
+					"links" : 
+					[
+						{
+							"href" : "http://www.check4jobs.com/jobs-in-huddersfield",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 6,
+					"location" : 
+					{
+						"displayName" : "Huddersfield, United Kingdom",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-07-03T12:57:17.000Z",
+					"preferredUsername" : "jobhuddersfield",
+					"statusesCount" : 4978,
+					"summary" : "Jobs in Huddersfield",
+					"twitterTimeZone" : "London",
+					"utcOffset" : "0",
+					"verified" : false
+				},
+				"body" : "IT Systems Development Analyst - Huddersfield - SQL,Oracle,DB2: IT Systems Development Analyst - Huddersfield ... http://t.co/sD1LjOVMDy",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United Kingdom",
+								"countryCode" : "GB",
+								"locality" : "Huddersfield",
+								"region" : "England"
+							},
+							"displayName" : "Huddersfield, England, United Kingdom",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-1.78416,
+									53.649039999999999
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.check4jobs.com/vacancies/a070363fd09a99d046d2321a0c477b14",
+							"url" : "http://t.co/sD1LjOVMDy"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548564211484200960",
+				"link" : "http://twitter.com/jobhuddersfield/statuses/548564211484200960",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548564211484200960",
+					"link" : "http://twitter.com/jobhuddersfield/statuses/548564211484200960",
+					"objectType" : "note",
+					"postedTime" : "2014-12-26T19:41:14.000Z",
+					"summary" : "IT Systems Development Analyst - Huddersfield - SQL,Oracle,DB2: IT Systems Development Analyst - Huddersfield ... http://t.co/sD1LjOVMDy"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T19:41:14.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1CY2CAN",
+							"expanded_url" : "http://bit.ly/1CY2CAN",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/sD1LjOVMDy"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "female",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "patricia byrd",
+					"favoritesCount" : 0,
+					"followersCount" : 29,
+					"friendsCount" : 23,
+					"id" : "id:twitter.com:2915181104",
+					"image" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/patriciabyrd32",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 7,
+					"objectType" : "person",
+					"postedTime" : "2014-12-01T01:59:25.000Z",
+					"preferredUsername" : "patriciabyrd32",
+					"statusesCount" : 21626,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "RT CatchaJob_us: New #Job #Technosoft Corporation DB2 DBA -Chicago IL – 18 months Temporay in #Chicago, IL, ... http://t.co/cDr6ryLBvs",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IFTTT",
+					"link" : "http://ifttt.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "fr"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://caribentertainment.net/",
+							"url" : "http://t.co/cDr6ryLBvs"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548511063780904960",
+				"link" : "http://twitter.com/patriciabyrd32/statuses/548511063780904960",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548511063780904960",
+					"link" : "http://twitter.com/patriciabyrd32/statuses/548511063780904960",
+					"objectType" : "note",
+					"postedTime" : "2014-12-26T16:10:03.000Z",
+					"summary" : "RT CatchaJob_us: New #Job #Technosoft Corporation DB2 DBA -Chicago IL – 18 months Temporay in #Chicago, IL, ... http://t.co/cDr6ryLBvs"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T16:10:03.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								21,
+								25
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								26,
+								37
+							],
+							"text" : "Technosoft"
+						},
+						{
+							"indices" : 
+							[
+								94,
+								102
+							],
+							"text" : "Chicago"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "goo.gl/vjzYj9",
+							"expanded_url" : "http://goo.gl/vjzYj9",
+							"indices" : 
+							[
+								112,
+								134
+							],
+							"url" : "http://t.co/cDr6ryLBvs"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "fr",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Shankeisha",
+					"favoritesCount" : 86,
+					"followersCount" : 43,
+					"friendsCount" : 151,
+					"id" : "id:twitter.com:579240351",
+					"image" : "https://pbs.twimg.com/profile_images/526596751491231744/R2_3QDQT_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/_Shankeisha",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "OP40 Knife Division Leader",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2012-05-13T18:04:59.000Z",
+					"preferredUsername" : "_Shankeisha",
+					"statusesCount" : 567,
+					"summary" : "gt: Shankeisha",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "@Syhfer @KEEMSTARx @Clout069 to what up auger it's sir db2 lmao haven't talked to you in forever",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter for Android",
+					"link" : "http://twitter.com/download/android"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:548304488449474561",
+				"inReplyTo" : 
+				{
+					"link" : "http://twitter.com/Syhfer/statuses/548304080997593088"
+				},
+				"link" : "http://twitter.com/_Shankeisha/statuses/548304488449474561",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548304488449474561",
+					"link" : "http://twitter.com/_Shankeisha/statuses/548304488449474561",
+					"objectType" : "note",
+					"postedTime" : "2014-12-26T02:29:11.000Z",
+					"summary" : "@Syhfer @KEEMSTARx @Clout069 to what up auger it's sir db2 lmao haven't talked to you in forever"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T02:29:11.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : 
+					[
+						{
+							"id" : 2378379272,
+							"id_str" : "2378379272",
+							"indices" : 
+							[
+								0,
+								7
+							],
+							"name" : "Syhfer",
+							"screen_name" : "Syhfer"
+						},
+						{
+							"id" : 872683897,
+							"id_str" : "872683897",
+							"indices" : 
+							[
+								8,
+								18
+							],
+							"name" : "FaZe KEEMSTAR",
+							"screen_name" : "KEEMSTARx"
+						},
+						{
+							"id" : 2301552870,
+							"id_str" : "2301552870",
+							"indices" : 
+							[
+								19,
+								28
+							],
+							"name" : "Jallow M.O.B ",
+							"screen_name" : "Clout069"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Jobs Agent",
+					"favoritesCount" : 0,
+					"followersCount" : 1370,
+					"friendsCount" : 1983,
+					"id" : "id:twitter.com:2301408342",
+					"image" : "https://pbs.twimg.com/profile_images/427768511973183488/NwgwKEVh_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Jobsnotst_agent",
+					"links" : 
+					[
+						{
+							"href" : "http://dragplus.com/browse/jobs",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 24,
+					"objectType" : "person",
+					"postedTime" : "2014-01-20T13:32:26.000Z",
+					"preferredUsername" : "Jobsnotst_agent",
+					"statusesCount" : 218554,
+					"summary" : "jobs, employment, HR, career, careers, technical, sales",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Software Engineer – Mainframe COBOL / DB2 Focus at American Express (Cheyenne, WY) http://t.co/YJpn06or93 #jobs #hiring #careers",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IFTTT",
+					"link" : "http://ifttt.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://dragplus.com/web/go/?title=jobs&utm_source=twitter&utm_medium=link&utm_campaign=jobs&utm_term=jobs&url=http://www.simplyhired.com/job-id/kjpjlfoaac/software-engineer-jobs/",
+							"url" : "http://t.co/YJpn06or93"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548048598999793664",
+				"link" : "http://twitter.com/Jobsnotst_agent/statuses/548048598999793664",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548048598999793664",
+					"link" : "http://twitter.com/Jobsnotst_agent/statuses/548048598999793664",
+					"objectType" : "note",
+					"postedTime" : "2014-12-25T09:32:22.000Z",
+					"summary" : "Software Engineer – Mainframe COBOL / DB2 Focus at American Express (Cheyenne, WY) http://t.co/YJpn06or93 #jobs #hiring #careers"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T09:32:22.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								106,
+								111
+							],
+							"text" : "jobs"
+						},
+						{
+							"indices" : 
+							[
+								112,
+								119
+							],
+							"text" : "hiring"
+						},
+						{
+							"indices" : 
+							[
+								120,
+								128
+							],
+							"text" : "careers"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ift.tt/1B51XMB",
+							"expanded_url" : "http://ift.tt/1B51XMB",
+							"indices" : 
+							[
+								83,
+								105
+							],
+							"url" : "http://t.co/YJpn06or93"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "kumar",
+					"favoritesCount" : 0,
+					"followersCount" : 5,
+					"friendsCount" : 26,
+					"id" : "id:twitter.com:2726584417",
+					"image" : "https://pbs.twimg.com/profile_images/499236175505129472/V-5uMOsm_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/kumarv2020",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"objectType" : "person",
+					"postedTime" : "2014-08-12T15:57:58.000Z",
+					"preferredUsername" : "kumarv2020",
+					"statusesCount" : 107,
+					"summary" : "Wanted to Share the Technology Skills gained in my carrier.",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "I added a video to a @YouTube playlist http://t.co/BAxjCRZISc Mainframe DB2 Tutorial Part 8",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Google",
+					"link" : "http://www.google.com/"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 429,
+							"expanded_url" : "https://www.youtube.com/watch?v=EVwQ4Y-iZ08&feature=youtu.be&a",
+							"url" : "http://t.co/BAxjCRZISc"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:547974599732781056",
+				"link" : "http://twitter.com/kumarv2020/statuses/547974599732781056",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:547974599732781056",
+					"link" : "http://twitter.com/kumarv2020/statuses/547974599732781056",
+					"objectType" : "note",
+					"postedTime" : "2014-12-25T04:38:20.000Z",
+					"summary" : "I added a video to a @YouTube playlist http://t.co/BAxjCRZISc Mainframe DB2 Tutorial Part 8"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T04:38:20.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "youtu.be/EVwQ4Y-iZ08?a",
+							"expanded_url" : "http://youtu.be/EVwQ4Y-iZ08?a",
+							"indices" : 
+							[
+								39,
+								61
+							],
+							"url" : "http://t.co/BAxjCRZISc"
+						}
+					],
+					"user_mentions" : 
+					[
+						{
+							"id" : 10228272,
+							"id_str" : "10228272",
+							"indices" : 
+							[
+								21,
+								29
+							],
+							"name" : "YouTube",
+							"screen_name" : "YouTube"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Oracle Jobs",
+					"favoritesCount" : 0,
+					"followersCount" : 421,
+					"friendsCount" : 242,
+					"id" : "id:twitter.com:637085013",
+					"image" : "https://pbs.twimg.com/profile_images/2534767801/yp0yl45ivc0nqr1vrmgj_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/TopOracleJobs",
+					"links" : 
+					[
+						{
+							"href" : "http://www.TopOracleJobs.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 11,
+					"objectType" : "person",
+					"postedTime" : "2012-07-16T14:16:43.000Z",
+					"preferredUsername" : "TopOracleJobs",
+					"statusesCount" : 11618,
+					"summary" : "-- The Job site for Oracle Professionals. ---\r\nhttp://www.TopOracleJobs.com\r\nThe #1 Worldwide ** Oracle Job Site ** for information technology professionals.",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#hiring ☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Baltimore - Oracle/DB2 Database Lead http://t.co/951Fi7cHvl ☜ view full details #job",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=a3ad36e8-8aff-42f4-a4af-06e9204d2aac&origin=rss&provider=j&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/951Fi7cHvl"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548182338148900864",
+				"link" : "http://twitter.com/TopOracleJobs/statuses/548182338148900864",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548182338148900864",
+					"link" : "http://twitter.com/TopOracleJobs/statuses/548182338148900864",
+					"objectType" : "note",
+					"postedTime" : "2014-12-25T18:23:48.000Z",
+					"summary" : "#hiring ☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Baltimore - Oracle/DB2 Database Lead http://t.co/951Fi7cHvl ☜ view full details #job"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T18:23:48.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								7
+							],
+							"text" : "hiring"
+						},
+						{
+							"indices" : 
+							[
+								26,
+								32
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								33,
+								37
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								38,
+								48
+							],
+							"text" : "Baltimore"
+						},
+						{
+							"indices" : 
+							[
+								119,
+								123
+							],
+							"text" : "job"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7wl90n",
+							"expanded_url" : "http://dlvr.it/7wl90n",
+							"indices" : 
+							[
+								76,
+								98
+							],
+							"url" : "http://t.co/951Fi7cHvl"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "good"
+							}
+						],
+						"polarity" : "POSITIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "AutumnLaird",
+					"favoritesCount" : 0,
+					"followersCount" : 44,
+					"friendsCount" : 1,
+					"id" : "id:twitter.com:1240595652",
+					"image" : "https://pbs.twimg.com/profile_images/3501003397/2fab1ea38acc3a73c78198c75821f958_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/AutumnLaird1",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 1,
+					"objectType" : "person",
+					"postedTime" : "2013-03-04T05:55:08.000Z",
+					"preferredUsername" : "AutumnLaird1",
+					"statusesCount" : 61774,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Unlock the good life along with fight 000-730 db2 9 systematics fundamentals: JjzcJtqun",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:548327224059756544",
+				"link" : "http://twitter.com/AutumnLaird1/statuses/548327224059756544",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548327224059756544",
+					"link" : "http://twitter.com/AutumnLaird1/statuses/548327224059756544",
+					"objectType" : "note",
+					"postedTime" : "2014-12-26T03:59:32.000Z",
+					"summary" : "Unlock the good life along with fight 000-730 db2 9 systematics fundamentals: JjzcJtqun"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T03:59:32.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "MaceyDonovan",
+					"favoritesCount" : 0,
+					"followersCount" : 119,
+					"friendsCount" : 1,
+					"id" : "id:twitter.com:1240520293",
+					"image" : "https://pbs.twimg.com/profile_images/3505539405/6b6c0a6ca416f425eda4eb353aecc9ed_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/MaceyDonovan",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 1,
+					"objectType" : "person",
+					"postedTime" : "2013-03-04T04:46:23.000Z",
+					"preferredUsername" : "MaceyDonovan",
+					"statusesCount" : 36172,
+					"summary" : null,
+					"twitterTimeZone" : "Caracas",
+					"utcOffset" : "-16200",
+					"verified" : false
+				},
+				"body" : "Culture db2: jkJBkXUV",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "fr"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:548384812285718530",
+				"link" : "http://twitter.com/MaceyDonovan/statuses/548384812285718530",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548384812285718530",
+					"link" : "http://twitter.com/MaceyDonovan/statuses/548384812285718530",
+					"objectType" : "note",
+					"postedTime" : "2014-12-26T07:48:22.000Z",
+					"summary" : "Culture db2: jkJBkXUV"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-26T07:48:22.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "RK2 neutnet",
+					"favoritesCount" : 0,
+					"followersCount" : 83,
+					"friendsCount" : 3,
+					"id" : "id:twitter.com:902313007",
+					"image" : "https://pbs.twimg.com/profile_images/2761916186/60790b7bc0a48879bb6a27efd797a40d_normal.png",
+					"languages" : 
+					[
+						"fi"
+					],
+					"link" : "http://www.twitter.com/neutnetRK2",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 4,
+					"objectType" : "person",
+					"postedTime" : "2012-10-24T18:02:19.000Z",
+					"preferredUsername" : "neutnetRK2",
+					"statusesCount" : 359121,
+					"summary" : "Unofficial Neutnet messages.  I hope official Neutnet going to piss off and do the real tweet feed. Official neutnet can be found at http://neutnet.rk2.at/",
+					"twitterTimeZone" : "Baghdad",
+					"utcOffset" : "10800",
+					"verified" : false
+				},
+				"body" : "#PVM Shadycalms: anyone for db2 run?  #anarchyonline",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Neutnet",
+					"link" : "http://www.u-h-s.org"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:548060990194323459",
+				"link" : "http://twitter.com/neutnetRK2/statuses/548060990194323459",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548060990194323459",
+					"link" : "http://twitter.com/neutnetRK2/statuses/548060990194323459",
+					"objectType" : "note",
+					"postedTime" : "2014-12-25T10:21:37.000Z",
+					"summary" : "#PVM Shadycalms: anyone for db2 run?  #anarchyonline"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T10:21:37.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								4
+							],
+							"text" : "PVM"
+						},
+						{
+							"indices" : 
+							[
+								38,
+								52
+							],
+							"text" : "anarchyonline"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "Edogawa-ku",
+						"country" : "Japan",
+						"state" : "Tōkyō"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "ぺこマン",
+					"favoritesCount" : 17895,
+					"followersCount" : 531,
+					"friendsCount" : 767,
+					"id" : "id:twitter.com:165024772",
+					"image" : "https://pbs.twimg.com/profile_images/415862409757077504/q1oILGFq_normal.jpeg",
+					"languages" : 
+					[
+						"ja"
+					],
+					"link" : "http://www.twitter.com/peko_kun",
+					"links" : 
+					[
+						{
+							"href" : "http://pekokun.hatenablog.jp/",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 39,
+					"location" : 
+					{
+						"displayName" : "東京都江戸川区",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-07-10T11:22:45.000Z",
+					"preferredUsername" : "peko_kun",
+					"statusesCount" : 40274,
+					"summary" : "だらだらエンジニアです。 Java, JavaEE, Ruby, Rails ... Rockが好きです。最近はインディーズ（？）っぽいの。 Susquatch, KANA-BOON,とか。",
+					"twitterTimeZone" : "Tokyo",
+					"utcOffset" : "32400",
+					"verified" : false
+				},
+				"body" : "@peko_kun 同じdb2でもmax 集約関数だと括弧がないと動かない。バグなのか？",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter Web Client",
+					"link" : "http://twitter.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "ja"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Japan",
+								"countryCode" : "JP",
+								"locality" : "Edogawa-ku",
+								"region" : "Tōkyō"
+							},
+							"displayName" : "Edogawa-ku, Tōkyō, Japan",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									139.88333,
+									35.700000000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:548135280578809859",
+				"inReplyTo" : 
+				{
+					"link" : "http://twitter.com/peko_kun/statuses/548132065581875200"
+				},
+				"link" : "http://twitter.com/peko_kun/statuses/548135280578809859",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548135280578809859",
+					"link" : "http://twitter.com/peko_kun/statuses/548135280578809859",
+					"objectType" : "note",
+					"postedTime" : "2014-12-25T15:16:49.000Z",
+					"summary" : "@peko_kun 同じdb2でもmax 集約関数だと括弧がないと動かない。バグなのか？"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T15:16:49.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : 
+					[
+						{
+							"id" : 165024772,
+							"id_str" : "165024772",
+							"indices" : 
+							[
+								0,
+								9
+							],
+							"name" : "ぺこマン",
+							"screen_name" : "peko_kun"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "ja",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "NEGATIVE",
+								"sentimentTerm" : "Bug"
+							}
+						],
+						"polarity" : "NEGATIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "AutumnLaird",
+					"favoritesCount" : 0,
+					"followersCount" : 42,
+					"friendsCount" : 1,
+					"id" : "id:twitter.com:1240595652",
+					"image" : "https://pbs.twimg.com/profile_images/3501003397/2fab1ea38acc3a73c78198c75821f958_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/AutumnLaird1",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 1,
+					"objectType" : "person",
+					"postedTime" : "2013-03-04T05:55:08.000Z",
+					"preferredUsername" : "AutumnLaird1",
+					"statusesCount" : 61638,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Bug ascendancy spite of probation 000-730 db2 9 folks fundamentals: ebywXboKn",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:548059939105546240",
+				"link" : "http://twitter.com/AutumnLaird1/statuses/548059939105546240",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:548059939105546240",
+					"link" : "http://twitter.com/AutumnLaird1/statuses/548059939105546240",
+					"objectType" : "note",
+					"postedTime" : "2014-12-25T10:17:26.000Z",
+					"summary" : "Bug ascendancy spite of probation 000-730 db2 9 folks fundamentals: ebywXboKn"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-25T10:17:26.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		}
+	]
+}

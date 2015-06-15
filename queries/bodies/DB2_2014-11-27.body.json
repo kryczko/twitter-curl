@@ -1,0 +1,8303 @@
+{
+	"date" : "2014-11-27",
+	"related" : 
+	{
+		"next" : 
+		{
+			"href" : "https://cdeservice.mybluemix.net/api/v1/messages/search?q=DB2+posted%3A2014-11-27%2C2014-11-28&from=45&size=500"
+		}
+	},
+	"search" : 
+	{
+		"current" : 45,
+		"results" : 45
+	},
+	"title" : "DB2",
+	"tweets" : 
+	[
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Charlotte",
+						"country" : "United States",
+						"state" : "North Carolina"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Urban Hitz Radio",
+					"favoritesCount" : 698,
+					"followersCount" : 1308,
+					"friendsCount" : 1152,
+					"id" : "id:twitter.com:225340650",
+					"image" : "https://pbs.twimg.com/profile_images/3424721247/d1111dabf5fd05d86d7fadde2be2e956_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/HitzNY",
+					"links" : 
+					[
+						{
+							"href" : "http://www.urbanradiousa.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 20,
+					"location" : 
+					{
+						"displayName" : "Charlotte NC",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-12-11T09:58:21.000Z",
+					"preferredUsername" : "HitzNY",
+					"statusesCount" : 225878,
+					"summary" : "WUHR-DB.:: Urban Hitz Radio™ ::. The People's Choice...WHERE R&B and HIP HOP CONNECT!   FLAC/320/HQ ONLY!",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "Now Playing on Urban Hitz Radio: DB2 - Never Let You Go ...Listen Now - http://t.co/1m8F6phaAs",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "SAM Broadcaster Song Info",
+					"link" : "http://www.sam-song.info"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Charlotte",
+								"region" : "North Carolina",
+								"subRegion" : "Mecklenburg County"
+							},
+							"displayName" : "Charlotte, North Carolina, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-80.843130000000002,
+									35.227089999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.urbanradiousa.com",
+							"url" : "http://t.co/1m8F6phaAs"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538162508692197376",
+				"link" : "http://twitter.com/HitzNY/statuses/538162508692197376",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538162508692197376",
+					"link" : "http://twitter.com/HitzNY/statuses/538162508692197376",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T02:48:35.000Z",
+					"summary" : "Now Playing on Urban Hitz Radio: DB2 - Never Let You Go ...Listen Now - http://t.co/1m8F6phaAs"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T02:48:35.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "urbanradiousa.com",
+							"expanded_url" : "http://www.urbanradiousa.com",
+							"indices" : 
+							[
+								72,
+								94
+							],
+							"url" : "http://t.co/1m8F6phaAs"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Valladolid",
+						"country" : "Spain",
+						"state" : "Castille and León"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Valladolid Trabaja",
+					"favoritesCount" : 0,
+					"followersCount" : 550,
+					"friendsCount" : 929,
+					"id" : "id:twitter.com:2421934531",
+					"image" : "https://pbs.twimg.com/profile_images/450950054971322368/byaVgEKw_normal.png",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/ValladolidTraba",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 20,
+					"location" : 
+					{
+						"displayName" : "Valladolid, España",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-04-01T10:55:29.000Z",
+					"preferredUsername" : "ValladolidTraba",
+					"statusesCount" : 82325,
+					"summary" : "#Empleo en #Valladolid #Ofertas de #Trabajo en #Valladolid",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#Valladolid #Trabajo Analistas programadores Pacbas / Cobol/Cics/DB2: KEAPPS - Madrid - Valladolid - En Keapps... http://t.co/eHqdXvlcSU",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"locality" : "Valladolid",
+								"region" : "Castille and León"
+							},
+							"displayName" : "Valladolid, Castille and León, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-4.7237200000000001,
+									41.655180000000001
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.miurl.org/9NsJ",
+							"url" : "http://t.co/eHqdXvlcSU"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538210112381259777",
+				"link" : "http://twitter.com/ValladolidTraba/statuses/538210112381259777",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538210112381259777",
+					"link" : "http://twitter.com/ValladolidTraba/statuses/538210112381259777",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T05:57:44.000Z",
+					"summary" : "#Valladolid #Trabajo Analistas programadores Pacbas / Cobol/Cics/DB2: KEAPPS - Madrid - Valladolid - En Keapps... http://t.co/eHqdXvlcSU"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T05:57:44.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								11
+							],
+							"text" : "Valladolid"
+						},
+						{
+							"indices" : 
+							[
+								12,
+								20
+							],
+							"text" : "Trabajo"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.miurl.org/9NsJ",
+							"expanded_url" : "http://empleo.miurl.org/9NsJ",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/eHqdXvlcSU"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Valladolid",
+						"country" : "Spain",
+						"state" : "Castille and León"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Valladolid Trabaja",
+					"favoritesCount" : 0,
+					"followersCount" : 550,
+					"friendsCount" : 929,
+					"id" : "id:twitter.com:2421934531",
+					"image" : "https://pbs.twimg.com/profile_images/450950054971322368/byaVgEKw_normal.png",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/ValladolidTraba",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 20,
+					"location" : 
+					{
+						"displayName" : "Valladolid, España",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-04-01T10:55:29.000Z",
+					"preferredUsername" : "ValladolidTraba",
+					"statusesCount" : 82356,
+					"summary" : "#Empleo en #Valladolid #Ofertas de #Trabajo en #Valladolid",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#Valladolid #Trabajo Analistas programadores Pacbas / Cobol/Cics/DB2: KEAPPS - Madrid - Valladolid - En Keapps... http://t.co/EKK2xbNUAx",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"locality" : "Valladolid",
+								"region" : "Castille and León"
+							},
+							"displayName" : "Valladolid, Castille and León, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-4.7237200000000001,
+									41.655180000000001
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.miurl.org/9ORD",
+							"url" : "http://t.co/EKK2xbNUAx"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538237251172331520",
+				"link" : "http://twitter.com/ValladolidTraba/statuses/538237251172331520",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538237251172331520",
+					"link" : "http://twitter.com/ValladolidTraba/statuses/538237251172331520",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T07:45:35.000Z",
+					"summary" : "#Valladolid #Trabajo Analistas programadores Pacbas / Cobol/Cics/DB2: KEAPPS - Madrid - Valladolid - En Keapps... http://t.co/EKK2xbNUAx"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T07:45:35.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								11
+							],
+							"text" : "Valladolid"
+						},
+						{
+							"indices" : 
+							[
+								12,
+								20
+							],
+							"text" : "Trabajo"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.miurl.org/9ORD",
+							"expanded_url" : "http://empleo.miurl.org/9ORD",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/EKK2xbNUAx"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "São Paulo",
+						"country" : "Brazil",
+						"state" : "São Paulo"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Vagas Empregos SP",
+					"favoritesCount" : 0,
+					"followersCount" : 40967,
+					"friendsCount" : 50,
+					"id" : "id:twitter.com:62564311",
+					"image" : "https://pbs.twimg.com/profile_images/2304933930/722q03tew68yqia8yifs_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/vagasSP",
+					"links" : 
+					[
+						{
+							"href" : "http://www.vagas.com.br",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 966,
+					"location" : 
+					{
+						"displayName" : "São Paulo - Brasil",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-08-03T17:11:27.000Z",
+					"preferredUsername" : "vagasSP",
+					"statusesCount" : 59086,
+					"summary" : "Novidades e algumas das milhares de oportunidades, no estado de São Paulo, do site de carreira http://VAGAS.com.br. Tudo 100% gratuito para candidatos.",
+					"twitterTimeZone" : "Brasilia",
+					"utcOffset" : "-7200",
+					"verified" : false
+				},
+				"body" : "Vagas p/ Analista Banco de Dados Sr (Db2) - Avon - São Paulo/SP - http://t.co/jGXG7po6oQ",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "VAGAS e-partner",
+					"link" : "http://www.vagas.com.br"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "pt"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Brazil",
+								"countryCode" : "BR",
+								"locality" : "São Paulo",
+								"region" : "São Paulo"
+							},
+							"displayName" : "São Paulo, São Paulo, Brazil",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-46.636110000000002,
+									-23.547499999999999
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.vagas.com.br/vagas/v1082128/analista-banco-de-dados-sr-db2.html?fnt=9&fntcompl=vagasSP&utm_campaign=1082128&utm_content=Analista%20Banco%20de%20Dados%20Sr%20(Db2)&utm_medium=TWITTER&utm_source=vagasSP",
+							"url" : "http://t.co/jGXG7po6oQ"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538137767335985152",
+				"link" : "http://twitter.com/vagasSP/statuses/538137767335985152",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538137767335985152",
+					"link" : "http://twitter.com/vagasSP/statuses/538137767335985152",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T01:10:16.000Z",
+					"summary" : "Vagas p/ Analista Banco de Dados Sr (Db2) - Avon - São Paulo/SP - http://t.co/jGXG7po6oQ"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T01:10:16.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "goo.gl/cUXAMX",
+							"expanded_url" : "http://goo.gl/cUXAMX",
+							"indices" : 
+							[
+								66,
+								88
+							],
+							"url" : "http://t.co/jGXG7po6oQ"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "pt",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Valladolid",
+						"country" : "Spain",
+						"state" : "Castille and León"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Trabaja Valladolid",
+					"favoritesCount" : 0,
+					"followersCount" : 544,
+					"friendsCount" : 944,
+					"id" : "id:twitter.com:2415764876",
+					"image" : "https://pbs.twimg.com/profile_images/449506913516924932/7jh3uVhh_normal.png",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/TrabValladolid",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 16,
+					"location" : 
+					{
+						"displayName" : "Valladolid, España",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-03-28T11:21:27.000Z",
+					"preferredUsername" : "TrabValladolid",
+					"statusesCount" : 84872,
+					"summary" : "Consige #Trabajo en #Valladolid #Ofertas de #Empleo en #Valladolid",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#Trabajo #Valladolid Analistas programadores Pacbas / Cobol/Cics/DB2: KEAPPS - Madrid - Valladolid - En Keapps... http://t.co/teK2BBPsx8",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"locality" : "Valladolid",
+								"region" : "Castille and León"
+							},
+							"displayName" : "Valladolid, Castille and León, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-4.7237200000000001,
+									41.655180000000001
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.miurl.org/9QNC",
+							"url" : "http://t.co/teK2BBPsx8"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538362630667132928",
+				"link" : "http://twitter.com/TrabValladolid/statuses/538362630667132928",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538362630667132928",
+					"link" : "http://twitter.com/TrabValladolid/statuses/538362630667132928",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T16:03:48.000Z",
+					"summary" : "#Trabajo #Valladolid Analistas programadores Pacbas / Cobol/Cics/DB2: KEAPPS - Madrid - Valladolid - En Keapps... http://t.co/teK2BBPsx8"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T16:03:48.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								8
+							],
+							"text" : "Trabajo"
+						},
+						{
+							"indices" : 
+							[
+								9,
+								20
+							],
+							"text" : "Valladolid"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.miurl.org/9QNC",
+							"expanded_url" : "http://empleo.miurl.org/9QNC",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/teK2BBPsx8"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Nathanmuir",
+					"favoritesCount" : 7879,
+					"followersCount" : 1216,
+					"friendsCount" : 1999,
+					"id" : "id:twitter.com:2747876474",
+					"image" : "https://pbs.twimg.com/profile_images/523934477312360448/h5eKs3dU_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/StanceNathan",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 5,
+					"objectType" : "person",
+					"postedTime" : "2014-08-20T03:05:58.000Z",
+					"preferredUsername" : "StanceNathan",
+					"statusesCount" : 17991,
+					"summary" : "stance cars - normal cars - follow you if you follow me  \nhttp://twitter.com/stancenathan\nhttp://twitter.com/graemecambridg1",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Aston Martin DB2 at Sebring 1958 via #flickrstudio http://t.co/ZlDNa4L8Uy http://t.co/f5PtjxDp58",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "iOS",
+					"link" : "http://www.apple.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.flickr.com/photos/smuckatelli/14509717243/",
+							"url" : "http://t.co/ZlDNa4L8Uy"
+						},
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://twitter.com/StanceNathan/status/537993788204281856/photo/1",
+							"url" : "http://t.co/f5PtjxDp58"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:537993788204281856",
+				"link" : "http://twitter.com/StanceNathan/statuses/537993788204281856",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:537993788204281856",
+					"link" : "http://twitter.com/StanceNathan/statuses/537993788204281856",
+					"objectType" : "note",
+					"postedTime" : "2014-11-27T15:38:09.000Z",
+					"summary" : "Aston Martin DB2 at Sebring 1958 via #flickrstudio http://t.co/ZlDNa4L8Uy http://t.co/f5PtjxDp58"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T15:38:09.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								37,
+								50
+							],
+							"text" : "flickrstudio"
+						}
+					],
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/f5PtjxDp58",
+							"expanded_url" : "http://twitter.com/StanceNathan/status/537993788204281856/photo/1",
+							"id" : 537993788132958208,
+							"id_str" : "537993788132958208",
+							"indices" : 
+							[
+								74,
+								96
+							],
+							"media_url" : "http://pbs.twimg.com/media/B3dWf_kIIAAmCxz.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B3dWf_kIIAAmCxz.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 345,
+									"resize" : "fit",
+									"w" : 461
+								},
+								"medium" : 
+								{
+									"h" : 345,
+									"resize" : "fit",
+									"w" : 461
+								},
+								"small" : 
+								{
+									"h" : 254,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/f5PtjxDp58"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "flic.kr/p/o7b6qF",
+							"expanded_url" : "http://flic.kr/p/o7b6qF",
+							"indices" : 
+							[
+								51,
+								73
+							],
+							"url" : "http://t.co/ZlDNa4L8Uy"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_extended_entities" : 
+				{
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/f5PtjxDp58",
+							"expanded_url" : "http://twitter.com/StanceNathan/status/537993788204281856/photo/1",
+							"id" : 537993788132958208,
+							"id_str" : "537993788132958208",
+							"indices" : 
+							[
+								74,
+								96
+							],
+							"media_url" : "http://pbs.twimg.com/media/B3dWf_kIIAAmCxz.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B3dWf_kIIAAmCxz.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 345,
+									"resize" : "fit",
+									"w" : 461
+								},
+								"medium" : 
+								{
+									"h" : 345,
+									"resize" : "fit",
+									"w" : 461
+								},
+								"small" : 
+								{
+									"h" : 254,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/f5PtjxDp58"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "New York"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IBM Software",
+					"favoritesCount" : 18,
+					"followersCount" : 35341,
+					"friendsCount" : 2566,
+					"id" : "id:twitter.com:54680379",
+					"image" : "https://pbs.twimg.com/profile_images/870130673/sw-73x73_normal.gif",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/IBMSoftware",
+					"links" : 
+					[
+						{
+							"href" : "http://ibm.com/software",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 910,
+					"location" : 
+					{
+						"displayName" : "Somers, NY",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-07-07T21:19:07.000Z",
+					"preferredUsername" : "IBMSoftware",
+					"statusesCount" : 12826,
+					"summary" : "The official IBM Software Twitter feed, managed by @DTurnerBlogs & @kailgriff following the IBM Social Computing Guidelines.",
+					"twitterTimeZone" : "Central Time (US & Canada)",
+					"utcOffset" : "-21600",
+					"verified" : false
+				},
+				"body" : "#IBMRedbooks: Streamline Business with Consolidation and Conversion to #DB2 for #z/OS http://t.co/0eSSUGKvZs http://t.co/DzvME7BlpD",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Hootsuite",
+					"link" : "http://www.hootsuite.com"
+				},
+				"id" : "tag:search.twitter.com,2005:538419648455507968",
+				"link" : "http://twitter.com/IBMSoftware/statuses/538419648455507968",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538419648455507968",
+					"link" : "http://twitter.com/IBMSoftware/statuses/538419648455507968",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T19:50:22.000Z",
+					"summary" : "#IBMRedbooks: Streamline Business with Consolidation and Conversion to #DB2 for #z/OS http://t.co/0eSSUGKvZs http://t.co/DzvME7BlpD"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T19:50:22.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 1,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								12
+							],
+							"text" : "IBMRedbooks"
+						},
+						{
+							"indices" : 
+							[
+								71,
+								75
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								80,
+								82
+							],
+							"text" : "z"
+						}
+					],
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/DzvME7BlpD",
+							"expanded_url" : "http://twitter.com/IBMSoftware/status/538419648455507968/photo/1",
+							"id" : 538419647846940672,
+							"id_str" : "538419647846940672",
+							"indices" : 
+							[
+								109,
+								131
+							],
+							"media_url" : "http://pbs.twimg.com/media/B3jZ0SoCAAAsc81.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B3jZ0SoCAAAsc81.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 244,
+									"resize" : "fit",
+									"w" : 198
+								},
+								"medium" : 
+								{
+									"h" : 244,
+									"resize" : "fit",
+									"w" : 198
+								},
+								"small" : 
+								{
+									"h" : 244,
+									"resize" : "fit",
+									"w" : 198
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/DzvME7BlpD"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ibm.co/1A0c0lO",
+							"expanded_url" : "http://ibm.co/1A0c0lO",
+							"indices" : 
+							[
+								86,
+								108
+							],
+							"url" : "http://t.co/0eSSUGKvZs"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_extended_entities" : 
+				{
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/DzvME7BlpD",
+							"expanded_url" : "http://twitter.com/IBMSoftware/status/538419648455507968/photo/1",
+							"id" : 538419647846940672,
+							"id_str" : "538419647846940672",
+							"indices" : 
+							[
+								109,
+								131
+							],
+							"media_url" : "http://pbs.twimg.com/media/B3jZ0SoCAAAsc81.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B3jZ0SoCAAAsc81.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 244,
+									"resize" : "fit",
+									"w" : 198
+								},
+								"medium" : 
+								{
+									"h" : 244,
+									"resize" : "fit",
+									"w" : 198
+								},
+								"small" : 
+								{
+									"h" : 244,
+									"resize" : "fit",
+									"w" : 198
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/DzvME7BlpD"
+						}
+					]
+				},
+				"twitter_filter_level" : "low",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Brussels",
+						"country" : "Belgium",
+						"state" : "Brussels Capital Region"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "better"
+							}
+						],
+						"polarity" : "POSITIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Luc Vervecken",
+					"favoritesCount" : 15,
+					"followersCount" : 25,
+					"friendsCount" : 93,
+					"id" : "id:twitter.com:295907902",
+					"image" : "https://pbs.twimg.com/profile_images/423014514640945152/UGYK8DET_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/lucverv",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 2,
+					"location" : 
+					{
+						"displayName" : "brussel",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2011-05-09T21:28:03.000Z",
+					"preferredUsername" : "lucverv",
+					"statusesCount" : 193,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Why bigger compression isn’t always better for a database - http://t.co/3hBygPyc3H #analytics #db2",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Hootsuite",
+					"link" : "http://www.hootsuite.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Belgium",
+								"countryCode" : "BE",
+								"locality" : "Brussels",
+								"region" : "Brussels Capital Region"
+							},
+							"displayName" : "Brussels, Brussels Capital Region, Belgium",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									4.3487799999999996,
+									50.850450000000002
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://ibmdatamanagement.co/2013/08/23/compression/",
+							"url" : "http://t.co/3hBygPyc3H"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:537877262033772544",
+				"link" : "http://twitter.com/lucverv/statuses/537877262033772544",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:537877262033772544",
+					"link" : "http://twitter.com/lucverv/statuses/537877262033772544",
+					"objectType" : "note",
+					"postedTime" : "2014-11-27T07:55:07.000Z",
+					"summary" : "Why bigger compression isn’t always better for a database - http://t.co/3hBygPyc3H #analytics #db2"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T07:55:07.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								83,
+								93
+							],
+							"text" : "analytics"
+						},
+						{
+							"indices" : 
+							[
+								94,
+								98
+							],
+							"text" : "db2"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ibm.co/1wQAYV5",
+							"expanded_url" : "http://ibm.co/1wQAYV5",
+							"indices" : 
+							[
+								60,
+								82
+							],
+							"url" : "http://t.co/3hBygPyc3H"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "Michigan"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Michigan Jobs",
+					"favoritesCount" : 3,
+					"followersCount" : 5,
+					"friendsCount" : 8,
+					"id" : "id:twitter.com:2814045171",
+					"image" : "https://pbs.twimg.com/profile_images/519486320909893633/BgqE6Ww9_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Hiring_Michigan",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ApexOpus.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Michigan USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-10-07T13:55:18.000Z",
+					"preferredUsername" : "Hiring_Michigan",
+					"statusesCount" : 7310,
+					"summary" : "See who is hiring in Michigan. Be the first to see the latest jobs. \nSearch millions of jobs using http://ApexOpus.com",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ DB2 DBA http://t.co/ar4ZmiJnBs view full details #job #hiring",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "Michigan"
+							},
+							"displayName" : "Michigan, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-85.500330000000005,
+									44.25029
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.apexopus.com/en/viewjob.aspx?JobID=eb0b7807-26c0-4009-a438-ad01d3495f2a&origin=rss&provider=j&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/ar4ZmiJnBs"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538444235905564672",
+				"link" : "http://twitter.com/Hiring_Michigan/statuses/538444235905564672",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538444235905564672",
+					"link" : "http://twitter.com/Hiring_Michigan/statuses/538444235905564672",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T21:28:04.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ DB2 DBA http://t.co/ar4ZmiJnBs view full details #job #hiring"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T21:28:04.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								67,
+								71
+							],
+							"text" : "job"
+						},
+						{
+							"indices" : 
+							[
+								72,
+								79
+							],
+							"text" : "hiring"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7g4tFv",
+							"expanded_url" : "http://dlvr.it/7g4tFv",
+							"indices" : 
+							[
+								26,
+								48
+							],
+							"url" : "http://t.co/ar4ZmiJnBs"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Intelligent",
+					"favoritesCount" : 18,
+					"followersCount" : 2154,
+					"friendsCount" : 2330,
+					"id" : "id:twitter.com:109813602",
+					"image" : "https://pbs.twimg.com/profile_images/2678797286/07fbcda8494901a7ddcc6b82b4b04fb5_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/huiwenhan",
+					"links" : 
+					[
+						{
+							"href" : "http://about.me/huiwen.han",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 61,
+					"objectType" : "person",
+					"postedTime" : "2010-01-30T10:34:30.000Z",
+					"preferredUsername" : "huiwenhan",
+					"statusesCount" : 9486,
+					"summary" : "Consulting ITS,Focus on #Cognitive, #Analytics,#BigData,#IBMWatson,#MachineLearning,#DataMining,#NLP,\r\n#Cloud, #Hadoop, #SOA(My opinions are my own)",
+					"twitterTimeZone" : "Alaska",
+					"utcOffset" : "-32400",
+					"verified" : false
+				},
+				"body" : "[repost ]DB2 Verifying the TCP/IP setup on the server and client http://t.co/ZSGc1aWe1k http://t.co/f3lgmNvlYn",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IFTTT",
+					"link" : "http://ifttt.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://blog.newitfarmer.com/imd/db2-express-c/15408/repost-db2-verifying-the-tcpip-setup-on-the-server-and-client",
+							"url" : "http://t.co/ZSGc1aWe1k"
+						},
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://ifttt.com/images/no_image_card.png",
+							"url" : "http://t.co/f3lgmNvlYn"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538337834785320962",
+				"link" : "http://twitter.com/huiwenhan/statuses/538337834785320962",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538337834785320962",
+					"link" : "http://twitter.com/huiwenhan/statuses/538337834785320962",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T14:25:16.000Z",
+					"summary" : "[repost ]DB2 Verifying the TCP/IP setup on the server and client http://t.co/ZSGc1aWe1k http://t.co/f3lgmNvlYn"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T14:25:16.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ift.tt/1xQUHR6",
+							"expanded_url" : "http://ift.tt/1xQUHR6",
+							"indices" : 
+							[
+								65,
+								87
+							],
+							"url" : "http://t.co/ZSGc1aWe1k"
+						},
+						{
+							"display_url" : "ift.tt/eA8V8J",
+							"expanded_url" : "http://ift.tt/eA8V8J",
+							"indices" : 
+							[
+								88,
+								110
+							],
+							"url" : "http://t.co/f3lgmNvlYn"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "easy"
+							}
+						],
+						"polarity" : "POSITIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IBM DB2",
+					"favoritesCount" : 1744,
+					"followersCount" : 4511,
+					"friendsCount" : 1837,
+					"id" : "id:twitter.com:116565980",
+					"image" : "https://pbs.twimg.com/profile_images/483975598096654338/ww-R8m6T_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/IBM_DB2",
+					"links" : 
+					[
+						{
+							"href" : "http://ibm.com/db2",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 216,
+					"objectType" : "person",
+					"postedTime" : "2010-02-22T22:58:27.000Z",
+					"preferredUsername" : "IBM_DB2",
+					"statusesCount" : 10780,
+					"summary" : "The official Twitter account for IBM DB2 for Linux, Unix and Windows. Managed by @susvis, @basir5283 and @jsnburns. Follows IBM Social Computing Guidlines.",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "Are you still using #Oracle as your database server? Make an easy move to #DB2.  Learn more: http://t.co/nhBpf988Ae @IBMRedbooks #oow14",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "TweetDeck",
+					"link" : "https://about.twitter.com/products/tweetdeck"
+				},
+				"id" : "tag:search.twitter.com,2005:538340331868016641",
+				"link" : "http://twitter.com/IBM_DB2/statuses/538340331868016641",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538340331868016641",
+					"link" : "http://twitter.com/IBM_DB2/statuses/538340331868016641",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T14:35:11.000Z",
+					"summary" : "Are you still using #Oracle as your database server? Make an easy move to #DB2.  Learn more: http://t.co/nhBpf988Ae @IBMRedbooks #oow14"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T14:35:11.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 5,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								20,
+								27
+							],
+							"text" : "Oracle"
+						},
+						{
+							"indices" : 
+							[
+								74,
+								78
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								129,
+								135
+							],
+							"text" : "oow14"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/OracleTODB2",
+							"expanded_url" : "http://bit.ly/OracleTODB2",
+							"indices" : 
+							[
+								93,
+								115
+							],
+							"url" : "http://t.co/nhBpf988Ae"
+						}
+					],
+					"user_mentions" : 
+					[
+						{
+							"id" : 22063434,
+							"id_str" : "22063434",
+							"indices" : 
+							[
+								116,
+								128
+							],
+							"name" : "IBM Redbooks",
+							"screen_name" : "IBMRedbooks"
+						}
+					]
+				},
+				"twitter_filter_level" : "low",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Stone",
+						"country" : "United Kingdom",
+						"state" : "England"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "easy"
+							}
+						],
+						"polarity" : "POSITIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Steve Higgs",
+					"favoritesCount" : 0,
+					"followersCount" : 70,
+					"friendsCount" : 190,
+					"id" : "id:twitter.com:1303967228",
+					"image" : "https://pbs.twimg.com/profile_images/3655709921/c60949e458e5855c45422626665ad58a_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Steve__Higgs",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 1,
+					"location" : 
+					{
+						"displayName" : "Staffordshire, England",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-03-26T13:03:11.000Z",
+					"preferredUsername" : "Steve__Higgs",
+					"statusesCount" : 393,
+					"summary" : "anything I say is my opinion only",
+					"twitterTimeZone" : "London",
+					"utcOffset" : "0",
+					"verified" : false
+				},
+				"body" : "RT @IBM_DB2: Are you still using #Oracle as your database server? Make an easy move to #DB2.  Learn more: http://t.co/nhBpf988Ae @IBMRedbooks #oow14",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter Web Client",
+					"link" : "http://twitter.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United Kingdom",
+								"countryCode" : "GB",
+								"locality" : "Stone",
+								"region" : "England"
+							},
+							"displayName" : "Stone, England, United Kingdom",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-2.1540900000000001,
+									52.905900000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://publib-b.boulder.ibm.com/abstracts/sg247736.html?Open",
+							"url" : "http://t.co/nhBpf988Ae"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538347635183476737",
+				"link" : "http://twitter.com/Steve__Higgs/statuses/538347635183476737",
+				"object" : 
+				{
+					"actor" : 
+					{
+						"displayName" : "IBM DB2",
+						"favoritesCount" : 1744,
+						"followersCount" : 4511,
+						"friendsCount" : 1837,
+						"id" : "id:twitter.com:116565980",
+						"image" : "https://pbs.twimg.com/profile_images/483975598096654338/ww-R8m6T_normal.png",
+						"languages" : 
+						[
+							"en"
+						],
+						"link" : "http://www.twitter.com/IBM_DB2",
+						"links" : 
+						[
+							{
+								"href" : "http://ibm.com/db2",
+								"rel" : "me"
+							}
+						],
+						"listedCount" : 216,
+						"objectType" : "person",
+						"postedTime" : "2010-02-22T22:58:27.000Z",
+						"preferredUsername" : "IBM_DB2",
+						"statusesCount" : 10780,
+						"summary" : "The official Twitter account for IBM DB2 for Linux, Unix and Windows. Managed by @susvis, @basir5283 and @jsnburns. Follows IBM Social Computing Guidlines.",
+						"twitterTimeZone" : "Eastern Time (US & Canada)",
+						"utcOffset" : "-18000",
+						"verified" : false
+					},
+					"body" : "Are you still using #Oracle as your database server? Make an easy move to #DB2.  Learn more: http://t.co/nhBpf988Ae @IBMRedbooks #oow14",
+					"favoritesCount" : 0,
+					"generator" : 
+					{
+						"displayName" : "TweetDeck",
+						"link" : "https://about.twitter.com/products/tweetdeck"
+					},
+					"id" : "tag:search.twitter.com,2005:538340331868016641",
+					"link" : "http://twitter.com/IBM_DB2/statuses/538340331868016641",
+					"object" : 
+					{
+						"id" : "object:search.twitter.com,2005:538340331868016641",
+						"link" : "http://twitter.com/IBM_DB2/statuses/538340331868016641",
+						"objectType" : "note",
+						"postedTime" : "2014-11-28T14:35:11.000Z",
+						"summary" : "Are you still using #Oracle as your database server? Make an easy move to #DB2.  Learn more: http://t.co/nhBpf988Ae @IBMRedbooks #oow14"
+					},
+					"objectType" : "activity",
+					"postedTime" : "2014-11-28T14:35:11.000Z",
+					"provider" : 
+					{
+						"displayName" : "Twitter",
+						"link" : "http://www.twitter.com",
+						"objectType" : "service"
+					},
+					"twitter_entities" : 
+					{
+						"hashtags" : 
+						[
+							{
+								"indices" : 
+								[
+									20,
+									27
+								],
+								"text" : "Oracle"
+							},
+							{
+								"indices" : 
+								[
+									74,
+									78
+								],
+								"text" : "DB2"
+							},
+							{
+								"indices" : 
+								[
+									129,
+									135
+								],
+								"text" : "oow14"
+							}
+						],
+						"symbols" : [],
+						"trends" : [],
+						"urls" : 
+						[
+							{
+								"display_url" : "bit.ly/OracleTODB2",
+								"expanded_url" : "http://bit.ly/OracleTODB2",
+								"indices" : 
+								[
+									93,
+									115
+								],
+								"url" : "http://t.co/nhBpf988Ae"
+							}
+						],
+						"user_mentions" : 
+						[
+							{
+								"id" : 22063434,
+								"id_str" : "22063434",
+								"indices" : 
+								[
+									116,
+									128
+								],
+								"name" : "IBM Redbooks",
+								"screen_name" : "IBMRedbooks"
+							}
+						]
+					},
+					"twitter_filter_level" : "low",
+					"twitter_lang" : "en",
+					"verb" : "post"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T15:04:12.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 5,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								33,
+								40
+							],
+							"text" : "Oracle"
+						},
+						{
+							"indices" : 
+							[
+								87,
+								91
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								139,
+								140
+							],
+							"text" : "oow14"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/OracleTODB2",
+							"expanded_url" : "http://bit.ly/OracleTODB2",
+							"indices" : 
+							[
+								106,
+								128
+							],
+							"url" : "http://t.co/nhBpf988Ae"
+						}
+					],
+					"user_mentions" : 
+					[
+						{
+							"id" : 116565980,
+							"id_str" : "116565980",
+							"indices" : 
+							[
+								3,
+								11
+							],
+							"name" : "IBM DB2",
+							"screen_name" : "IBM_DB2"
+						},
+						{
+							"id" : 22063434,
+							"id_str" : "22063434",
+							"indices" : 
+							[
+								139,
+								140
+							],
+							"name" : "IBM Redbooks",
+							"screen_name" : "IBMRedbooks"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "share"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Ebooknetworking.net",
+					"favoritesCount" : 57,
+					"followersCount" : 1317,
+					"friendsCount" : 713,
+					"id" : "id:twitter.com:1386338108",
+					"image" : "https://pbs.twimg.com/profile_images/3584571535/26bccd036b91e43da5c431a50d3d014d_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/BuyBookstore",
+					"links" : 
+					[
+						{
+							"href" : "http://twiends.com/buybookstore",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 25,
+					"objectType" : "person",
+					"postedTime" : "2013-04-28T07:13:18.000Z",
+					"preferredUsername" : "BuyBookstore",
+					"statusesCount" : 115657,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "IBM DB2 11 for Z/Os Performance Topics - http://t.co/fcjBgLeT34 http://t.co/Y5j25CLmLH",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "booksonthemove",
+					"link" : "http://booksonthemove.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://twitter.com/BuyBookstore/status/538086799805935616/photo/1",
+							"url" : "http://t.co/Y5j25CLmLH"
+						},
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://booksonthemove.com/book-review/ibm-db2-11-for-zos-performance-topics",
+							"url" : "http://t.co/fcjBgLeT34"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538086799805935616",
+				"link" : "http://twitter.com/BuyBookstore/statuses/538086799805935616",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538086799805935616",
+					"link" : "http://twitter.com/BuyBookstore/statuses/538086799805935616",
+					"objectType" : "note",
+					"postedTime" : "2014-11-27T21:47:44.000Z",
+					"summary" : "IBM DB2 11 for Z/Os Performance Topics - http://t.co/fcjBgLeT34 http://t.co/Y5j25CLmLH"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T21:47:44.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/Y5j25CLmLH",
+							"expanded_url" : "http://twitter.com/BuyBookstore/status/538086799805935616/photo/1",
+							"id" : 538086799738802176,
+							"id_str" : "538086799738802176",
+							"indices" : 
+							[
+								64,
+								86
+							],
+							"media_url" : "http://pbs.twimg.com/media/B3erF-zCEAAGWW9.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B3erF-zCEAAGWW9.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 500,
+									"resize" : "fit",
+									"w" : 387
+								},
+								"medium" : 
+								{
+									"h" : 500,
+									"resize" : "fit",
+									"w" : 387
+								},
+								"small" : 
+								{
+									"h" : 439,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/Y5j25CLmLH"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "booksonthemove.com/book-review/ib…",
+							"expanded_url" : "http://booksonthemove.com/book-review/ibm-db2-11-for-zos-performance-topics",
+							"indices" : 
+							[
+								41,
+								63
+							],
+							"url" : "http://t.co/fcjBgLeT34"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_extended_entities" : 
+				{
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/Y5j25CLmLH",
+							"expanded_url" : "http://twitter.com/BuyBookstore/status/538086799805935616/photo/1",
+							"id" : 538086799738802176,
+							"id_str" : "538086799738802176",
+							"indices" : 
+							[
+								64,
+								86
+							],
+							"media_url" : "http://pbs.twimg.com/media/B3erF-zCEAAGWW9.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B3erF-zCEAAGWW9.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 500,
+									"resize" : "fit",
+									"w" : 387
+								},
+								"medium" : 
+								{
+									"h" : 500,
+									"resize" : "fit",
+									"w" : 387
+								},
+								"small" : 
+								{
+									"h" : 439,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/Y5j25CLmLH"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Chicago",
+						"country" : "United States",
+						"state" : "Illinois"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "consistent"
+							},
+							{
+								"polarity" : "NEGATIVE",
+								"sentimentTerm" : "inconsistent"
+							}
+						],
+						"polarity" : "AMBIVALENT"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "The IDP Guru",
+					"favoritesCount" : 0,
+					"followersCount" : 2515,
+					"friendsCount" : 369,
+					"id" : "id:twitter.com:90727885",
+					"image" : "https://pbs.twimg.com/profile_images/549158587/My_Logo__With_Words__normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/TheIDPGuru",
+					"links" : 
+					[
+						{
+							"href" : "http://www.idpguru.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 166,
+					"location" : 
+					{
+						"displayName" : "Chicago, IL",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-11-17T21:47:20.000Z",
+					"preferredUsername" : "TheIDPGuru",
+					"statusesCount" : 1025,
+					"summary" : "A one stop shop for everything IDP Fantasy Football: IDP rankings, starts/sits, sleepers, busts, and so much more!",
+					"twitterTimeZone" : "Central Time (US & Canada)",
+					"utcOffset" : "-21600",
+					"verified" : false
+				},
+				"body" : "@brandondubreuil He's been one of the more consistent performers at a very inconsistent position. So despite poor matchup, still DB2.",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter for Websites",
+					"link" : "https://dev.twitter.com/docs/tfw"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Chicago",
+								"region" : "Illinois",
+								"subRegion" : "Cook County"
+							},
+							"displayName" : "Chicago, Illinois, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-87.650049999999993,
+									41.850029999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538035832741842945",
+				"inReplyTo" : 
+				{
+					"link" : "http://twitter.com/brandondubreuil/statuses/537761144077684736"
+				},
+				"link" : "http://twitter.com/TheIDPGuru/statuses/538035832741842945",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538035832741842945",
+					"link" : "http://twitter.com/TheIDPGuru/statuses/538035832741842945",
+					"objectType" : "note",
+					"postedTime" : "2014-11-27T18:25:13.000Z",
+					"summary" : "@brandondubreuil He's been one of the more consistent performers at a very inconsistent position. So despite poor matchup, still DB2."
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T18:25:13.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : 
+					[
+						{
+							"id" : 323116972,
+							"id_str" : "323116972",
+							"indices" : 
+							[
+								0,
+								16
+							],
+							"name" : "Brandon DuBreuil",
+							"screen_name" : "brandondubreuil"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "A.T.O.M.",
+					"favoritesCount" : 1334,
+					"followersCount" : 288,
+					"friendsCount" : 230,
+					"id" : "id:twitter.com:52265655",
+					"image" : "https://pbs.twimg.com/profile_images/1165119320/Picture_4_normal.jpg",
+					"languages" : 
+					[
+						"ja"
+					],
+					"link" : "http://www.twitter.com/ishigaqui",
+					"links" : 
+					[
+						{
+							"href" : "http://last.fm/user/atomishigaqui",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 14,
+					"location" : 
+					{
+						"displayName" : "anywhere",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-06-30T01:54:09.000Z",
+					"preferredUsername" : "ishigaqui",
+					"statusesCount" : 15459,
+					"summary" : "i am he as you are he as you are me and we are all together",
+					"twitterTimeZone" : "Tokyo",
+					"utcOffset" : "32400",
+					"verified" : false
+				},
+				"body" : "club db2、今年もディージェーしとりますー♪ http://t.co/omt1UVbNn6",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "TheWorld⠀",
+					"link" : "http://theworld09.com/"
+				},
+				"id" : "tag:search.twitter.com,2005:538271070944374784",
+				"link" : "http://twitter.com/ishigaqui/statuses/538271070944374784",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538271070944374784",
+					"link" : "http://twitter.com/ishigaqui/statuses/538271070944374784",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T09:59:58.000Z",
+					"summary" : "club db2、今年もディージェーしとりますー♪ http://t.co/omt1UVbNn6"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T09:59:58.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 1,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/omt1UVbNn6",
+							"expanded_url" : "http://twitter.com/ishigaqui/status/538271070944374784/photo/1",
+							"id" : 538271070499786752,
+							"id_str" : "538271070499786752",
+							"indices" : 
+							[
+								26,
+								48
+							],
+							"media_url" : "http://pbs.twimg.com/media/B3hSr84CUAAz08O.png",
+							"media_url_https" : "https://pbs.twimg.com/media/B3hSr84CUAAz08O.png",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 960,
+									"resize" : "fit",
+									"w" : 960
+								},
+								"medium" : 
+								{
+									"h" : 600,
+									"resize" : "fit",
+									"w" : 600
+								},
+								"small" : 
+								{
+									"h" : 340,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/omt1UVbNn6"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_extended_entities" : 
+				{
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/omt1UVbNn6",
+							"expanded_url" : "http://twitter.com/ishigaqui/status/538271070944374784/photo/1",
+							"id" : 538271070499786752,
+							"id_str" : "538271070499786752",
+							"indices" : 
+							[
+								26,
+								48
+							],
+							"media_url" : "http://pbs.twimg.com/media/B3hSr84CUAAz08O.png",
+							"media_url_https" : "https://pbs.twimg.com/media/B3hSr84CUAAz08O.png",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 960,
+									"resize" : "fit",
+									"w" : 960
+								},
+								"medium" : 
+								{
+									"h" : 600,
+									"resize" : "fit",
+									"w" : 600
+								},
+								"small" : 
+								{
+									"h" : 340,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/omt1UVbNn6"
+						}
+					]
+				},
+				"twitter_filter_level" : "low",
+				"twitter_lang" : "ja",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Java Developer Jobs",
+					"favoritesCount" : 23,
+					"followersCount" : 196,
+					"friendsCount" : 116,
+					"id" : "id:twitter.com:2673122012",
+					"image" : "https://pbs.twimg.com/profile_images/491884141047078913/BWXwmyK9_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Java_Dev_Job",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 1,
+					"location" : 
+					{
+						"displayName" : "Worldwide",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-07-23T09:50:01.000Z",
+					"preferredUsername" : "Java_Dev_Job",
+					"statusesCount" : 9267,
+					"summary" : "Java Job - Follow this account for Java Developer job tweets",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Lake Success - DB2 Database Administrator http://t.co/NGBNaG8GBc view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "it"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Saint Vincent and the Grenadines",
+								"countryCode" : "VC"
+							},
+							"displayName" : "Saint Vincent and the Grenadines",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-61.200000000000003,
+									13.08333
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=9b09ab3d-6547-455e-aa7f-744d1ef36e1a&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/NGBNaG8GBc"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538287350464262149",
+				"link" : "http://twitter.com/Java_Dev_Job/statuses/538287350464262149",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538287350464262149",
+					"link" : "http://twitter.com/Java_Dev_Job/statuses/538287350464262149",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T11:04:39.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Lake Success - DB2 Database Administrator http://t.co/NGBNaG8GBc view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T11:04:39.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								35
+							],
+							"text" : "Lake"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7fpjXR",
+							"expanded_url" : "http://dlvr.it/7fpjXR",
+							"indices" : 
+							[
+								73,
+								95
+							],
+							"url" : "http://t.co/NGBNaG8GBc"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "India",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "Great Job"
+							}
+						],
+						"polarity" : "POSITIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Lavkush Shukla",
+					"favoritesCount" : 0,
+					"followersCount" : 57,
+					"friendsCount" : 4,
+					"id" : "id:twitter.com:106784716",
+					"image" : "https://pbs.twimg.com/profile_images/1175603467/lavkush_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Lavkushshukla",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 2,
+					"location" : 
+					{
+						"displayName" : "India",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-01-20T17:48:33.000Z",
+					"preferredUsername" : "Lavkushshukla",
+					"statusesCount" : 1488,
+					"summary" : "Technical Recruiter US)",
+					"twitterTimeZone" : "Mumbai",
+					"utcOffset" : "19800",
+					"verified" : false
+				},
+				"body" : "Great Job Opportunity: DB2 SQL PL Developer in Union, NJ http://t.co/hm1vL7I2c5 #job",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Bullhorn Reach",
+					"link" : "http://www.bullhornreach.com/"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "India",
+								"countryCode" : "IN"
+							},
+							"displayName" : "India",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									77,
+									20
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.bullhornreach.com/job/1761931_db2-sql-pl-developer-union-nj?utm_campaign=v1&shortlink=3721348&utm_content=54&utm_source=twitter.com&referer=None&utm_medium=referral",
+							"url" : "http://t.co/hm1vL7I2c5"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538385161650724865",
+				"link" : "http://twitter.com/Lavkushshukla/statuses/538385161650724865",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538385161650724865",
+					"link" : "http://twitter.com/Lavkushshukla/statuses/538385161650724865",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T17:33:19.000Z",
+					"summary" : "Great Job Opportunity: DB2 SQL PL Developer in Union, NJ http://t.co/hm1vL7I2c5 #job"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T17:33:19.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								80,
+								84
+							],
+							"text" : "job"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bull.hn/l/27RES/54",
+							"expanded_url" : "http://bull.hn/l/27RES/54",
+							"indices" : 
+							[
+								57,
+								79
+							],
+							"url" : "http://t.co/hm1vL7I2c5"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IBM DB2",
+					"favoritesCount" : 1744,
+					"followersCount" : 4511,
+					"friendsCount" : 1837,
+					"id" : "id:twitter.com:116565980",
+					"image" : "https://pbs.twimg.com/profile_images/483975598096654338/ww-R8m6T_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/IBM_DB2",
+					"links" : 
+					[
+						{
+							"href" : "http://ibm.com/db2",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 216,
+					"objectType" : "person",
+					"postedTime" : "2010-02-22T22:58:27.000Z",
+					"preferredUsername" : "IBM_DB2",
+					"statusesCount" : 10780,
+					"summary" : "The official Twitter account for IBM DB2 for Linux, Unix and Windows. Managed by @susvis, @basir5283 and @jsnburns. Follows IBM Social Computing Guidlines.",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "Find out how to mitigate risk and accelerate insight with the help of #DB2 BLU Acceleration http://t.co/qstMxFO6LK #IBMBLU",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "TweetDeck",
+					"link" : "https://about.twitter.com/products/tweetdeck"
+				},
+				"id" : "tag:search.twitter.com,2005:537808588480057344",
+				"link" : "http://twitter.com/IBM_DB2/statuses/537808588480057344",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:537808588480057344",
+					"link" : "http://twitter.com/IBM_DB2/statuses/537808588480057344",
+					"objectType" : "note",
+					"postedTime" : "2014-11-27T03:22:14.000Z",
+					"summary" : "Find out how to mitigate risk and accelerate insight with the help of #DB2 BLU Acceleration http://t.co/qstMxFO6LK #IBMBLU"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T03:22:14.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 1,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								70,
+								74
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								115,
+								122
+							],
+							"text" : "IBMBLU"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ibm.co/1qK3Koi",
+							"expanded_url" : "http://ibm.co/1qK3Koi",
+							"indices" : 
+							[
+								92,
+								114
+							],
+							"url" : "http://t.co/qstMxFO6LK"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "low",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "SPAIN",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "TodoEmpleoES",
+					"favoritesCount" : 9,
+					"followersCount" : 922,
+					"friendsCount" : 44,
+					"id" : "id:twitter.com:2306263944",
+					"image" : "https://pbs.twimg.com/profile_images/426326688616558592/RZ-tyfyA_normal.jpeg",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/TodoEmpleoES",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 31,
+					"location" : 
+					{
+						"displayName" : "España",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-01-23T09:28:31.000Z",
+					"preferredUsername" : "TodoEmpleoES",
+					"statusesCount" : 60208,
+					"summary" : "¿Buscas trabajo? Te ayudamos a encontrar las ofertas de empleo más recientes. @TodoEmpleoES - Todas las provincias, todos los empleos.",
+					"twitterTimeZone" : "Madrid",
+					"utcOffset" : "3600",
+					"verified" : false
+				},
+				"body" : "AF/AO/AP COBOL/CICS/DB2 Medios de pago Barcelona - Tecnocom Nordeste -  Andorra http://t.co/5c0lfJzLoI #Informático/a",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "pt"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES"
+							},
+							"displayName" : "Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-4,
+									40
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 405,
+							"expanded_url" : "http://www.indeed.es/ver-oferta?t=Af%20Ao%20Ap%20Cobol%20CICS%20DB2%20Medios%20Pago%20Barcelona&c=Tecnocom%20Nordeste&l=Andorra&jk=d953f4d9e0c100f8&utm_medium=twitter&utm_source=twitterfeed",
+							"url" : "http://t.co/5c0lfJzLoI"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:537981718649528320",
+				"link" : "http://twitter.com/TodoEmpleoES/statuses/537981718649528320",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:537981718649528320",
+					"link" : "http://twitter.com/TodoEmpleoES/statuses/537981718649528320",
+					"objectType" : "note",
+					"postedTime" : "2014-11-27T14:50:11.000Z",
+					"summary" : "AF/AO/AP COBOL/CICS/DB2 Medios de pago Barcelona - Tecnocom Nordeste -  Andorra http://t.co/5c0lfJzLoI #Informático/a"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T14:50:11.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								103,
+								115
+							],
+							"text" : "Informático"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1rrynRq",
+							"expanded_url" : "http://bit.ly/1rrynRq",
+							"indices" : 
+							[
+								80,
+								102
+							],
+							"url" : "http://t.co/5c0lfJzLoI"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "pt",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "Arizona"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Arizona Recruiting",
+					"favoritesCount" : 0,
+					"followersCount" : 17,
+					"friendsCount" : 32,
+					"id" : "id:twitter.com:2785313157",
+					"image" : "https://pbs.twimg.com/profile_images/515477319226368000/SKao7sYt_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/IT_Arizona",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Arizona",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-26T12:22:59.000Z",
+					"preferredUsername" : "IT_Arizona",
+					"statusesCount" : 4765,
+					"summary" : "IT Hiring, posting job opportunities. Open networker, follow and add me to your network! Now Hiring all IT positions",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #San Antonio - DB2 DBA http://t.co/T81Y1gPs9h view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "sv"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "Arizona"
+							},
+							"displayName" : "Arizona, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-111.50098,
+									34.500300000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=7e511d1b-60d0-4fa7-8ffa-291de509fe93&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/T81Y1gPs9h"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538154391027470337",
+				"link" : "http://twitter.com/IT_Arizona/statuses/538154391027470337",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538154391027470337",
+					"link" : "http://twitter.com/IT_Arizona/statuses/538154391027470337",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T02:16:19.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #San Antonio - DB2 DBA http://t.co/T81Y1gPs9h view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T02:16:19.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								34
+							],
+							"text" : "San"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7fbdDV",
+							"expanded_url" : "http://dlvr.it/7fbdDV",
+							"indices" : 
+							[
+								53,
+								75
+							],
+							"url" : "http://t.co/T81Y1gPs9h"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Little Rock",
+						"country" : "United States",
+						"state" : "Arkansas"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Jobs in Little Rock",
+					"favoritesCount" : 0,
+					"followersCount" : 238,
+					"friendsCount" : 816,
+					"id" : "id:twitter.com:2364291234",
+					"image" : "https://pbs.twimg.com/profile_images/439053805611524096/VoYFTGI6_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Job_LittleRock",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 10,
+					"location" : 
+					{
+						"displayName" : "Little Rock, AR",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-02-27T15:01:37.000Z",
+					"preferredUsername" : "Job_LittleRock",
+					"statusesCount" : 57767,
+					"summary" : "Tweets with latest #Jobs #Offers in #LittleRock !!",
+					"twitterTimeZone" : "Amsterdam",
+					"utcOffset" : "3600",
+					"verified" : false
+				},
+				"body" : "#Job #LittleRock Db2 dba: Little Rock Job OverviewCompany: Â Â Â. Amitech Solutions Title: Â Â Â. DB2 DBA Skil... http://t.co/nxbxfDHJiK",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Little Rock",
+								"region" : "Arkansas",
+								"subRegion" : "Pulaski County"
+							},
+							"displayName" : "Little Rock, Arkansas, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-92.289590000000004,
+									34.746479999999998
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://jobs.miurl.org/4PmW",
+							"url" : "http://t.co/nxbxfDHJiK"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538087568231772161",
+				"link" : "http://twitter.com/Job_LittleRock/statuses/538087568231772161",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538087568231772161",
+					"link" : "http://twitter.com/Job_LittleRock/statuses/538087568231772161",
+					"objectType" : "note",
+					"postedTime" : "2014-11-27T21:50:48.000Z",
+					"summary" : "#Job #LittleRock Db2 dba: Little Rock Job OverviewCompany: Â Â Â. Amitech Solutions Title: Â Â Â. DB2 DBA Skil... http://t.co/nxbxfDHJiK"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T21:50:48.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								4
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								5,
+								16
+							],
+							"text" : "LittleRock"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "jobs.miurl.org/4PmW",
+							"expanded_url" : "http://jobs.miurl.org/4PmW",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/nxbxfDHJiK"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "da",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IBM SmarterComputing",
+					"favoritesCount" : 290,
+					"followersCount" : 20018,
+					"friendsCount" : 1053,
+					"id" : "id:twitter.com:245312303",
+					"image" : "https://pbs.twimg.com/profile_images/2676767569/6efd02b8b137bac9c084df4092b50900_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/IBMSmrtrCmptng",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ibm.com/Smarter-Computing",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 495,
+					"location" : 
+					{
+						"displayName" : "Global",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2011-01-31T11:46:11.000Z",
+					"preferredUsername" : "IBMSmrtrCmptng",
+					"statusesCount" : 12696,
+					"summary" : "The IT infrastructure that enables a Smarter Planet. Follows IBM social business guidelines. Maintained by @CatNickery & @MichaelBivona2. http://t.co/KEdD7KDF",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "Looking for a leading-edge business intelligence platform? Try IBM DB2 with BLU Acceleration on @IBMPowerSystems http://t.co/mAjoKL66uX",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "ExpionDev",
+					"link" : "http://expion.com"
+				},
+				"id" : "tag:search.twitter.com,2005:538037027653300225",
+				"link" : "http://twitter.com/IBMSmrtrCmptng/statuses/538037027653300225",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538037027653300225",
+					"link" : "http://twitter.com/IBMSmrtrCmptng/statuses/538037027653300225",
+					"objectType" : "note",
+					"postedTime" : "2014-11-27T18:29:58.000Z",
+					"summary" : "Looking for a leading-edge business intelligence platform? Try IBM DB2 with BLU Acceleration on @IBMPowerSystems http://t.co/mAjoKL66uX"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T18:29:58.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 1,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ibm.co/1xs2LLB",
+							"expanded_url" : "http://ibm.co/1xs2LLB",
+							"indices" : 
+							[
+								113,
+								135
+							],
+							"url" : "http://t.co/mAjoKL66uX"
+						}
+					],
+					"user_mentions" : 
+					[
+						{
+							"id" : 116583614,
+							"id_str" : "116583614",
+							"indices" : 
+							[
+								96,
+								112
+							],
+							"name" : "IBMPowerSystems",
+							"screen_name" : "IBMPowerSystems"
+						}
+					]
+				},
+				"twitter_filter_level" : "low",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "female",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Java Developer Jobs",
+					"favoritesCount" : 23,
+					"followersCount" : 196,
+					"friendsCount" : 116,
+					"id" : "id:twitter.com:2673122012",
+					"image" : "https://pbs.twimg.com/profile_images/491884141047078913/BWXwmyK9_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Java_Dev_Job",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 1,
+					"location" : 
+					{
+						"displayName" : "Worldwide",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-07-23T09:50:01.000Z",
+					"preferredUsername" : "Java_Dev_Job",
+					"statusesCount" : 9199,
+					"summary" : "Java Job - Follow this account for Java Developer job tweets",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #San Antonio - DB2 z/OS DBA http://t.co/2kQviLpIVe view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Saint Vincent and the Grenadines",
+								"countryCode" : "VC"
+							},
+							"displayName" : "Saint Vincent and the Grenadines",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-61.200000000000003,
+									13.08333
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=fec16303-63e9-4ba3-92a7-5ce8438494b0&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/2kQviLpIVe"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538108147588542464",
+				"link" : "http://twitter.com/Java_Dev_Job/statuses/538108147588542464",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538108147588542464",
+					"link" : "http://twitter.com/Java_Dev_Job/statuses/538108147588542464",
+					"objectType" : "note",
+					"postedTime" : "2014-11-27T23:12:34.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #San Antonio - DB2 z/OS DBA http://t.co/2kQviLpIVe view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T23:12:34.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								34
+							],
+							"text" : "San"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7fXMph",
+							"expanded_url" : "http://dlvr.it/7fXMph",
+							"indices" : 
+							[
+								58,
+								80
+							],
+							"url" : "http://t.co/2kQviLpIVe"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "Beijing",
+						"country" : "China",
+						"state" : "Beijing"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "newitfarmer",
+					"favoritesCount" : 37,
+					"followersCount" : 124,
+					"friendsCount" : 677,
+					"id" : "id:twitter.com:109803082",
+					"image" : "https://pbs.twimg.com/profile_images/1170140116/0_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/newitfarmer",
+					"links" : 
+					[
+						{
+							"href" : "http://about.me/newitfarmer",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 42,
+					"location" : 
+					{
+						"displayName" : "Beijing",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-01-30T09:23:11.000Z",
+					"preferredUsername" : "newitfarmer",
+					"statusesCount" : 10065,
+					"summary" : "New Concept,New Technic,New Tools\r\n(Big Data and Analytics ,EAI,BPM,SOA,TIBCO,MQ,TUXEDO,Cloud,Hadoop,\r\nMachine Learning,NoSQL,J2EE,Ruby,Scala,Python)",
+					"twitterTimeZone" : "Alaska",
+					"utcOffset" : "-32400",
+					"verified" : false
+				},
+				"body" : "[repost ]DB2远程登录配置 - original:http://t.co/e2Erxz05s0 1.服务器端操作 [db2inst2@xifenfei ~]$ netstat... http://t.co/h4T1zboMqQ",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Tumblr",
+					"link" : "http://www.tumblr.com/"
+				},
+				"gnip" : 
+				{
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "China",
+								"countryCode" : "CN",
+								"locality" : "Beijing",
+								"region" : "Beijing"
+							},
+							"displayName" : "Beijing, Beijing, China",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									116.39722999999999,
+									39.907499999999999
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://tmblr.co/Z9wKqx1WhAl9T",
+							"url" : "http://t.co/h4T1zboMqQ"
+						},
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.xifenfei.com/2891.html",
+							"url" : "http://t.co/e2Erxz05s0"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538332833937633280",
+				"link" : "http://twitter.com/newitfarmer/statuses/538332833937633280",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538332833937633280",
+					"link" : "http://twitter.com/newitfarmer/statuses/538332833937633280",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T14:05:24.000Z",
+					"summary" : "[repost ]DB2远程登录配置 - original:http://t.co/e2Erxz05s0 1.服务器端操作 [db2inst2@xifenfei ~]$ netstat... http://t.co/h4T1zboMqQ"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T14:05:24.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "xifenfei.com/2891.html",
+							"expanded_url" : "http://www.xifenfei.com/2891.html",
+							"indices" : 
+							[
+								30,
+								52
+							],
+							"url" : "http://t.co/e2Erxz05s0"
+						},
+						{
+							"display_url" : "tmblr.co/Z9wKqx1WhAl9T",
+							"expanded_url" : "http://tmblr.co/Z9wKqx1WhAl9T",
+							"indices" : 
+							[
+								96,
+								118
+							],
+							"url" : "http://t.co/h4T1zboMqQ"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "zh",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Buy Now",
+					"favoritesCount" : 2,
+					"followersCount" : 282,
+					"friendsCount" : 54,
+					"id" : "id:twitter.com:2698318218",
+					"image" : "https://pbs.twimg.com/profile_images/495208316964835329/5jD18F1D_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Buy_100",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 2,
+					"location" : 
+					{
+						"displayName" : "USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-08-01T14:02:29.000Z",
+					"preferredUsername" : "Buy_100",
+					"statusesCount" : 82695,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Deals : http://t.co/5bLjAgIDqT #88142 Lot of 9, Parallel (printer) port controller card for PCI slot, LPT1, DB2... http://t.co/AqQXEAhY4l",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IFTTT",
+					"link" : "http://ifttt.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US"
+							},
+							"displayName" : "United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-98.5,
+									39.759999999999998
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.ebay.com/itm/like/311116418819?item=311116418819&lgeo=1&vectorid=229466",
+							"url" : "http://t.co/5bLjAgIDqT"
+						},
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://twitter.com/Buy_100/status/538435236577959936/photo/1",
+							"url" : "http://t.co/AqQXEAhY4l"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538435236577959936",
+				"link" : "http://twitter.com/Buy_100/statuses/538435236577959936",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538435236577959936",
+					"link" : "http://twitter.com/Buy_100/statuses/538435236577959936",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T20:52:18.000Z",
+					"summary" : "Deals : http://t.co/5bLjAgIDqT #88142 Lot of 9, Parallel (printer) port controller card for PCI slot, LPT1, DB2... http://t.co/AqQXEAhY4l"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T20:52:18.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/AqQXEAhY4l",
+							"expanded_url" : "http://twitter.com/Buy_100/status/538435236577959936/photo/1",
+							"id" : 538435236536008704,
+							"id_str" : "538435236536008704",
+							"indices" : 
+							[
+								115,
+								137
+							],
+							"media_url" : "http://pbs.twimg.com/media/B3jn_rBIQAAJ74D.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B3jn_rBIQAAJ74D.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 80,
+									"resize" : "fit",
+									"w" : 140
+								},
+								"medium" : 
+								{
+									"h" : 80,
+									"resize" : "fit",
+									"w" : 140
+								},
+								"small" : 
+								{
+									"h" : 80,
+									"resize" : "fit",
+									"w" : 140
+								},
+								"thumb" : 
+								{
+									"h" : 80,
+									"resize" : "crop",
+									"w" : 140
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/AqQXEAhY4l"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ift.tt/1prJdWI",
+							"expanded_url" : "http://ift.tt/1prJdWI",
+							"indices" : 
+							[
+								8,
+								30
+							],
+							"url" : "http://t.co/5bLjAgIDqT"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_extended_entities" : 
+				{
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/AqQXEAhY4l",
+							"expanded_url" : "http://twitter.com/Buy_100/status/538435236577959936/photo/1",
+							"id" : 538435236536008704,
+							"id_str" : "538435236536008704",
+							"indices" : 
+							[
+								115,
+								137
+							],
+							"media_url" : "http://pbs.twimg.com/media/B3jn_rBIQAAJ74D.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B3jn_rBIQAAJ74D.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 80,
+									"resize" : "fit",
+									"w" : 140
+								},
+								"medium" : 
+								{
+									"h" : 80,
+									"resize" : "fit",
+									"w" : 140
+								},
+								"small" : 
+								{
+									"h" : 80,
+									"resize" : "fit",
+									"w" : 140
+								},
+								"thumb" : 
+								{
+									"h" : 80,
+									"resize" : "crop",
+									"w" : 140
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/AqQXEAhY4l"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "جود الحزن",
+					"favoritesCount" : 2786,
+					"followersCount" : 132,
+					"friendsCount" : 180,
+					"id" : "id:twitter.com:2369299921",
+					"image" : "https://pbs.twimg.com/profile_images/476687352547393537/_5slmL6F_normal.jpeg",
+					"languages" : 
+					[
+						"ar"
+					],
+					"link" : "http://www.twitter.com/rcr808",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"objectType" : "person",
+					"postedTime" : "2014-03-02T19:26:04.000Z",
+					"preferredUsername" : "rcr808",
+					"statusesCount" : 19902,
+					"summary" : null,
+					"twitterTimeZone" : "Baghdad",
+					"utcOffset" : "10800",
+					"verified" : false
+				},
+				"body" : "@Alriyadiyah عاجل أراضى للبيع بشمال جدة بمخطط الهجره وجوهرة العروس بصك شرعى من المالك بدون دلاله اسعار تبدء من ١٧٥ الف 0533393921\n6db2",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "تطبيق المميز",
+					"link" : "http://r.e-saudia1.com/"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "ar"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:538359727391244288",
+				"inReplyTo" : 
+				{
+					"link" : "http://twitter.com/Alriyadiyah/statuses/538359305767231488"
+				},
+				"link" : "http://twitter.com/rcr808/statuses/538359727391244288",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538359727391244288",
+					"link" : "http://twitter.com/rcr808/statuses/538359727391244288",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T15:52:15.000Z",
+					"summary" : "@Alriyadiyah عاجل أراضى للبيع بشمال جدة بمخطط الهجره وجوهرة العروس بصك شرعى من المالك بدون دلاله اسعار تبدء من ١٧٥ الف 0533393921\n6db2"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T15:52:15.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : 
+					[
+						{
+							"id" : 381736992,
+							"id_str" : "381736992",
+							"indices" : 
+							[
+								0,
+								12
+							],
+							"name" : "صحيفة الرياضية",
+							"screen_name" : "Alriyadiyah"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "ar",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Valladolid",
+						"country" : "Spain",
+						"state" : "Castille and León"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Valladolid Trabaja",
+					"favoritesCount" : 0,
+					"followersCount" : 550,
+					"friendsCount" : 929,
+					"id" : "id:twitter.com:2421934531",
+					"image" : "https://pbs.twimg.com/profile_images/450950054971322368/byaVgEKw_normal.png",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/ValladolidTraba",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 20,
+					"location" : 
+					{
+						"displayName" : "Valladolid, España",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-04-01T10:55:29.000Z",
+					"preferredUsername" : "ValladolidTraba",
+					"statusesCount" : 82389,
+					"summary" : "#Empleo en #Valladolid #Ofertas de #Trabajo en #Valladolid",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#Valladolid #Trabajo Analistas programadores Pacbas / Cobol/Cics/DB2: KEAPPS - Madrid - Valladolid - En Keapps... http://t.co/RCXMYyJILa",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"locality" : "Valladolid",
+								"region" : "Castille and León"
+							},
+							"displayName" : "Valladolid, Castille and León, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-4.7237200000000001,
+									41.655180000000001
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.miurl.org/9OvD",
+							"url" : "http://t.co/RCXMYyJILa"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538264233968803840",
+				"link" : "http://twitter.com/ValladolidTraba/statuses/538264233968803840",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538264233968803840",
+					"link" : "http://twitter.com/ValladolidTraba/statuses/538264233968803840",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T09:32:48.000Z",
+					"summary" : "#Valladolid #Trabajo Analistas programadores Pacbas / Cobol/Cics/DB2: KEAPPS - Madrid - Valladolid - En Keapps... http://t.co/RCXMYyJILa"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T09:32:48.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								11
+							],
+							"text" : "Valladolid"
+						},
+						{
+							"indices" : 
+							[
+								12,
+								20
+							],
+							"text" : "Trabajo"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.miurl.org/9OvD",
+							"expanded_url" : "http://empleo.miurl.org/9OvD",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/RCXMYyJILa"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "UNITED KINGDOM",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "beautiful"
+							}
+						],
+						"polarity" : "POSITIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Peter Radford",
+					"favoritesCount" : 0,
+					"followersCount" : 80,
+					"friendsCount" : 117,
+					"id" : "id:twitter.com:755203860",
+					"image" : "https://pbs.twimg.com/profile_images/2499096690/MP900439463_normal.JPG",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/peadar7",
+					"links" : 
+					[
+						{
+							"href" : "http://sportscar2.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "England",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2012-08-13T14:04:22.000Z",
+					"preferredUsername" : "peadar7",
+					"statusesCount" : 1941,
+					"summary" : "Welcome. My website contains Reviews of a wide range of Sports Cars, from Classic to Modern, containing Technical data, Photos and Videos",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Aston Martin DB2\nPics and details on this beautiful classic @ http://t.co/NNJkL8WKBj #AstonMartinDB2\nFot:Mike Garland http://t.co/fFnmOn9fBJ",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter Web Client",
+					"link" : "http://twitter.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United Kingdom",
+								"countryCode" : "GB",
+								"region" : "England"
+							},
+							"displayName" : "England, United Kingdom",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-0.70311999999999997,
+									52.160449999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.sportscar2.com/sports-car-aston-martin-db2.html",
+							"url" : "http://t.co/NNJkL8WKBj"
+						},
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://twitter.com/peadar7/status/538286736405975040/photo/1",
+							"url" : "http://t.co/fFnmOn9fBJ"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538286736405975040",
+				"link" : "http://twitter.com/peadar7/statuses/538286736405975040",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538286736405975040",
+					"link" : "http://twitter.com/peadar7/statuses/538286736405975040",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T11:02:13.000Z",
+					"summary" : "Aston Martin DB2\nPics and details on this beautiful classic @ http://t.co/NNJkL8WKBj #AstonMartinDB2\nFot:Mike Garland http://t.co/fFnmOn9fBJ"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T11:02:13.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								85,
+								100
+							],
+							"text" : "AstonMartinDB2"
+						}
+					],
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/fFnmOn9fBJ",
+							"expanded_url" : "http://twitter.com/peadar7/status/538286736405975040/photo/1",
+							"id" : 538286735130505218,
+							"id_str" : "538286735130505218",
+							"indices" : 
+							[
+								118,
+								140
+							],
+							"media_url" : "http://pbs.twimg.com/media/B3hg7wLCMAIJAQi.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B3hg7wLCMAIJAQi.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 580,
+									"resize" : "fit",
+									"w" : 870
+								},
+								"medium" : 
+								{
+									"h" : 400,
+									"resize" : "fit",
+									"w" : 600
+								},
+								"small" : 
+								{
+									"h" : 226,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/fFnmOn9fBJ"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "sportscar2.com/sports-car-ast…",
+							"expanded_url" : "http://www.sportscar2.com/sports-car-aston-martin-db2.html",
+							"indices" : 
+							[
+								62,
+								84
+							],
+							"url" : "http://t.co/NNJkL8WKBj"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_extended_entities" : 
+				{
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/fFnmOn9fBJ",
+							"expanded_url" : "http://twitter.com/peadar7/status/538286736405975040/photo/1",
+							"id" : 538286735130505218,
+							"id_str" : "538286735130505218",
+							"indices" : 
+							[
+								118,
+								140
+							],
+							"media_url" : "http://pbs.twimg.com/media/B3hg7wLCMAIJAQi.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B3hg7wLCMAIJAQi.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 580,
+									"resize" : "fit",
+									"w" : 870
+								},
+								"medium" : 
+								{
+									"h" : 400,
+									"resize" : "fit",
+									"w" : 600
+								},
+								"small" : 
+								{
+									"h" : 226,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/fFnmOn9fBJ"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Valladolid",
+						"country" : "Spain",
+						"state" : "Castille and León"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Valladolid Trabaja",
+					"favoritesCount" : 0,
+					"followersCount" : 549,
+					"friendsCount" : 929,
+					"id" : "id:twitter.com:2421934531",
+					"image" : "https://pbs.twimg.com/profile_images/450950054971322368/byaVgEKw_normal.png",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/ValladolidTraba",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 20,
+					"location" : 
+					{
+						"displayName" : "Valladolid, España",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-04-01T10:55:29.000Z",
+					"preferredUsername" : "ValladolidTraba",
+					"statusesCount" : 82405,
+					"summary" : "#Empleo en #Valladolid #Ofertas de #Trabajo en #Valladolid",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#Valladolid #Trabajo Analistas programadores Pacbas / Cobol/Cics/DB2: KEAPPS - Madrid - Valladolid - En Keapps... http://t.co/RfaJHROn0R",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"locality" : "Valladolid",
+								"region" : "Castille and León"
+							},
+							"displayName" : "Valladolid, Castille and León, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-4.7237200000000001,
+									41.655180000000001
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.miurl.org/9PSW",
+							"url" : "http://t.co/RfaJHROn0R"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538294789922250753",
+				"link" : "http://twitter.com/ValladolidTraba/statuses/538294789922250753",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538294789922250753",
+					"link" : "http://twitter.com/ValladolidTraba/statuses/538294789922250753",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T11:34:13.000Z",
+					"summary" : "#Valladolid #Trabajo Analistas programadores Pacbas / Cobol/Cics/DB2: KEAPPS - Madrid - Valladolid - En Keapps... http://t.co/RfaJHROn0R"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T11:34:13.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								11
+							],
+							"text" : "Valladolid"
+						},
+						{
+							"indices" : 
+							[
+								12,
+								20
+							],
+							"text" : "Trabajo"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.miurl.org/9PSW",
+							"expanded_url" : "http://empleo.miurl.org/9PSW",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/RfaJHROn0R"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Jobs at Technosoft",
+					"favoritesCount" : 0,
+					"followersCount" : 22,
+					"friendsCount" : 35,
+					"id" : "id:twitter.com:1901909150",
+					"image" : "https://pbs.twimg.com/profile_images/378800000503713280/d7f1246131901ad386a962d4fb490e06_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/TechnosoftJobs",
+					"links" : 
+					[
+						{
+							"href" : "http://www.TechnosoftCorp.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 1,
+					"location" : 
+					{
+						"displayName" : "all US markets",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-09-24T21:55:25.000Z",
+					"preferredUsername" : "TechnosoftJobs",
+					"statusesCount" : 36270,
+					"summary" : "...beyond possible...",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Mainframe Cobol DB2 developer - Montvale, NJ http://t.co/hn8QkbpKLN",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "CATS Applicant Tracking System",
+					"link" : "http://www.catsone.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "fr"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://technosoftcorp.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=3982740",
+							"url" : "http://t.co/hn8QkbpKLN"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538311366231474176",
+				"link" : "http://twitter.com/TechnosoftJobs/statuses/538311366231474176",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538311366231474176",
+					"link" : "http://twitter.com/TechnosoftJobs/statuses/538311366231474176",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T12:40:05.000Z",
+					"summary" : "Mainframe Cobol DB2 developer - Montvale, NJ http://t.co/hn8QkbpKLN"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T12:40:05.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "technosoftcorp.catsone.com/careers/index.…",
+							"expanded_url" : "http://technosoftcorp.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=3982740",
+							"indices" : 
+							[
+								45,
+								67
+							],
+							"url" : "http://t.co/hn8QkbpKLN"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "ro",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Wiesbaden",
+						"country" : "Germany",
+						"state" : "Hesse"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "WeDoWebSphere",
+					"favoritesCount" : 61,
+					"followersCount" : 801,
+					"friendsCount" : 794,
+					"id" : "id:twitter.com:19242702",
+					"image" : "https://pbs.twimg.com/profile_images/73707402/icon3plusName_73px_normal.png",
+					"languages" : 
+					[
+						"de"
+					],
+					"link" : "http://www.twitter.com/WeDoWebSphere",
+					"links" : 
+					[
+						{
+							"href" : "http://wedowebsphere.de",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 39,
+					"location" : 
+					{
+						"displayName" : "Wiesbaden",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-01-20T16:13:34.000Z",
+					"preferredUsername" : "WeDoWebSphere",
+					"statusesCount" : 6310,
+					"summary" : "WeDoWebSphere.de - Wir twittern Aktuelles zu IBM WebSphere, Cloud Computing, Mobile, BPM + mehr. Impressum: http://tiny.cc/oz3gpx",
+					"twitterTimeZone" : "Berlin",
+					"utcOffset" : "3600",
+					"verified" : false
+				},
+				"body" : "Workshop: DB2 für #Linux, #UNIX und #Windows im SAP Umfeld am 2. + 3.12. in Walldorf. Hier geht's zur Anmeldung: http://t.co/MIGZ3wtgeU",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Hootsuite",
+					"link" : "http://www.hootsuite.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "de"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Germany",
+								"countryCode" : "DE",
+								"locality" : "Wiesbaden",
+								"region" : "Hesse"
+							},
+							"displayName" : "Wiesbaden, Hesse, Germany",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									8.2493200000000009,
+									50.08258
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://wedowebsphere.de/events/db2-sap-im-isicc-neue-m%C3%B6glichkeiten-mit-db2-im-sap-umfeld",
+							"url" : "http://t.co/MIGZ3wtgeU"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538243443223724032",
+				"link" : "http://twitter.com/WeDoWebSphere/statuses/538243443223724032",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538243443223724032",
+					"link" : "http://twitter.com/WeDoWebSphere/statuses/538243443223724032",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T08:10:11.000Z",
+					"summary" : "Workshop: DB2 für #Linux, #UNIX und #Windows im SAP Umfeld am 2. + 3.12. in Walldorf. Hier geht's zur Anmeldung: http://t.co/MIGZ3wtgeU"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T08:10:11.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "Linux"
+						},
+						{
+							"indices" : 
+							[
+								26,
+								31
+							],
+							"text" : "UNIX"
+						},
+						{
+							"indices" : 
+							[
+								36,
+								44
+							],
+							"text" : "Windows"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "wedowebsphere.de/events/db2-sap…",
+							"expanded_url" : "http://wedowebsphere.de/events/db2-sap-im-isicc-neue-möglichkeiten-mit-db2-im-sap-umfeld",
+							"indices" : 
+							[
+								113,
+								135
+							],
+							"url" : "http://t.co/MIGZ3wtgeU"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "de",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "Nürnberg",
+						"country" : "Germany",
+						"state" : "Bavaria"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "freelancermap.de",
+					"favoritesCount" : 0,
+					"followersCount" : 388,
+					"friendsCount" : 0,
+					"id" : "id:twitter.com:570693128",
+					"image" : "https://pbs.twimg.com/profile_images/2206335671/fmapDE_normal.jpg",
+					"languages" : 
+					[
+						"de"
+					],
+					"link" : "http://www.twitter.com/freelancermapDE",
+					"links" : 
+					[
+						{
+							"href" : "http://www.freelancermap.de",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 18,
+					"location" : 
+					{
+						"displayName" : "Nürnberg",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2012-05-04T09:51:03.000Z",
+					"preferredUsername" : "freelancermapDE",
+					"statusesCount" : 75969,
+					"summary" : "Seit 2005 unterstützen wir #Freelancer, #Freiberufler, #Selbstständige sowie #Unternehmen bei der Suche nach dem geeigneten #IT-#Projekt oder #Experten.",
+					"twitterTimeZone" : "Athens",
+					"utcOffset" : "7200",
+					"verified" : false
+				},
+				"body" : "DB2 Administrator (m/w) in Papenburg http://t.co/w4snyq2ubZ #Projekt #freelancer",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "ProjektSchnittstelle",
+					"link" : "http://www.freelancermap.de"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "it"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Germany",
+								"countryCode" : "DE",
+								"locality" : "Nürnberg",
+								"region" : "Bavaria"
+							},
+							"displayName" : "Nürnberg, Bavaria, Germany",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									11.07752,
+									49.454210000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.freelancermap.de/projektboerse/projekte/db-2/815675-projekt-db2-administrator-papenburg.html",
+							"url" : "http://t.co/w4snyq2ubZ"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538269853929701376",
+				"link" : "http://twitter.com/freelancermapDE/statuses/538269853929701376",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538269853929701376",
+					"link" : "http://twitter.com/freelancermapDE/statuses/538269853929701376",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T09:55:08.000Z",
+					"summary" : "DB2 Administrator (m/w) in Papenburg http://t.co/w4snyq2ubZ #Projekt #freelancer"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T09:55:08.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								60,
+								68
+							],
+							"text" : "Projekt"
+						},
+						{
+							"indices" : 
+							[
+								69,
+								80
+							],
+							"text" : "freelancer"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "goo.gl/hWqsY9",
+							"expanded_url" : "http://goo.gl/hWqsY9",
+							"indices" : 
+							[
+								37,
+								59
+							],
+							"url" : "http://t.co/w4snyq2ubZ"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "de",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Milan",
+						"country" : "ITALY",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Roberto Magnani",
+					"favoritesCount" : 4,
+					"followersCount" : 194,
+					"friendsCount" : 80,
+					"id" : "id:twitter.com:89202710",
+					"image" : "https://pbs.twimg.com/profile_images/620029968/Foto_Montecarlo_normal.bmp",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/roberto_magnani",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ibm.com/myrep/zz/roberto_magnani",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 20,
+					"location" : 
+					{
+						"displayName" : "Milan, Dublin ",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-11-11T15:00:45.000Z",
+					"preferredUsername" : "roberto_magnani",
+					"statusesCount" : 732,
+					"summary" : "Cloud Computing Sales Leader, IBM Inside Sales Europe",
+					"twitterTimeZone" : "Rome",
+					"utcOffset" : "3600",
+					"verified" : false
+				},
+				"body" : "RT @IBMSmrtrCmptng: Looking for a leading-edge business intelligence platform? Try IBM DB2 with BLU Acceleration on @IBMPowerSystems http://t.co/mAjoKL66uX",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter for Android",
+					"link" : "http://twitter.com/download/android"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 403,
+							"expanded_url" : "https://www14.software.ibm.com/webapp/iwm/web/signup.do?source=stg-web&S_PKG=ov23143&cmp=ibmsocial&ct=stg&cr=sc&cm=h&ccy=us",
+							"url" : "http://t.co/mAjoKL66uX"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538076069103169538",
+				"link" : "http://twitter.com/roberto_magnani/statuses/538076069103169538",
+				"object" : 
+				{
+					"actor" : 
+					{
+						"displayName" : "IBM SmarterComputing",
+						"favoritesCount" : 290,
+						"followersCount" : 20018,
+						"friendsCount" : 1053,
+						"id" : "id:twitter.com:245312303",
+						"image" : "https://pbs.twimg.com/profile_images/2676767569/6efd02b8b137bac9c084df4092b50900_normal.png",
+						"languages" : 
+						[
+							"en"
+						],
+						"link" : "http://www.twitter.com/IBMSmrtrCmptng",
+						"links" : 
+						[
+							{
+								"href" : "http://www.ibm.com/Smarter-Computing",
+								"rel" : "me"
+							}
+						],
+						"listedCount" : 495,
+						"location" : 
+						{
+							"displayName" : "Global",
+							"objectType" : "place"
+						},
+						"objectType" : "person",
+						"postedTime" : "2011-01-31T11:46:11.000Z",
+						"preferredUsername" : "IBMSmrtrCmptng",
+						"statusesCount" : 12696,
+						"summary" : "The IT infrastructure that enables a Smarter Planet. Follows IBM social business guidelines. Maintained by @CatNickery & @MichaelBivona2. http://t.co/KEdD7KDF",
+						"twitterTimeZone" : "Eastern Time (US & Canada)",
+						"utcOffset" : "-18000",
+						"verified" : false
+					},
+					"body" : "Looking for a leading-edge business intelligence platform? Try IBM DB2 with BLU Acceleration on @IBMPowerSystems http://t.co/mAjoKL66uX",
+					"favoritesCount" : 0,
+					"generator" : 
+					{
+						"displayName" : "ExpionDev",
+						"link" : "http://expion.com"
+					},
+					"id" : "tag:search.twitter.com,2005:538037027653300225",
+					"link" : "http://twitter.com/IBMSmrtrCmptng/statuses/538037027653300225",
+					"object" : 
+					{
+						"id" : "object:search.twitter.com,2005:538037027653300225",
+						"link" : "http://twitter.com/IBMSmrtrCmptng/statuses/538037027653300225",
+						"objectType" : "note",
+						"postedTime" : "2014-11-27T18:29:58.000Z",
+						"summary" : "Looking for a leading-edge business intelligence platform? Try IBM DB2 with BLU Acceleration on @IBMPowerSystems http://t.co/mAjoKL66uX"
+					},
+					"objectType" : "activity",
+					"postedTime" : "2014-11-27T18:29:58.000Z",
+					"provider" : 
+					{
+						"displayName" : "Twitter",
+						"link" : "http://www.twitter.com",
+						"objectType" : "service"
+					},
+					"twitter_entities" : 
+					{
+						"hashtags" : [],
+						"symbols" : [],
+						"trends" : [],
+						"urls" : 
+						[
+							{
+								"display_url" : "ibm.co/1xs2LLB",
+								"expanded_url" : "http://ibm.co/1xs2LLB",
+								"indices" : 
+								[
+									113,
+									135
+								],
+								"url" : "http://t.co/mAjoKL66uX"
+							}
+						],
+						"user_mentions" : 
+						[
+							{
+								"id" : 116583614,
+								"id_str" : "116583614",
+								"indices" : 
+								[
+									96,
+									112
+								],
+								"name" : "IBMPowerSystems",
+								"screen_name" : "IBMPowerSystems"
+							}
+						]
+					},
+					"twitter_filter_level" : "low",
+					"twitter_lang" : "en",
+					"verb" : "post"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T21:05:06.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 1,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ibm.co/1xs2LLB",
+							"expanded_url" : "http://ibm.co/1xs2LLB",
+							"indices" : 
+							[
+								139,
+								140
+							],
+							"url" : "http://t.co/mAjoKL66uX"
+						}
+					],
+					"user_mentions" : 
+					[
+						{
+							"id" : 245312303,
+							"id_str" : "245312303",
+							"indices" : 
+							[
+								3,
+								18
+							],
+							"name" : "IBM SmarterComputing",
+							"screen_name" : "IBMSmrtrCmptng"
+						},
+						{
+							"id" : 116583614,
+							"id_str" : "116583614",
+							"indices" : 
+							[
+								116,
+								132
+							],
+							"name" : "IBMPowerSystems",
+							"screen_name" : "IBMPowerSystems"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "share"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Boston",
+						"country" : "United States",
+						"state" : "Massachusetts"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Ed Airey",
+					"favoritesCount" : 229,
+					"followersCount" : 371,
+					"friendsCount" : 364,
+					"id" : "id:twitter.com:434408534",
+					"image" : "https://pbs.twimg.com/profile_images/2103352599/AireyBW_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/EdAirey",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 22,
+					"location" : 
+					{
+						"displayName" : "Boston",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2011-12-11T20:37:47.000Z",
+					"preferredUsername" : "EdAirey",
+					"statusesCount" : 1092,
+					"summary" : "Product Marketing Director, Mcro Focus",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "RT @IBM_DB2: Find out how to mitigate risk and accelerate insight with the help of #DB2 BLU Acceleration http://t.co/qstMxFO6LK #IBMBLU",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter for Windows Phone",
+					"link" : "http://www.twitter.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Boston",
+								"region" : "Massachusetts",
+								"subRegion" : "Suffolk County"
+							},
+							"displayName" : "Boston, Massachusetts, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-71.05977,
+									42.358429999999998
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://public.dhe.ibm.com/software/data/sw-library/db2/videos/DB2-speed-of-thought/index.html?media=q314demandgen",
+							"url" : "http://t.co/qstMxFO6LK"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538352349186895872",
+				"link" : "http://twitter.com/EdAirey/statuses/538352349186895872",
+				"object" : 
+				{
+					"actor" : 
+					{
+						"displayName" : "IBM DB2",
+						"favoritesCount" : 1744,
+						"followersCount" : 4511,
+						"friendsCount" : 1837,
+						"id" : "id:twitter.com:116565980",
+						"image" : "https://pbs.twimg.com/profile_images/483975598096654338/ww-R8m6T_normal.png",
+						"languages" : 
+						[
+							"en"
+						],
+						"link" : "http://www.twitter.com/IBM_DB2",
+						"links" : 
+						[
+							{
+								"href" : "http://ibm.com/db2",
+								"rel" : "me"
+							}
+						],
+						"listedCount" : 216,
+						"objectType" : "person",
+						"postedTime" : "2010-02-22T22:58:27.000Z",
+						"preferredUsername" : "IBM_DB2",
+						"statusesCount" : 10780,
+						"summary" : "The official Twitter account for IBM DB2 for Linux, Unix and Windows. Managed by @susvis, @basir5283 and @jsnburns. Follows IBM Social Computing Guidlines.",
+						"twitterTimeZone" : "Eastern Time (US & Canada)",
+						"utcOffset" : "-18000",
+						"verified" : false
+					},
+					"body" : "Find out how to mitigate risk and accelerate insight with the help of #DB2 BLU Acceleration http://t.co/qstMxFO6LK #IBMBLU",
+					"favoritesCount" : 0,
+					"generator" : 
+					{
+						"displayName" : "TweetDeck",
+						"link" : "https://about.twitter.com/products/tweetdeck"
+					},
+					"id" : "tag:search.twitter.com,2005:537808588480057344",
+					"link" : "http://twitter.com/IBM_DB2/statuses/537808588480057344",
+					"object" : 
+					{
+						"id" : "object:search.twitter.com,2005:537808588480057344",
+						"link" : "http://twitter.com/IBM_DB2/statuses/537808588480057344",
+						"objectType" : "note",
+						"postedTime" : "2014-11-27T03:22:14.000Z",
+						"summary" : "Find out how to mitigate risk and accelerate insight with the help of #DB2 BLU Acceleration http://t.co/qstMxFO6LK #IBMBLU"
+					},
+					"objectType" : "activity",
+					"postedTime" : "2014-11-27T03:22:14.000Z",
+					"provider" : 
+					{
+						"displayName" : "Twitter",
+						"link" : "http://www.twitter.com",
+						"objectType" : "service"
+					},
+					"twitter_entities" : 
+					{
+						"hashtags" : 
+						[
+							{
+								"indices" : 
+								[
+									70,
+									74
+								],
+								"text" : "DB2"
+							},
+							{
+								"indices" : 
+								[
+									115,
+									122
+								],
+								"text" : "IBMBLU"
+							}
+						],
+						"symbols" : [],
+						"trends" : [],
+						"urls" : 
+						[
+							{
+								"display_url" : "ibm.co/1qK3Koi",
+								"expanded_url" : "http://ibm.co/1qK3Koi",
+								"indices" : 
+								[
+									92,
+									114
+								],
+								"url" : "http://t.co/qstMxFO6LK"
+							}
+						],
+						"user_mentions" : []
+					},
+					"twitter_filter_level" : "low",
+					"twitter_lang" : "en",
+					"verb" : "post"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T15:22:56.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 1,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								83,
+								87
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								128,
+								135
+							],
+							"text" : "IBMBLU"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ibm.co/1qK3Koi",
+							"expanded_url" : "http://ibm.co/1qK3Koi",
+							"indices" : 
+							[
+								105,
+								127
+							],
+							"url" : "http://t.co/qstMxFO6LK"
+						}
+					],
+					"user_mentions" : 
+					[
+						{
+							"id" : 116565980,
+							"id_str" : "116565980",
+							"indices" : 
+							[
+								3,
+								11
+							],
+							"name" : "IBM DB2",
+							"screen_name" : "IBM_DB2"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "share"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Valladolid",
+						"country" : "Spain",
+						"state" : "Castille and León"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Valladolid Trabaja",
+					"favoritesCount" : 0,
+					"followersCount" : 549,
+					"friendsCount" : 929,
+					"id" : "id:twitter.com:2421934531",
+					"image" : "https://pbs.twimg.com/profile_images/450950054971322368/byaVgEKw_normal.png",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/ValladolidTraba",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 20,
+					"location" : 
+					{
+						"displayName" : "Valladolid, España",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-04-01T10:55:29.000Z",
+					"preferredUsername" : "ValladolidTraba",
+					"statusesCount" : 82434,
+					"summary" : "#Empleo en #Valladolid #Ofertas de #Trabajo en #Valladolid",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#Valladolid #Trabajo Analistas programadores Pacbas / Cobol/Cics/DB2: KEAPPS - Madrid - Valladolid - En Keapps... http://t.co/a9T5LzUVHN",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"locality" : "Valladolid",
+								"region" : "Castille and León"
+							},
+							"displayName" : "Valladolid, Castille and León, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-4.7237200000000001,
+									41.655180000000001
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.miurl.org/9Q3u",
+							"url" : "http://t.co/a9T5LzUVHN"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538339574603198464",
+				"link" : "http://twitter.com/ValladolidTraba/statuses/538339574603198464",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538339574603198464",
+					"link" : "http://twitter.com/ValladolidTraba/statuses/538339574603198464",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T14:32:11.000Z",
+					"summary" : "#Valladolid #Trabajo Analistas programadores Pacbas / Cobol/Cics/DB2: KEAPPS - Madrid - Valladolid - En Keapps... http://t.co/a9T5LzUVHN"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T14:32:11.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								11
+							],
+							"text" : "Valladolid"
+						},
+						{
+							"indices" : 
+							[
+								12,
+								20
+							],
+							"text" : "Trabajo"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.miurl.org/9Q3u",
+							"expanded_url" : "http://empleo.miurl.org/9Q3u",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/a9T5LzUVHN"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Bangalore",
+						"country" : "India",
+						"state" : "Karnātaka"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Dheeraj Kumar",
+					"favoritesCount" : 63,
+					"followersCount" : 1585,
+					"friendsCount" : 2001,
+					"id" : "id:twitter.com:62294711",
+					"image" : "https://pbs.twimg.com/profile_images/519419000069959681/EINH1gz1_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/dkrishan",
+					"links" : 
+					[
+						{
+							"href" : "http://dkrishan.blogspot.com/",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 37,
+					"location" : 
+					{
+						"displayName" : "Bangalore",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-08-02T16:37:47.000Z",
+					"preferredUsername" : "dkrishan",
+					"statusesCount" : 16522,
+					"summary" : "Soft Engg@ IBM-ISL,working on  #IBM,#bluemix, #eda,#Mobile ,#cloud, #Analytics,#TipsAndTricks #computer #iot #follow #android #YouTube #Business,#AppDev",
+					"twitterTimeZone" : "Chennai",
+					"utcOffset" : "19800",
+					"verified" : false
+				},
+				"body" : "New #blog entry: Useful #DB2 administrative functions and views http://t.co/guI1Y4dOPx  #ibmblu #dashdb #bluemix #sqldb",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter Web Client",
+					"link" : "http://twitter.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "India",
+								"countryCode" : "IN",
+								"locality" : "Bangalore",
+								"region" : "Karnātaka"
+							},
+							"displayName" : "Bangalore, Karnātaka, India",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									77.593689999999995,
+									12.97194
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://blog.4loeser.net/2014/11/useful-db2-administrative-functions-and.html",
+							"url" : "http://t.co/guI1Y4dOPx"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:537943907422597121",
+				"link" : "http://twitter.com/dkrishan/statuses/537943907422597121",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:537943907422597121",
+					"link" : "http://twitter.com/dkrishan/statuses/537943907422597121",
+					"objectType" : "note",
+					"postedTime" : "2014-11-27T12:19:56.000Z",
+					"summary" : "New #blog entry: Useful #DB2 administrative functions and views http://t.co/guI1Y4dOPx  #ibmblu #dashdb #bluemix #sqldb"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T12:19:56.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								4,
+								9
+							],
+							"text" : "blog"
+						},
+						{
+							"indices" : 
+							[
+								24,
+								28
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								88,
+								95
+							],
+							"text" : "ibmblu"
+						},
+						{
+							"indices" : 
+							[
+								96,
+								103
+							],
+							"text" : "dashdb"
+						},
+						{
+							"indices" : 
+							[
+								104,
+								112
+							],
+							"text" : "bluemix"
+						},
+						{
+							"indices" : 
+							[
+								113,
+								119
+							],
+							"text" : "sqldb"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "lnkd.in/dPpu8_9",
+							"expanded_url" : "http://lnkd.in/dPpu8_9",
+							"indices" : 
+							[
+								64,
+								86
+							],
+							"url" : "http://t.co/guI1Y4dOPx"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "InfoJobs Informática",
+					"favoritesCount" : 0,
+					"followersCount" : 416,
+					"friendsCount" : 7,
+					"id" : "id:twitter.com:2692299253",
+					"image" : "https://pbs.twimg.com/profile_images/495129592969957376/1QDWwz26_normal.png",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/IJInformatico",
+					"links" : 
+					[
+						{
+							"href" : "http://www.infojobs.net/ofertas-trabajo/informatica-telecomunicaciones",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 11,
+					"objectType" : "person",
+					"postedTime" : "2014-07-30T09:12:08.000Z",
+					"preferredUsername" : "IJInformatico",
+					"statusesCount" : 11050,
+					"summary" : "Soy un robot. Tuiteo ofertas de empleo de @InfoJobs sector #IT y Telecomunicaciones. También cursos afines. Si quieres enterarte primero, sígueme!",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#empleo #IT AP cobol Cics db2  con disponibilidad inmediata - Zaragoza http://t.co/zk0Aegvhe4",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IJInformatico",
+					"link" : "http://www.infojobs.net"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "it"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 400,
+							"expanded_url" : "http://www.infojobs.net/zaragoza/ap-cobol-cics-db2-con-disponibilidad-inmediata/of-i1fdc0eee7146a38df95807c09e1bf8/nv-oAd|autoTw",
+							"url" : "http://t.co/zk0Aegvhe4"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:537997207413473280",
+				"link" : "http://twitter.com/IJInformatico/statuses/537997207413473280",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:537997207413473280",
+					"link" : "http://twitter.com/IJInformatico/statuses/537997207413473280",
+					"objectType" : "note",
+					"postedTime" : "2014-11-27T15:51:44.000Z",
+					"summary" : "#empleo #IT AP cobol Cics db2  con disponibilidad inmediata - Zaragoza http://t.co/zk0Aegvhe4"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T15:51:44.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								7
+							],
+							"text" : "empleo"
+						},
+						{
+							"indices" : 
+							[
+								8,
+								11
+							],
+							"text" : "IT"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "infojobs.net/zaragoza/ap-co…",
+							"expanded_url" : "http://www.infojobs.net/zaragoza/ap-cobol-cics-db2-con-disponibilidad-inmediata/of-i1fdc0eee7146a38df95807c09e1bf8/nv-oAd|autoTw",
+							"indices" : 
+							[
+								71,
+								93
+							],
+							"url" : "http://t.co/zk0Aegvhe4"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "Texas"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IT Jobs in Texas",
+					"favoritesCount" : 21,
+					"followersCount" : 145,
+					"friendsCount" : 223,
+					"id" : "id:twitter.com:2577431318",
+					"image" : "https://pbs.twimg.com/profile_images/479724036356718593/ErSdk6zK_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/ITJobsinTexas",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobPro.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 3,
+					"location" : 
+					{
+						"displayName" : "Texas, USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-06-19T20:33:53.000Z",
+					"preferredUsername" : "ITJobsinTexas",
+					"statusesCount" : 3568,
+					"summary" : "Follow this account for geo-targeted IT job tweets in Texas from ITJobPro the biggest IT job site on the planet. more at http://www.ITJobPro.com",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #San Antonio - DB2 DBA http://t.co/h26Mh7fkoI view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "sv"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "Texas"
+							},
+							"displayName" : "Texas, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-99.250609999999995,
+									31.250440000000001
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=7e511d1b-60d0-4fa7-8ffa-291de509fe93&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/h26Mh7fkoI"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538361960002109440",
+				"link" : "http://twitter.com/ITJobsinTexas/statuses/538361960002109440",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538361960002109440",
+					"link" : "http://twitter.com/ITJobsinTexas/statuses/538361960002109440",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T16:01:08.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #San Antonio - DB2 DBA http://t.co/h26Mh7fkoI view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T16:01:08.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								34
+							],
+							"text" : "San"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7fxwww",
+							"expanded_url" : "http://dlvr.it/7fxwww",
+							"indices" : 
+							[
+								53,
+								75
+							],
+							"url" : "http://t.co/h26Mh7fkoI"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "AutumnLaird",
+					"favoritesCount" : 0,
+					"followersCount" : 37,
+					"friendsCount" : 1,
+					"id" : "id:twitter.com:1240595652",
+					"image" : "https://pbs.twimg.com/profile_images/3501003397/2fab1ea38acc3a73c78198c75821f958_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/AutumnLaird1",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"objectType" : "person",
+					"postedTime" : "2013-03-04T05:55:08.000Z",
+					"preferredUsername" : "AutumnLaird1",
+					"statusesCount" : 56612,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Clench one-upmanship herewith reading 000-730 db2 9 get fundamentals: ElQiXYgND",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:538431322469834752",
+				"link" : "http://twitter.com/AutumnLaird1/statuses/538431322469834752",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538431322469834752",
+					"link" : "http://twitter.com/AutumnLaird1/statuses/538431322469834752",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T20:36:45.000Z",
+					"summary" : "Clench one-upmanship herewith reading 000-730 db2 9 get fundamentals: ElQiXYgND"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T20:36:45.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "URジェラード",
+					"favoritesCount" : 348,
+					"followersCount" : 386,
+					"friendsCount" : 131,
+					"id" : "id:twitter.com:67331480",
+					"image" : "https://pbs.twimg.com/profile_images/3243798918/e9a6431964dcd484a295d6fb97c996c0_normal.jpeg",
+					"languages" : 
+					[
+						"ja"
+					],
+					"link" : "http://www.twitter.com/gerrard501",
+					"links" : 
+					[
+						{
+							"href" : "http://blog.livedoor.jp/furudoor/",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 49,
+					"location" : 
+					{
+						"displayName" : "ケンネル",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-08-20T14:42:33.000Z",
+					"preferredUsername" : "gerrard501",
+					"statusesCount" : 100896,
+					"summary" : "にゃーにゃにゃにゃにゃーにゃにゃにゃっにゃー？にゃにゃにゃっにゃっにゃにゃー！ 日本語可。",
+					"twitterTimeZone" : "Tokyo",
+					"utcOffset" : "32400",
+					"verified" : false
+				},
+				"body" : "やっとDB2分かってきた",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Hootsuite",
+					"link" : "http://www.hootsuite.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "ja"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:538007174736539648",
+				"link" : "http://twitter.com/gerrard501/statuses/538007174736539648",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538007174736539648",
+					"link" : "http://twitter.com/gerrard501/statuses/538007174736539648",
+					"objectType" : "note",
+					"postedTime" : "2014-11-27T16:31:20.000Z",
+					"summary" : "やっとDB2分かってきた"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T16:31:20.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "ja",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Seoul",
+						"country" : "SOUTH KOREA",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Hyungkeun Park",
+					"favoritesCount" : 22,
+					"followersCount" : 584,
+					"friendsCount" : 915,
+					"id" : "id:twitter.com:109300298",
+					"image" : "https://pbs.twimg.com/profile_images/504797462620405760/wn61nBee_normal.jpeg",
+					"languages" : 
+					[
+						"ko"
+					],
+					"link" : "http://www.twitter.com/securityinsight",
+					"links" : 
+					[
+						{
+							"href" : "http://www.securityplus.or.kr",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 66,
+					"location" : 
+					{
+						"displayName" : "Seoul, Korea",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-01-28T16:12:05.000Z",
+					"preferredUsername" : "securityinsight",
+					"statusesCount" : 6966,
+					"summary" : "실장 - IBM APAC Security Tiger, 미창부 미래전략 IT 자문위원,국제 OWASP 한국챕터 고문,정보보안 커뮤니티 SecurityPlus 대표,ICP,CISA,CISSP,CGEIT",
+					"twitterTimeZone" : "Seoul",
+					"utcOffset" : "32400",
+					"verified" : false
+				},
+				"body" : "Tech Talk (4 of 5): #InfoSphere #Guardium for #DB2 for #zOS Deep Dive (App End user ID) http://t.co/z5DUs9HBCO",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter Web Client",
+					"link" : "http://twitter.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Republic of Korea",
+								"countryCode" : "KR",
+								"region" : "Seoul"
+							},
+							"displayName" : "Seoul, Republic of Korea",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									127,
+									37.583329999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "https://www.youtube.com/watch?v=4RH4JbkleOM&feature=youtu.be",
+							"url" : "http://t.co/z5DUs9HBCO"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:537921078664769536",
+				"link" : "http://twitter.com/securityinsight/statuses/537921078664769536",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:537921078664769536",
+					"link" : "http://twitter.com/securityinsight/statuses/537921078664769536",
+					"objectType" : "note",
+					"postedTime" : "2014-11-27T10:49:13.000Z",
+					"summary" : "Tech Talk (4 of 5): #InfoSphere #Guardium for #DB2 for #zOS Deep Dive (App End user ID) http://t.co/z5DUs9HBCO"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T10:49:13.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								20,
+								31
+							],
+							"text" : "InfoSphere"
+						},
+						{
+							"indices" : 
+							[
+								32,
+								41
+							],
+							"text" : "Guardium"
+						},
+						{
+							"indices" : 
+							[
+								46,
+								50
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								55,
+								59
+							],
+							"text" : "zOS"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "youtu.be/4RH4JbkleOM",
+							"expanded_url" : "http://youtu.be/4RH4JbkleOM",
+							"indices" : 
+							[
+								88,
+								110
+							],
+							"url" : "http://t.co/z5DUs9HBCO"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "Kosai-shi",
+						"country" : "Japan",
+						"state" : "Shizuoka"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "katoa2c",
+					"favoritesCount" : 1111,
+					"followersCount" : 208,
+					"friendsCount" : 294,
+					"id" : "id:twitter.com:182716202",
+					"image" : "https://pbs.twimg.com/profile_images/432901096453849088/-BL2Erwc_normal.png",
+					"languages" : 
+					[
+						"ja"
+					],
+					"link" : "http://www.twitter.com/katoa2c",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 2,
+					"location" : 
+					{
+						"displayName" : "西荻",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-08-25T06:40:30.000Z",
+					"preferredUsername" : "katoa2c",
+					"statusesCount" : 14703,
+					"summary" : "日常のこと、友達のこと。音楽好き、酒好き、食べるの好き。",
+					"twitterTimeZone" : "Tokyo",
+					"utcOffset" : "32400",
+					"verified" : false
+				},
+				"body" : "RT @ishigaqui: club db2、今年もディージェーしとりますー♪ http://t.co/omt1UVbNn6",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter for iPad",
+					"link" : "http://twitter.com/#!/download/ipad"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "ja"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Japan",
+								"countryCode" : "JP",
+								"locality" : "Kosai-shi",
+								"region" : "Shizuoka"
+							},
+							"displayName" : "Kosai-shi, Shizuoka, Japan",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									137.53174999999999,
+									34.718400000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://twitter.com/ishigaqui/status/538271070944374784/photo/1",
+							"url" : "http://t.co/omt1UVbNn6"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538271474184753153",
+				"link" : "http://twitter.com/katoa2c/statuses/538271474184753153",
+				"object" : 
+				{
+					"actor" : 
+					{
+						"displayName" : "A.T.O.M.",
+						"favoritesCount" : 1334,
+						"followersCount" : 288,
+						"friendsCount" : 230,
+						"id" : "id:twitter.com:52265655",
+						"image" : "https://pbs.twimg.com/profile_images/1165119320/Picture_4_normal.jpg",
+						"languages" : 
+						[
+							"ja"
+						],
+						"link" : "http://www.twitter.com/ishigaqui",
+						"links" : 
+						[
+							{
+								"href" : "http://last.fm/user/atomishigaqui",
+								"rel" : "me"
+							}
+						],
+						"listedCount" : 14,
+						"location" : 
+						{
+							"displayName" : "anywhere",
+							"objectType" : "place"
+						},
+						"objectType" : "person",
+						"postedTime" : "2009-06-30T01:54:09.000Z",
+						"preferredUsername" : "ishigaqui",
+						"statusesCount" : 15459,
+						"summary" : "i am he as you are he as you are me and we are all together",
+						"twitterTimeZone" : "Tokyo",
+						"utcOffset" : "32400",
+						"verified" : false
+					},
+					"body" : "club db2、今年もディージェーしとりますー♪ http://t.co/omt1UVbNn6",
+					"favoritesCount" : 0,
+					"generator" : 
+					{
+						"displayName" : "TheWorld⠀",
+						"link" : "http://theworld09.com/"
+					},
+					"id" : "tag:search.twitter.com,2005:538271070944374784",
+					"link" : "http://twitter.com/ishigaqui/statuses/538271070944374784",
+					"object" : 
+					{
+						"id" : "object:search.twitter.com,2005:538271070944374784",
+						"link" : "http://twitter.com/ishigaqui/statuses/538271070944374784",
+						"objectType" : "note",
+						"postedTime" : "2014-11-28T09:59:58.000Z",
+						"summary" : "club db2、今年もディージェーしとりますー♪ http://t.co/omt1UVbNn6"
+					},
+					"objectType" : "activity",
+					"postedTime" : "2014-11-28T09:59:58.000Z",
+					"provider" : 
+					{
+						"displayName" : "Twitter",
+						"link" : "http://www.twitter.com",
+						"objectType" : "service"
+					},
+					"twitter_entities" : 
+					{
+						"hashtags" : [],
+						"media" : 
+						[
+							{
+								"display_url" : "pic.twitter.com/omt1UVbNn6",
+								"expanded_url" : "http://twitter.com/ishigaqui/status/538271070944374784/photo/1",
+								"id" : 538271070499786752,
+								"id_str" : "538271070499786752",
+								"indices" : 
+								[
+									26,
+									48
+								],
+								"media_url" : "http://pbs.twimg.com/media/B3hSr84CUAAz08O.png",
+								"media_url_https" : "https://pbs.twimg.com/media/B3hSr84CUAAz08O.png",
+								"sizes" : 
+								{
+									"large" : 
+									{
+										"h" : 960,
+										"resize" : "fit",
+										"w" : 960
+									},
+									"medium" : 
+									{
+										"h" : 600,
+										"resize" : "fit",
+										"w" : 600
+									},
+									"small" : 
+									{
+										"h" : 340,
+										"resize" : "fit",
+										"w" : 340
+									},
+									"thumb" : 
+									{
+										"h" : 150,
+										"resize" : "crop",
+										"w" : 150
+									}
+								},
+								"type" : "photo",
+								"url" : "http://t.co/omt1UVbNn6"
+							}
+						],
+						"symbols" : [],
+						"trends" : [],
+						"urls" : [],
+						"user_mentions" : []
+					},
+					"twitter_extended_entities" : 
+					{
+						"media" : 
+						[
+							{
+								"display_url" : "pic.twitter.com/omt1UVbNn6",
+								"expanded_url" : "http://twitter.com/ishigaqui/status/538271070944374784/photo/1",
+								"id" : 538271070499786752,
+								"id_str" : "538271070499786752",
+								"indices" : 
+								[
+									26,
+									48
+								],
+								"media_url" : "http://pbs.twimg.com/media/B3hSr84CUAAz08O.png",
+								"media_url_https" : "https://pbs.twimg.com/media/B3hSr84CUAAz08O.png",
+								"sizes" : 
+								{
+									"large" : 
+									{
+										"h" : 960,
+										"resize" : "fit",
+										"w" : 960
+									},
+									"medium" : 
+									{
+										"h" : 600,
+										"resize" : "fit",
+										"w" : 600
+									},
+									"small" : 
+									{
+										"h" : 340,
+										"resize" : "fit",
+										"w" : 340
+									},
+									"thumb" : 
+									{
+										"h" : 150,
+										"resize" : "crop",
+										"w" : 150
+									}
+								},
+								"type" : "photo",
+								"url" : "http://t.co/omt1UVbNn6"
+							}
+						]
+					},
+					"twitter_filter_level" : "low",
+					"twitter_lang" : "ja",
+					"verb" : "post"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T10:01:34.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 1,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/omt1UVbNn6",
+							"expanded_url" : "http://twitter.com/ishigaqui/status/538271070944374784/photo/1",
+							"id" : 538271070499786752,
+							"id_str" : "538271070499786752",
+							"indices" : 
+							[
+								41,
+								63
+							],
+							"media_url" : "http://pbs.twimg.com/media/B3hSr84CUAAz08O.png",
+							"media_url_https" : "https://pbs.twimg.com/media/B3hSr84CUAAz08O.png",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 960,
+									"resize" : "fit",
+									"w" : 960
+								},
+								"medium" : 
+								{
+									"h" : 600,
+									"resize" : "fit",
+									"w" : 600
+								},
+								"small" : 
+								{
+									"h" : 340,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"source_status_id" : 538271070944374784,
+							"source_status_id_str" : "538271070944374784",
+							"type" : "photo",
+							"url" : "http://t.co/omt1UVbNn6"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : 
+					[
+						{
+							"id" : 52265655,
+							"id_str" : "52265655",
+							"indices" : 
+							[
+								3,
+								13
+							],
+							"name" : "A.T.O.M.",
+							"screen_name" : "ishigaqui"
+						}
+					]
+				},
+				"twitter_extended_entities" : 
+				{
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/omt1UVbNn6",
+							"expanded_url" : "http://twitter.com/ishigaqui/status/538271070944374784/photo/1",
+							"id" : 538271070499786752,
+							"id_str" : "538271070499786752",
+							"indices" : 
+							[
+								41,
+								63
+							],
+							"media_url" : "http://pbs.twimg.com/media/B3hSr84CUAAz08O.png",
+							"media_url_https" : "https://pbs.twimg.com/media/B3hSr84CUAAz08O.png",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 960,
+									"resize" : "fit",
+									"w" : 960
+								},
+								"medium" : 
+								{
+									"h" : 600,
+									"resize" : "fit",
+									"w" : 600
+								},
+								"small" : 
+								{
+									"h" : 340,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"source_status_id" : 538271070944374784,
+							"source_status_id_str" : "538271070944374784",
+							"type" : "photo",
+							"url" : "http://t.co/omt1UVbNn6"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "ja",
+				"verb" : "share"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "female",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"cdeInternal" : 
+			{
+				"compliance" : 
+				{
+					"isActive" : true,
+					"userProtected" : false
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Bree",
+					"favoritesCount" : 13250,
+					"followersCount" : 588,
+					"friendsCount" : 609,
+					"id" : "id:twitter.com:1024279506",
+					"image" : "https://pbs.twimg.com/profile_images/535794794954358787/hts3Rixn_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Euricheee",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 2,
+					"location" : 
+					{
+						"displayName" : "57 // 113",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2012-12-20T13:47:13.000Z",
+					"preferredUsername" : "Euricheee",
+					"statusesCount" : 62571,
+					"summary" : "hi jev",
+					"twitterTimeZone" : "Beijing",
+					"utcOffset" : "28800",
+					"verified" : false
+				},
+				"body" : "@iamwyncoloma nope. hahaha for this sem ang papagamit samin ay ms access and ibm db2 e :D",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter Web Client",
+					"link" : "http://twitter.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:538259095971586048",
+				"inReplyTo" : 
+				{
+					"link" : "http://twitter.com/iamwyncoloma/statuses/538258888470966273"
+				},
+				"link" : "http://twitter.com/Euricheee/statuses/538259095971586048",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538259095971586048",
+					"link" : "http://twitter.com/Euricheee/statuses/538259095971586048",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T09:12:23.000Z",
+					"summary" : "@iamwyncoloma nope. hahaha for this sem ang papagamit samin ay ms access and ibm db2 e :D"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T09:12:23.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : 
+					[
+						{
+							"id" : 359203416,
+							"id_str" : "359203416",
+							"indices" : 
+							[
+								0,
+								13
+							],
+							"name" : "Wyn Coloma",
+							"screen_name" : "iamwyncoloma"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "tl",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Dallas",
+						"country" : "United States",
+						"state" : "Texas"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Dallas Recruiter",
+					"favoritesCount" : 2,
+					"followersCount" : 49,
+					"friendsCount" : 46,
+					"id" : "id:twitter.com:2787111718",
+					"image" : "https://pbs.twimg.com/profile_images/515847488666755073/xsZntw0-_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Dallas_Hiring",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 2,
+					"location" : 
+					{
+						"displayName" : "Dallas, Texas USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-27T12:55:23.000Z",
+					"preferredUsername" : "Dallas_Hiring",
+					"statusesCount" : 4311,
+					"summary" : "Hiring, posting job opportunities. Open networker #Recruiter.  #Recruitment‬ |#Recruiters‬ | #Headhunter‬ | #Hiring‬ | #Jobs‬ | #IT‬ | #HR‬",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #San Antonio - DB2 z/OS DBA http://t.co/mcoxkU3cxm view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Dallas",
+								"region" : "Texas",
+								"subRegion" : "Dallas County"
+							},
+							"displayName" : "Dallas, Texas, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-96.806669999999997,
+									32.783059999999999
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=fec16303-63e9-4ba3-92a7-5ce8438494b0&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/mcoxkU3cxm"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:538139095667462144",
+				"link" : "http://twitter.com/Dallas_Hiring/statuses/538139095667462144",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:538139095667462144",
+					"link" : "http://twitter.com/Dallas_Hiring/statuses/538139095667462144",
+					"objectType" : "note",
+					"postedTime" : "2014-11-28T01:15:33.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #San Antonio - DB2 z/OS DBA http://t.co/mcoxkU3cxm view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-28T01:15:33.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								34
+							],
+							"text" : "San"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7fZcMS",
+							"expanded_url" : "http://dlvr.it/7fZcMS",
+							"indices" : 
+							[
+								58,
+								80
+							],
+							"url" : "http://t.co/mcoxkU3cxm"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "Illinois"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Illinois Recruiter",
+					"favoritesCount" : 3,
+					"followersCount" : 16,
+					"friendsCount" : 48,
+					"id" : "id:twitter.com:2786138968",
+					"image" : "https://pbs.twimg.com/profile_images/515575217217753088/yfyUkT_t_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/IllinoisRecruit",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Illinois",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-26T18:53:08.000Z",
+					"preferredUsername" : "IllinoisRecruit",
+					"statusesCount" : 6625,
+					"summary" : "IT Hiring, posting job opportunities. Open networker, follow and add me to your network! Now Hiring all IT positions",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Lake Success - DB2 Database Administrator http://t.co/LnjrPeHwWr view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "it"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "Illinois"
+							},
+							"displayName" : "Illinois, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-89.250370000000004,
+									40.000320000000002
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=9b09ab3d-6547-455e-aa7f-744d1ef36e1a&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/LnjrPeHwWr"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:537905067769098240",
+				"link" : "http://twitter.com/IllinoisRecruit/statuses/537905067769098240",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:537905067769098240",
+					"link" : "http://twitter.com/IllinoisRecruit/statuses/537905067769098240",
+					"objectType" : "note",
+					"postedTime" : "2014-11-27T09:45:36.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Lake Success - DB2 Database Administrator http://t.co/LnjrPeHwWr view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-27T09:45:36.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								35
+							],
+							"text" : "Lake"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7fDc7L",
+							"expanded_url" : "http://dlvr.it/7fDc7L",
+							"indices" : 
+							[
+								73,
+								95
+							],
+							"url" : "http://t.co/LnjrPeHwWr"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		}
+	]
+}

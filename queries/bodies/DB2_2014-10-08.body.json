@@ -1,0 +1,17 @@
+{
+	"date" : "2014-10-08",
+	"related" : 
+	{
+		"next" : 
+		{
+			"href" : "https://cdeservice.mybluemix.net/api/v1/messages/search?q=DB2+posted%3A2014-10-08%2C2014-10-09&from=0&size=500"
+		}
+	},
+	"search" : 
+	{
+		"current" : 0,
+		"results" : 0
+	},
+	"title" : "DB2",
+	"tweets" : []
+}

@@ -12,9 +12,9 @@ queries:
         startmonth:  11
         startday:  1
       enddate:
-        endyear: 2013
-        endmonth:  11
-        endday:  2
+        endyear: 2015
+        endmonth:  6
+        endday:  14
 
     - title: Mysql
       query: mysql
@@ -23,50 +23,50 @@ queries:
         startmonth:  11
         startday:  1
       enddate:
-        endyear: 2013
-        endmonth:  11
-        endday:  2
+        endyear: 2015
+        endmonth:  6
+        endday:  14
 
     - title: Mysql
       query: mysql
-      startdate:
-        startyear: 2015
-        startmonth:  6
-        startday:  3
+      startdate: 
+        startyear: 2013
+        startmonth:  11
+        startday:  1
       enddate:
         endyear: 2015
         endmonth:  6
-        endday:  4
+        endday:  14
 
     - title: Mongo DB
       query: mongodb
-      startdate:
-        startyear: 2015
-        startmonth:  6
-        startday:  3
+      startdate: 
+        startyear: 2013
+        startmonth:  11
+        startday:  1
       enddate:
         endyear: 2015
         endmonth:  6
-        endday:  4
+        endday:  14
 
     - title: Oracle 12C
       query: oracle%20AND%2012C
-      startdate:
-        startyear: 2015
-        startmonth:  6
-        startday:  3
+      startdate: 
+        startyear: 2013
+        startmonth:  11
+        startday:  1
       enddate:
         endyear: 2015
         endmonth:  6
-        endday:  4
+        endday:  14
 
     - title: Microsoft SQL Server
       query: Microsoft%20SQL%20Server
-      startdate:
-        startyear: 2015
-        startmonth:  6
-        startday:  3
+      startdate: 
+        startyear: 2013
+        startmonth:  11
+        startday:  1
       enddate:
         endyear: 2015
         endmonth:  6
-        endday:  4
+        endday:  14

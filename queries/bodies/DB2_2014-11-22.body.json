@@ -1,0 +1,6894 @@
+{
+	"date" : "2014-11-22",
+	"related" : 
+	{
+		"next" : 
+		{
+			"href" : "https://cdeservice.mybluemix.net/api/v1/messages/search?q=DB2+posted%3A2014-11-22%2C2014-11-23&from=42&size=500"
+		}
+	},
+	"search" : 
+	{
+		"current" : 42,
+		"results" : 42
+	},
+	"title" : "DB2",
+	"tweets" : 
+	[
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "Chicago",
+						"country" : "United States",
+						"state" : "Illinois"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Andre Carter",
+					"favoritesCount" : 2,
+					"followersCount" : 95,
+					"friendsCount" : 56,
+					"id" : "id:twitter.com:2791451380",
+					"image" : "https://pbs.twimg.com/profile_images/516561314714374145/SFij7MFe_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Pro_Recruiting",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 6,
+					"location" : 
+					{
+						"displayName" : "Chicago ",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-29T12:01:03.000Z",
+					"preferredUsername" : "Pro_Recruiting",
+					"statusesCount" : 16954,
+					"summary" : "Freelance Recruiter 14 yrs exp. Family man enjoying life & Jazz",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Charlotte - Cobol DB2 developer http://t.co/MVSIK64u6K view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Chicago",
+								"region" : "Illinois",
+								"subRegion" : "Cook County"
+							},
+							"displayName" : "Chicago, Illinois, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-87.650049999999993,
+									41.850029999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=6f921b36-3ba6-4117-b5c7-9f57f8249912&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/MVSIK64u6K"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536240976390402048",
+				"link" : "http://twitter.com/Pro_Recruiting/statuses/536240976390402048",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536240976390402048",
+					"link" : "http://twitter.com/Pro_Recruiting/statuses/536240976390402048",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T19:33:06.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Charlotte - Cobol DB2 developer http://t.co/MVSIK64u6K view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T19:33:06.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								40
+							],
+							"text" : "Charlotte"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7bx7L2",
+							"expanded_url" : "http://dlvr.it/7bx7L2",
+							"indices" : 
+							[
+								63,
+								85
+							],
+							"url" : "http://t.co/MVSIK64u6K"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "León",
+						"country" : "SPAIN",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "León Trabaja",
+					"favoritesCount" : 0,
+					"followersCount" : 467,
+					"friendsCount" : 944,
+					"id" : "id:twitter.com:2421996547",
+					"image" : "https://pbs.twimg.com/profile_images/450963948091629569/d8KWQrDU_normal.png",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/LeonTrabaja",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 9,
+					"location" : 
+					{
+						"displayName" : "León, España",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-04-01T11:51:35.000Z",
+					"preferredUsername" : "LeonTrabaja",
+					"statusesCount" : 85673,
+					"summary" : "#Empleo en #León #Ofertas de #Trabajo en #León",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#León #Trabajo Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 añ... http://t.co/XBOvBk3qlk",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"region" : "Castille and León"
+							},
+							"displayName" : "Castille and León, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-4.25,
+									41.666670000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.urlshort.info/7Ifz",
+							"url" : "http://t.co/XBOvBk3qlk"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536311471303438336",
+				"link" : "http://twitter.com/LeonTrabaja/statuses/536311471303438336",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536311471303438336",
+					"link" : "http://twitter.com/LeonTrabaja/statuses/536311471303438336",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T00:13:13.000Z",
+					"summary" : "#León #Trabajo Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 añ... http://t.co/XBOvBk3qlk"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T00:13:13.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								5
+							],
+							"text" : "León"
+						},
+						{
+							"indices" : 
+							[
+								6,
+								14
+							],
+							"text" : "Trabajo"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.urlshort.info/7Ifz",
+							"expanded_url" : "http://empleo.urlshort.info/7Ifz",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/XBOvBk3qlk"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "León",
+						"country" : "SPAIN",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "León Trabaja",
+					"favoritesCount" : 0,
+					"followersCount" : 468,
+					"friendsCount" : 944,
+					"id" : "id:twitter.com:2421996547",
+					"image" : "https://pbs.twimg.com/profile_images/450963948091629569/d8KWQrDU_normal.png",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/LeonTrabaja",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 9,
+					"location" : 
+					{
+						"displayName" : "León, España",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-04-01T11:51:35.000Z",
+					"preferredUsername" : "LeonTrabaja",
+					"statusesCount" : 85686,
+					"summary" : "#Empleo en #León #Ofertas de #Trabajo en #León",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#León #Trabajo Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 añ... http://t.co/9uifBYBWiX",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"region" : "Castille and León"
+							},
+							"displayName" : "Castille and León, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-4.25,
+									41.666670000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.urlshort.info/7Ipz",
+							"url" : "http://t.co/9uifBYBWiX"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536320171149774848",
+				"link" : "http://twitter.com/LeonTrabaja/statuses/536320171149774848",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536320171149774848",
+					"link" : "http://twitter.com/LeonTrabaja/statuses/536320171149774848",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T00:47:47.000Z",
+					"summary" : "#León #Trabajo Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 añ... http://t.co/9uifBYBWiX"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T00:47:47.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								5
+							],
+							"text" : "León"
+						},
+						{
+							"indices" : 
+							[
+								6,
+								14
+							],
+							"text" : "Trabajo"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.urlshort.info/7Ipz",
+							"expanded_url" : "http://empleo.urlshort.info/7Ipz",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/9uifBYBWiX"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "St. Louis",
+						"country" : "United States",
+						"state" : "Missouri"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "edward",
+					"favoritesCount" : 6,
+					"followersCount" : 2,
+					"friendsCount" : 4,
+					"id" : "id:twitter.com:368395419",
+					"image" : "https://pbs.twimg.com/profile_images/516719470027341825/uKse588j_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/saaji1988",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "st Louis ",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2011-09-05T15:31:50.000Z",
+					"preferredUsername" : "saaji1988",
+					"statusesCount" : 114,
+					"summary" : "tekken player with talent",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "@CatLisaT yup kaz electric 314 db2 bound tag jin 124 kaz flying wavedash kick to wall kaz df 312 if tech uf 3 bound wall combo again lol",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter for Android",
+					"link" : "http://twitter.com/download/android"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "St. Louis",
+								"region" : "Missouri",
+								"subRegion" : "City of Saint Louis"
+							},
+							"displayName" : "St. Louis, Missouri, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-90.197890000000001,
+									38.627270000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:535949624943460353",
+				"inReplyTo" : 
+				{
+					"link" : "http://twitter.com/CatLisaT/statuses/535948867527659520"
+				},
+				"link" : "http://twitter.com/saaji1988/statuses/535949624943460353",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:535949624943460353",
+					"link" : "http://twitter.com/saaji1988/statuses/535949624943460353",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T00:15:22.000Z",
+					"summary" : "@CatLisaT yup kaz electric 314 db2 bound tag jin 124 kaz flying wavedash kick to wall kaz df 312 if tech uf 3 bound wall combo again lol"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T00:15:22.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : 
+					[
+						{
+							"id" : 2725369981,
+							"id_str" : "2725369981",
+							"indices" : 
+							[
+								0,
+								9
+							],
+							"name" : "Lisa Ann Roper",
+							"screen_name" : "CatLisaT"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "female",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "Great"
+							}
+						],
+						"polarity" : "POSITIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Andrea Fontana",
+					"favoritesCount" : 43,
+					"followersCount" : 130,
+					"friendsCount" : 191,
+					"id" : "id:twitter.com:331656950",
+					"image" : "https://pbs.twimg.com/profile_images/2147551632/iochmp01_normal.jpg",
+					"languages" : 
+					[
+						"it"
+					],
+					"link" : "http://www.twitter.com/net2action",
+					"links" : 
+					[
+						{
+							"href" : "http://razioni-k.net2action.com/",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 4,
+					"objectType" : "person",
+					"postedTime" : "2011-07-08T14:30:47.000Z",
+					"preferredUsername" : "net2action",
+					"statusesCount" : 375,
+					"summary" : null,
+					"twitterTimeZone" : "Rome",
+					"utcOffset" : "3600",
+					"verified" : false
+				},
+				"body" : "Completed testing of a db2 hadr in production , time to swicth 50 sec . Great soultion\nhttp://t.co/nDYraDP282",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "LinkedIn",
+					"link" : "http://www.linkedin.com/"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 403,
+							"expanded_url" : "https://www.linkedin.com/slink?code=dnq7AjD",
+							"url" : "http://t.co/nDYraDP282"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536116045279289345",
+				"link" : "http://twitter.com/net2action/statuses/536116045279289345",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536116045279289345",
+					"link" : "http://twitter.com/net2action/statuses/536116045279289345",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T11:16:40.000Z",
+					"summary" : "Completed testing of a db2 hadr in production , time to swicth 50 sec . Great soultion\nhttp://t.co/nDYraDP282"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T11:16:40.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "lnkd.in/dnq7AjD",
+							"expanded_url" : "http://lnkd.in/dnq7AjD",
+							"indices" : 
+							[
+								87,
+								109
+							],
+							"url" : "http://t.co/nDYraDP282"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Philadelphia",
+						"country" : "United States",
+						"state" : "Pennsylvania"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "the best"
+							}
+						],
+						"polarity" : "POSITIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Mike B.",
+					"favoritesCount" : 3626,
+					"followersCount" : 483,
+					"friendsCount" : 465,
+					"id" : "id:twitter.com:252368166",
+					"image" : "https://pbs.twimg.com/profile_images/510780712480669696/tkSCKjGS_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/White_Mike93",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Philly",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2011-02-15T01:47:37.000Z",
+					"preferredUsername" : "White_Mike93",
+					"statusesCount" : 26386,
+					"summary" : "21....instasneaks intern",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "\"@mysneakerheads: DB6\nDB3\nDB5\nDB2\nDB4\nDB8\nDB1\n\nIn that order for me\" the 6's are the best ones 🙌🙌🔥🔥🔥🔥🔥",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter for Android",
+					"link" : "http://twitter.com/download/android"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Philadelphia",
+								"region" : "Pennsylvania",
+								"subRegion" : "Philadelphia County"
+							},
+							"displayName" : "Philadelphia, Pennsylvania, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-75.163790000000006,
+									39.95234
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536570833645604865",
+				"link" : "http://twitter.com/White_Mike93/statuses/536570833645604865",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536570833645604865",
+					"link" : "http://twitter.com/White_Mike93/statuses/536570833645604865",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T17:23:50.000Z",
+					"summary" : "\"@mysneakerheads: DB6\nDB3\nDB5\nDB2\nDB4\nDB8\nDB1\n\nIn that order for me\" the 6's are the best ones 🙌🙌🔥🔥🔥🔥🔥"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T17:23:50.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : 
+					[
+						{
+							"id" : 335508366,
+							"id_str" : "335508366",
+							"indices" : 
+							[
+								1,
+								16
+							],
+							"name" : "Willo",
+							"screen_name" : "mysneakerheads"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "Canada",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IT jobs Canada",
+					"favoritesCount" : 0,
+					"followersCount" : 92,
+					"friendsCount" : 435,
+					"id" : "id:twitter.com:2776776396",
+					"image" : "https://pbs.twimg.com/profile_images/512664828083597314/RTzmEHt8_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/NeuvooITCA",
+					"links" : 
+					[
+						{
+							"href" : "http://neuvoo.ca",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 6,
+					"location" : 
+					{
+						"displayName" : "Canada",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-08-28T17:05:40.000Z",
+					"preferredUsername" : "NeuvooITCA",
+					"statusesCount" : 9027,
+					"summary" : "Check out our IT jobs in Canada! Any question? Tweet us at @Neuvoo",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Lannick Group of Companies is hiring a #DB2 #Database Developer, apply now! (#Toronto) #jobs http://t.co/2WxuHbTasL",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Neuvoo.Labs.Jobs.Auth2",
+					"link" : "http://www.neuvoo.ca"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Canada",
+								"countryCode" : "CA"
+							},
+							"displayName" : "Canada",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-113.64258,
+									60.108669999999996
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://neuvoo.ca/job.php?id=113972164&source=twitter&client_id=32",
+							"url" : "http://t.co/2WxuHbTasL"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536502231215112193",
+				"link" : "http://twitter.com/NeuvooITCA/statuses/536502231215112193",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536502231215112193",
+					"link" : "http://twitter.com/NeuvooITCA/statuses/536502231215112193",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T12:51:14.000Z",
+					"summary" : "Lannick Group of Companies is hiring a #DB2 #Database Developer, apply now! (#Toronto) #jobs http://t.co/2WxuHbTasL"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T12:51:14.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								39,
+								43
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								44,
+								53
+							],
+							"text" : "Database"
+						},
+						{
+							"indices" : 
+							[
+								77,
+								85
+							],
+							"text" : "Toronto"
+						},
+						{
+							"indices" : 
+							[
+								87,
+								92
+							],
+							"text" : "jobs"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "neuvoo.ca/job.php?id=113…",
+							"expanded_url" : "http://neuvoo.ca/job.php?id=113972164&source=twitter&client_id=32",
+							"indices" : 
+							[
+								93,
+								115
+							],
+							"url" : "http://t.co/2WxuHbTasL"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "The Best"
+							}
+						],
+						"polarity" : "POSITIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Stuffspec.com",
+					"favoritesCount" : 1,
+					"followersCount" : 233,
+					"friendsCount" : 31,
+					"id" : "id:twitter.com:2795304043",
+					"image" : "https://pbs.twimg.com/profile_images/508464178516860930/ODK8PIm__normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/stuffspec",
+					"links" : 
+					[
+						{
+							"href" : "http://stuffspec.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 37,
+					"objectType" : "person",
+					"postedTime" : "2014-09-07T03:57:21.000Z",
+					"preferredUsername" : "stuffspec",
+					"statusesCount" : 47252,
+					"summary" : "Official twitter of http://stuffspec.com",
+					"twitterTimeZone" : "Jakarta",
+					"utcOffset" : "25200",
+					"verified" : false
+				},
+				"body" : "The Best List of Jdbc Tutorial for db2, #jdbc #tutorial #db2 http://t.co/NEK6vETYGA",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Stuffspec",
+					"link" : "http://stuffspec.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://stuffspec.com/",
+							"url" : "http://t.co/NEK6vETYGA"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536070437235884032",
+				"link" : "http://twitter.com/stuffspec/statuses/536070437235884032",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536070437235884032",
+					"link" : "http://twitter.com/stuffspec/statuses/536070437235884032",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T08:15:26.000Z",
+					"summary" : "The Best List of Jdbc Tutorial for db2, #jdbc #tutorial #db2 http://t.co/NEK6vETYGA"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T08:15:26.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								40,
+								45
+							],
+							"text" : "jdbc"
+						},
+						{
+							"indices" : 
+							[
+								46,
+								55
+							],
+							"text" : "tutorial"
+						},
+						{
+							"indices" : 
+							[
+								56,
+								60
+							],
+							"text" : "db2"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "stuffspec.com/publicfiles/Jd…",
+							"expanded_url" : "http://stuffspec.com/publicfiles/Jdbc_Tutorial_For_Db2.html",
+							"indices" : 
+							[
+								61,
+								83
+							],
+							"url" : "http://t.co/NEK6vETYGA"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "female",
+					"location" : 
+					{
+						"city" : "Los Angeles",
+						"country" : "United States",
+						"state" : "California"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "plus"
+							}
+						],
+						"polarity" : "POSITIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Mary C. Hall",
+					"favoritesCount" : 24,
+					"followersCount" : 3221,
+					"friendsCount" : 2923,
+					"id" : "id:twitter.com:198639504",
+					"image" : "https://pbs.twimg.com/profile_images/2824488483/fbdd893981446a8bb2cfd945317a9b07_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/SystemsandTech",
+					"links" : 
+					[
+						{
+							"href" : "https://www.ibm.com/connections/blogs/systemz/?lang=en_us",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 186,
+					"location" : 
+					{
+						"displayName" : "Los Angeles, CA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-10-04T21:26:04.000Z",
+					"preferredUsername" : "SystemsandTech",
+					"statusesCount" : 7928,
+					"summary" : "WW Digital Marketing & Social Media for #IBM #Mainframe.  Blogger @ #StorageCommunity. #MainframeInsights. These Tweets are my own. #it #systemZ #mainframe",
+					"twitterTimeZone" : "Pacific Time (US & Canada)",
+					"utcOffset" : "-28800",
+					"verified" : false
+				},
+				"body" : "RT @wfavero: DB2 for z/OS (plus) Daily News is out! http://t.co/jI9GNvpDoM Stories via @IBMDB2 @MattRMorrison @deonnewm",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "RoundTeam",
+					"link" : "https://roundteam.co"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Los Angeles",
+								"region" : "California",
+								"subRegion" : "Los Angeles County"
+							},
+							"displayName" : "Los Angeles, California, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-118.24368,
+									34.052230000000002
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://paper.li/wfavero/1329082459",
+							"url" : "http://t.co/jI9GNvpDoM"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536242913332981760",
+				"link" : "http://twitter.com/SystemsandTech/statuses/536242913332981760",
+				"object" : 
+				{
+					"actor" : 
+					{
+						"displayName" : "Willie Favero",
+						"favoritesCount" : 24,
+						"followersCount" : 2296,
+						"friendsCount" : 2268,
+						"id" : "id:twitter.com:807976",
+						"image" : "https://pbs.twimg.com/profile_images/526814048554213377/dMaqI8K1_normal.jpeg",
+						"languages" : 
+						[
+							"en"
+						],
+						"link" : "http://www.twitter.com/wfavero",
+						"links" : 
+						[
+							{
+								"href" : "http://it.toolbox.com/blogs/db2zos/",
+								"rel" : "me"
+							}
+						],
+						"listedCount" : 123,
+						"location" : 
+						{
+							"displayName" : "Houston TX",
+							"objectType" : "place"
+						},
+						"objectType" : "person",
+						"postedTime" : "2007-03-03T05:40:55.000Z",
+						"preferredUsername" : "wfavero",
+						"statusesCount" : 19529,
+						"summary" : "I'm a bass player working for IBM until I can find a paying gig. LOL.. Actually, I'm an IBM DB2 for z/OS SME on SVL's Warehouse Swat Team but opinions are mine.",
+						"twitterTimeZone" : "Central Time (US & Canada)",
+						"utcOffset" : "-21600",
+						"verified" : false
+					},
+					"body" : "DB2 for z/OS (plus) Daily News is out! http://t.co/jI9GNvpDoM Stories via @IBMDB2 @MattRMorrison @deonnewm",
+					"favoritesCount" : 0,
+					"generator" : 
+					{
+						"displayName" : "Paper.li",
+						"link" : "http://paper.li"
+					},
+					"id" : "tag:search.twitter.com,2005:536241764592799744",
+					"link" : "http://twitter.com/wfavero/statuses/536241764592799744",
+					"object" : 
+					{
+						"id" : "object:search.twitter.com,2005:536241764592799744",
+						"link" : "http://twitter.com/wfavero/statuses/536241764592799744",
+						"objectType" : "note",
+						"postedTime" : "2014-11-22T19:36:14.000Z",
+						"summary" : "DB2 for z/OS (plus) Daily News is out! http://t.co/jI9GNvpDoM Stories via @IBMDB2 @MattRMorrison @deonnewm"
+					},
+					"objectType" : "activity",
+					"postedTime" : "2014-11-22T19:36:14.000Z",
+					"provider" : 
+					{
+						"displayName" : "Twitter",
+						"link" : "http://www.twitter.com",
+						"objectType" : "service"
+					},
+					"twitter_entities" : 
+					{
+						"hashtags" : [],
+						"symbols" : [],
+						"trends" : [],
+						"urls" : 
+						[
+							{
+								"display_url" : "paper.li/wfavero/132908…",
+								"expanded_url" : "http://paper.li/wfavero/1329082459",
+								"indices" : 
+								[
+									39,
+									61
+								],
+								"url" : "http://t.co/jI9GNvpDoM"
+							}
+						],
+						"user_mentions" : 
+						[
+							{
+								"id" : 15661880,
+								"id_str" : "15661880",
+								"indices" : 
+								[
+									74,
+									81
+								],
+								"name" : "IBM DB2 on System z",
+								"screen_name" : "IBMDB2"
+							},
+							{
+								"id" : 138435045,
+								"id_str" : "138435045",
+								"indices" : 
+								[
+									82,
+									96
+								],
+								"name" : "Matt Morrison",
+								"screen_name" : "MattRMorrison"
+							},
+							{
+								"id" : 22145868,
+								"id_str" : "22145868",
+								"indices" : 
+								[
+									97,
+									106
+								],
+								"name" : "Deon Newman",
+								"screen_name" : "deonnewm"
+							}
+						]
+					},
+					"twitter_filter_level" : "low",
+					"twitter_lang" : "en",
+					"verb" : "post"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T19:40:48.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 1,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "paper.li/wfavero/132908…",
+							"expanded_url" : "http://paper.li/wfavero/1329082459",
+							"indices" : 
+							[
+								52,
+								74
+							],
+							"url" : "http://t.co/jI9GNvpDoM"
+						}
+					],
+					"user_mentions" : 
+					[
+						{
+							"id" : 807976,
+							"id_str" : "807976",
+							"indices" : 
+							[
+								3,
+								11
+							],
+							"name" : "Willie Favero",
+							"screen_name" : "wfavero"
+						},
+						{
+							"id" : 15661880,
+							"id_str" : "15661880",
+							"indices" : 
+							[
+								87,
+								94
+							],
+							"name" : "IBM DB2 on System z",
+							"screen_name" : "IBMDB2"
+						},
+						{
+							"id" : 138435045,
+							"id_str" : "138435045",
+							"indices" : 
+							[
+								95,
+								109
+							],
+							"name" : "Matt Morrison",
+							"screen_name" : "MattRMorrison"
+						},
+						{
+							"id" : 22145868,
+							"id_str" : "22145868",
+							"indices" : 
+							[
+								110,
+								119
+							],
+							"name" : "Deon Newman",
+							"screen_name" : "deonnewm"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "share"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "HOUSTON",
+						"country" : "United States",
+						"state" : "Texas"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "plus"
+							}
+						],
+						"polarity" : "POSITIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Willie Favero",
+					"favoritesCount" : 24,
+					"followersCount" : 2296,
+					"friendsCount" : 2268,
+					"id" : "id:twitter.com:807976",
+					"image" : "https://pbs.twimg.com/profile_images/526814048554213377/dMaqI8K1_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/wfavero",
+					"links" : 
+					[
+						{
+							"href" : "http://it.toolbox.com/blogs/db2zos/",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 123,
+					"location" : 
+					{
+						"displayName" : "Houston TX",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2007-03-03T05:40:55.000Z",
+					"preferredUsername" : "wfavero",
+					"statusesCount" : 19529,
+					"summary" : "I'm a bass player working for IBM until I can find a paying gig. LOL.. Actually, I'm an IBM DB2 for z/OS SME on SVL's Warehouse Swat Team but opinions are mine.",
+					"twitterTimeZone" : "Central Time (US & Canada)",
+					"utcOffset" : "-21600",
+					"verified" : false
+				},
+				"body" : "DB2 for z/OS (plus) Daily News is out! http://t.co/jI9GNvpDoM Stories via @IBMDB2 @MattRMorrison @deonnewm",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Paper.li",
+					"link" : "http://paper.li"
+				},
+				"id" : "tag:search.twitter.com,2005:536241764592799744",
+				"link" : "http://twitter.com/wfavero/statuses/536241764592799744",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536241764592799744",
+					"link" : "http://twitter.com/wfavero/statuses/536241764592799744",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T19:36:14.000Z",
+					"summary" : "DB2 for z/OS (plus) Daily News is out! http://t.co/jI9GNvpDoM Stories via @IBMDB2 @MattRMorrison @deonnewm"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T19:36:14.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 1,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "paper.li/wfavero/132908…",
+							"expanded_url" : "http://paper.li/wfavero/1329082459",
+							"indices" : 
+							[
+								39,
+								61
+							],
+							"url" : "http://t.co/jI9GNvpDoM"
+						}
+					],
+					"user_mentions" : 
+					[
+						{
+							"id" : 15661880,
+							"id_str" : "15661880",
+							"indices" : 
+							[
+								74,
+								81
+							],
+							"name" : "IBM DB2 on System z",
+							"screen_name" : "IBMDB2"
+						},
+						{
+							"id" : 138435045,
+							"id_str" : "138435045",
+							"indices" : 
+							[
+								82,
+								96
+							],
+							"name" : "Matt Morrison",
+							"screen_name" : "MattRMorrison"
+						},
+						{
+							"id" : 22145868,
+							"id_str" : "22145868",
+							"indices" : 
+							[
+								97,
+								106
+							],
+							"name" : "Deon Newman",
+							"screen_name" : "deonnewm"
+						}
+					]
+				},
+				"twitter_filter_level" : "low",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "Colorado"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Colorado Recruiter",
+					"favoritesCount" : 0,
+					"followersCount" : 45,
+					"friendsCount" : 42,
+					"id" : "id:twitter.com:2785444660",
+					"image" : "https://pbs.twimg.com/profile_images/515496941489111040/O23zygjT_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Recruiter_CO",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Colorado",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-26T13:41:05.000Z",
+					"preferredUsername" : "Recruiter_CO",
+					"statusesCount" : 4972,
+					"summary" : "IT Hiring, posting job opportunities. Open networker, follow and add me to your network! Now Hiring all IT positions",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Charlotte - Cobol DB2 developer http://t.co/IU0oJFSItz view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "Colorado"
+							},
+							"displayName" : "Colorado, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-105.50082999999999,
+									39.00027
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=6f921b36-3ba6-4117-b5c7-9f57f8249912&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/IU0oJFSItz"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536579945787424768",
+				"link" : "http://twitter.com/Recruiter_CO/statuses/536579945787424768",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536579945787424768",
+					"link" : "http://twitter.com/Recruiter_CO/statuses/536579945787424768",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T18:00:02.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Charlotte - Cobol DB2 developer http://t.co/IU0oJFSItz view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T18:00:02.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								40
+							],
+							"text" : "Charlotte"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7cLPfW",
+							"expanded_url" : "http://dlvr.it/7cLPfW",
+							"indices" : 
+							[
+								63,
+								85
+							],
+							"url" : "http://t.co/IU0oJFSItz"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Saransk",
+						"country" : "Russian Federation",
+						"state" : "Mordoviya"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Вилли Чепелев",
+					"favoritesCount" : 7,
+					"followersCount" : 507,
+					"friendsCount" : 780,
+					"id" : "id:twitter.com:1622627066",
+					"image" : "https://pbs.twimg.com/profile_images/378800000774616002/41211fec04973c231c4e363af19019e5_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/YeseniaElion",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 1,
+					"location" : 
+					{
+						"displayName" : "Саранск",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-07-26T10:25:26.000Z",
+					"preferredUsername" : "YeseniaElion",
+					"statusesCount" : 9421,
+					"summary" : "На 90% результат тренинга делают участники.",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Sams Teach Yourself DB2 Universal Database in 21 Days download torrent http://t.co/A3NpKKAltA #ebook",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Russian Federation",
+								"countryCode" : "RU",
+								"locality" : "Saransk",
+								"region" : "Mordoviya"
+							},
+							"displayName" : "Saransk, Mordoviya, Russian Federation",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									45.174900000000001,
+									54.183799999999998
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://owpkptgpb.blog.com/2014/02/20/sams-teach-yourself-db2-universal-database-in-21-days-download-torrent/?utm_source=twitterfeed&utm_medium=twitter",
+							"url" : "http://t.co/A3NpKKAltA"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536126212284751873",
+				"link" : "http://twitter.com/YeseniaElion/statuses/536126212284751873",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536126212284751873",
+					"link" : "http://twitter.com/YeseniaElion/statuses/536126212284751873",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T11:57:04.000Z",
+					"summary" : "Sams Teach Yourself DB2 Universal Database in 21 Days download torrent http://t.co/A3NpKKAltA #ebook"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T11:57:04.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								94,
+								100
+							],
+							"text" : "ebook"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1yCThff",
+							"expanded_url" : "http://bit.ly/1yCThff",
+							"indices" : 
+							[
+								71,
+								93
+							],
+							"url" : "http://t.co/A3NpKKAltA"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "León",
+						"country" : "SPAIN",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Trabaja en León",
+					"favoritesCount" : 0,
+					"followersCount" : 372,
+					"friendsCount" : 951,
+					"id" : "id:twitter.com:2416017992",
+					"image" : "https://pbs.twimg.com/profile_images/449558803466317824/CGgtF2JJ_normal.png",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/TrabajaLeon",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 8,
+					"location" : 
+					{
+						"displayName" : "León, España",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-03-28T14:47:43.000Z",
+					"preferredUsername" : "TrabajaLeon",
+					"statusesCount" : 86790,
+					"summary" : "Consige #Trabajo en #León #Ofertas de #Empleo en #León",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#Empleo en #León Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 ... http://t.co/WtY0nUl0Tr",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"region" : "Castille and León"
+							},
+							"displayName" : "Castille and León, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-4.25,
+									41.666670000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.miurl.org/8nQk",
+							"url" : "http://t.co/WtY0nUl0Tr"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536346664894623745",
+				"link" : "http://twitter.com/TrabajaLeon/statuses/536346664894623745",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536346664894623745",
+					"link" : "http://twitter.com/TrabajaLeon/statuses/536346664894623745",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T02:33:04.000Z",
+					"summary" : "#Empleo en #León Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 ... http://t.co/WtY0nUl0Tr"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T02:33:04.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								7
+							],
+							"text" : "Empleo"
+						},
+						{
+							"indices" : 
+							[
+								11,
+								16
+							],
+							"text" : "León"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.miurl.org/8nQk",
+							"expanded_url" : "http://empleo.miurl.org/8nQk",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/WtY0nUl0Tr"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Bellevue",
+						"country" : "United States",
+						"state" : "Washington"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Bridge Consulting NW",
+					"favoritesCount" : 0,
+					"followersCount" : 20,
+					"friendsCount" : 8,
+					"id" : "id:twitter.com:444816517",
+					"image" : "https://pbs.twimg.com/profile_images/1710142649/logo-sqr_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/BridgeNW",
+					"links" : 
+					[
+						{
+							"href" : "http://bridgenw.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 3,
+					"location" : 
+					{
+						"displayName" : "Bellevue, WA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2011-12-23T17:37:01.000Z",
+					"preferredUsername" : "BridgeNW",
+					"statusesCount" : 7642,
+					"summary" : null,
+					"twitterTimeZone" : "Pacific Time (US & Canada)",
+					"utcOffset" : "-28800",
+					"verified" : false
+				},
+				"body" : "I have a job opening for a Senior DB2 DBA. Contact Me in Seattle, WA http://t.co/W97ELQSa6H #job",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Bullhorn Reach",
+					"link" : "http://www.bullhornreach.com/"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Bellevue",
+								"region" : "Washington",
+								"subRegion" : "King County"
+							},
+							"displayName" : "Bellevue, Washington, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-122.20068000000001,
+									47.610379999999999
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.bullhornreach.com/job/1722339_senior-db2-dba-seattle-wa?utm_campaign=v1&shortlink=3651926&utm_content=71&utm_source=twitter.com&referer=None&utm_medium=referral",
+							"url" : "http://t.co/W97ELQSa6H"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536310213880840192",
+				"link" : "http://twitter.com/BridgeNW/statuses/536310213880840192",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536310213880840192",
+					"link" : "http://twitter.com/BridgeNW/statuses/536310213880840192",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T00:08:13.000Z",
+					"summary" : "I have a job opening for a Senior DB2 DBA. Contact Me in Seattle, WA http://t.co/W97ELQSa6H #job"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T00:08:13.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								92,
+								96
+							],
+							"text" : "job"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bull.hn/l/269UE/71",
+							"expanded_url" : "http://bull.hn/l/269UE/71",
+							"indices" : 
+							[
+								69,
+								91
+							],
+							"url" : "http://t.co/W97ELQSa6H"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "available"
+							}
+						],
+						"polarity" : "POSITIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Most Popular Jobs",
+					"favoritesCount" : 0,
+					"followersCount" : 2402,
+					"friendsCount" : 1441,
+					"id" : "id:twitter.com:478948100",
+					"image" : "https://pbs.twimg.com/profile_images/1793482402/MPJ_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/MostPopularJobs",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 33,
+					"objectType" : "person",
+					"postedTime" : "2012-01-30T21:01:30.000Z",
+					"preferredUsername" : "MostPopularJobs",
+					"statusesCount" : 277727,
+					"summary" : "Choose a job you love, and you will never have to work a day in your life. ~Confucius",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "#Job Opening: SQL DB2 Epic Clarity Programmer / Analyst Consultant (remote available) at Mediant Health Resour http://t.co/xqhGujZPLf #...",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IFTTT",
+					"link" : "http://ifttt.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 405,
+							"expanded_url" : "http://www.indeed.com/viewjob?jk=84b778c99038dae7&qd=Dr_GeapevJFaATKmWYHrITx6VbG0pFttZiNlkD81KzKJXAMUyAoq3gNDGAbGuysLJvIeh6GAsLLvqM_lrnS6DtukNJK_p4u7YmursqHtmcg&chnl=mostpopularjobs&atk=197dd90v70nl2758&utm_source=publisher&utm_medium=organic_listings&utm_campaign=affiliate",
+							"url" : "http://t.co/xqhGujZPLf"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536370223457517569",
+				"link" : "http://twitter.com/MostPopularJobs/statuses/536370223457517569",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536370223457517569",
+					"link" : "http://twitter.com/MostPopularJobs/statuses/536370223457517569",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T04:06:41.000Z",
+					"summary" : "#Job Opening: SQL DB2 Epic Clarity Programmer / Analyst Consultant (remote available) at Mediant Health Resour http://t.co/xqhGujZPLf #..."
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T04:06:41.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								4
+							],
+							"text" : "Job"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ift.tt/155Jzt1",
+							"expanded_url" : "http://ift.tt/155Jzt1",
+							"indices" : 
+							[
+								111,
+								133
+							],
+							"url" : "http://t.co/xqhGujZPLf"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "New York"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Karen Mayer",
+					"favoritesCount" : 13,
+					"followersCount" : 198,
+					"friendsCount" : 203,
+					"id" : "id:twitter.com:1907383776",
+					"image" : "https://pbs.twimg.com/profile_images/378800000509864061/c2350afd19b05f753f18cbe01b03726d_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/ITJobs_Karen",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobPro.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 6,
+					"location" : 
+					{
+						"displayName" : "New York",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-09-26T10:21:44.000Z",
+					"preferredUsername" : "ITJobs_Karen",
+					"statusesCount" : 8349,
+					"summary" : "National Accounts Executive @ ITJobPro",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Charlotte - Cobol DB2 developer http://t.co/WxaVaw5J7V view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "New York"
+							},
+							"displayName" : "New York, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-75.499899999999997,
+									43.000349999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=6f921b36-3ba6-4117-b5c7-9f57f8249912&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/WxaVaw5J7V"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536240210925719552",
+				"link" : "http://twitter.com/ITJobs_Karen/statuses/536240210925719552",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536240210925719552",
+					"link" : "http://twitter.com/ITJobs_Karen/statuses/536240210925719552",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T19:30:03.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Charlotte - Cobol DB2 developer http://t.co/WxaVaw5J7V view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T19:30:03.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								40
+							],
+							"text" : "Charlotte"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7bx9MF",
+							"expanded_url" : "http://dlvr.it/7bx9MF",
+							"indices" : 
+							[
+								63,
+								85
+							],
+							"url" : "http://t.co/WxaVaw5J7V"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "RK2 neutnet",
+					"favoritesCount" : 0,
+					"followersCount" : 82,
+					"friendsCount" : 3,
+					"id" : "id:twitter.com:902313007",
+					"image" : "https://pbs.twimg.com/profile_images/2761916186/60790b7bc0a48879bb6a27efd797a40d_normal.png",
+					"languages" : 
+					[
+						"fi"
+					],
+					"link" : "http://www.twitter.com/neutnetRK2",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 4,
+					"objectType" : "person",
+					"postedTime" : "2012-10-24T18:02:19.000Z",
+					"preferredUsername" : "neutnetRK2",
+					"statusesCount" : 344535,
+					"summary" : "Unofficial Neutnet messages.  I hope official Neutnet going to piss off and do the real tweet feed. Official neutnet can be found at http://neutnet.rk2.at/",
+					"twitterTimeZone" : "Baghdad",
+					"utcOffset" : "10800",
+					"verified" : false
+				},
+				"body" : "#PvM Marija: looking for db2 update pst  #anarchyonline",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Neutnet",
+					"link" : "http://www.u-h-s.org"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:536546199235727361",
+				"link" : "http://twitter.com/neutnetRK2/statuses/536546199235727361",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536546199235727361",
+					"link" : "http://twitter.com/neutnetRK2/statuses/536546199235727361",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T15:45:57.000Z",
+					"summary" : "#PvM Marija: looking for db2 update pst  #anarchyonline"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T15:45:57.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								4
+							],
+							"text" : "PvM"
+						},
+						{
+							"indices" : 
+							[
+								41,
+								55
+							],
+							"text" : "anarchyonline"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Hertfordshire",
+						"country" : "UNITED KINGDOM",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "p2p WebMobileIT",
+					"favoritesCount" : 0,
+					"followersCount" : 1272,
+					"friendsCount" : 3,
+					"id" : "id:twitter.com:551581457",
+					"image" : "https://pbs.twimg.com/profile_images/2099631495/p2people_logo_48x48_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/p2pWebMobileIt",
+					"links" : 
+					[
+						{
+							"href" : "http://www.p2people.co.uk",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 57,
+					"location" : 
+					{
+						"displayName" : "Stevenage | Hertfordshire",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2012-04-12T05:07:17.000Z",
+					"preferredUsername" : "p2pWebMobileIt",
+					"statusesCount" : 218589,
+					"summary" : "Web, Mobile & IT micro #outsourcing and #freelance jobs at p2people",
+					"twitterTimeZone" : "London",
+					"utcOffset" : "0",
+					"verified" : false
+				},
+				"body" : "DB2 LUW DBA with SAP experience w/ #DB2 #SAP skills Akron @p2people http://t.co/4KvN8ddktj",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "p2people",
+					"link" : "http://www.p2people.co.uk"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 403,
+							"expanded_url" : "https://www.p2people.co.uk/jobs/db2-luw-dba-with-sap-experience/567389",
+							"url" : "http://t.co/4KvN8ddktj"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536103672078663680",
+				"link" : "http://twitter.com/p2pWebMobileIt/statuses/536103672078663680",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536103672078663680",
+					"link" : "http://twitter.com/p2pWebMobileIt/statuses/536103672078663680",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T10:27:30.000Z",
+					"summary" : "DB2 LUW DBA with SAP experience w/ #DB2 #SAP skills Akron @p2people http://t.co/4KvN8ddktj"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T10:27:30.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								35,
+								39
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								40,
+								44
+							],
+							"text" : "SAP"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1z7wpnW",
+							"expanded_url" : "http://bit.ly/1z7wpnW",
+							"indices" : 
+							[
+								68,
+								90
+							],
+							"url" : "http://t.co/4KvN8ddktj"
+						}
+					],
+					"user_mentions" : 
+					[
+						{
+							"id" : 22741835,
+							"id_str" : "22741835",
+							"indices" : 
+							[
+								58,
+								67
+							],
+							"name" : "p2people",
+							"screen_name" : "p2people"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "tl",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "awesome"
+							}
+						],
+						"polarity" : "POSITIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Common Sweden(Data3)",
+					"favoritesCount" : 241,
+					"followersCount" : 171,
+					"friendsCount" : 195,
+					"id" : "id:twitter.com:604340446",
+					"image" : "https://pbs.twimg.com/profile_images/449447926163456001/tdoQsVHC_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/commonsweden",
+					"links" : 
+					[
+						{
+							"href" : "http://www.data3.se",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 5,
+					"objectType" : "person",
+					"postedTime" : "2012-06-10T08:39:52.000Z",
+					"preferredUsername" : "commonsweden",
+					"statusesCount" : 1021,
+					"summary" : "The Swedish usergroup for IBM Power systems.",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "operator &amp; administrator course, RPG jumpstart, DB2 on #ibmi technical forum.. this winter / spring will be awesome http://t.co/cFeUodQjyA",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter for iPhone",
+					"link" : "http://twitter.com/download/iphone"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.data3.se/?page_id=5041",
+							"url" : "http://t.co/cFeUodQjyA"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536096033399635968",
+				"link" : "http://twitter.com/commonsweden/statuses/536096033399635968",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536096033399635968",
+					"link" : "http://twitter.com/commonsweden/statuses/536096033399635968",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T09:57:09.000Z",
+					"summary" : "operator &amp; administrator course, RPG jumpstart, DB2 on #ibmi technical forum.. this winter / spring will be awesome http://t.co/cFeUodQjyA"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T09:57:09.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								59,
+								64
+							],
+							"text" : "ibmi"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "data3.se/?page_id=5041",
+							"expanded_url" : "http://www.data3.se/?page_id=5041",
+							"indices" : 
+							[
+								120,
+								142
+							],
+							"url" : "http://t.co/cFeUodQjyA"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "DB2 z/OS Jobs",
+					"favoritesCount" : 0,
+					"followersCount" : 16,
+					"friendsCount" : 28,
+					"id" : "id:twitter.com:1171569350",
+					"image" : "https://pbs.twimg.com/profile_images/3242977443/c513d637f9e9fabae9a16780807eb6b8_normal.png",
+					"languages" : 
+					[
+						"de"
+					],
+					"link" : "http://www.twitter.com/ITJob_DB2",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobBoard.de",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Deutschland",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-02-12T10:32:48.000Z",
+					"preferredUsername" : "ITJob_DB2",
+					"statusesCount" : 968,
+					"summary" : "Hier gibt's die aktuellen DB2 und z/OS Stellenangeobte von IT Job Board.de Impressum und weitere Jobs auf unserer Website! #karriere #jobs #ITjob",
+					"twitterTimeZone" : "Berlin",
+					"utcOffset" : "3600",
+					"verified" : false
+				},
+				"body" : "Senior Product Owner (m/w) http://t.co/xgA8EFDPme #karriere #DB2 #zOS",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Germany",
+								"countryCode" : "DE"
+							},
+							"displayName" : "Germany",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									10.5,
+									51.5
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobboard.de/IT-Job/Senior-Product-Owner-mw/9391898/de/?xc=248&SearchTerms=DB2%20OR%20z%252FOS&OrderBy=1&Currency=EUR&utm_campaign=twitter&utm_source=ITJob_DB2&utm_medium=social%20media",
+							"url" : "http://t.co/xgA8EFDPme"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536230747745419264",
+				"link" : "http://twitter.com/ITJob_DB2/statuses/536230747745419264",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536230747745419264",
+					"link" : "http://twitter.com/ITJob_DB2/statuses/536230747745419264",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T18:52:27.000Z",
+					"summary" : "Senior Product Owner (m/w) http://t.co/xgA8EFDPme #karriere #DB2 #zOS"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T18:52:27.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								50,
+								59
+							],
+							"text" : "karriere"
+						},
+						{
+							"indices" : 
+							[
+								60,
+								64
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								65,
+								69
+							],
+							"text" : "zOS"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1xDGSJq",
+							"expanded_url" : "http://bit.ly/1xDGSJq",
+							"indices" : 
+							[
+								27,
+								49
+							],
+							"url" : "http://t.co/xgA8EFDPme"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "female",
+					"location" : 
+					{
+						"city" : "Chicago",
+						"country" : "United States",
+						"state" : "Illinois"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Nancy Kopp- Hensley",
+					"favoritesCount" : 392,
+					"followersCount" : 3364,
+					"friendsCount" : 2804,
+					"id" : "id:twitter.com:260909325",
+					"image" : "https://pbs.twimg.com/profile_images/492709113328312320/truxVi8h_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/nancykoppdw",
+					"links" : 
+					[
+						{
+							"href" : "http://ibmdatamag.com/author/nkopp/",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 214,
+					"location" : 
+					{
+						"displayName" : "Chicago",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2011-03-04T21:27:57.000Z",
+					"preferredUsername" : "nancykoppdw",
+					"statusesCount" : 5624,
+					"summary" : "I believe #data can change our lives  #bigdata,  #datawarehouse, #analytics,   Cubs & Hawks Fan, #Runner, Work @ #IBM. Opinions are my own, but willing to share",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Have you looked at #DB2 lately?  You should, we would like to save you some $$$  at http://t.co/yYDrVLXuwr",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter Web Client",
+					"link" : "http://twitter.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Chicago",
+								"region" : "Illinois",
+								"subRegion" : "Cook County"
+							},
+							"displayName" : "Chicago, Illinois, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-87.650049999999993,
+									41.850029999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.ibmbluhub.com",
+							"url" : "http://t.co/yYDrVLXuwr"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:535980443003535360",
+				"link" : "http://twitter.com/nancykoppdw/statuses/535980443003535360",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:535980443003535360",
+					"link" : "http://twitter.com/nancykoppdw/statuses/535980443003535360",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T02:17:50.000Z",
+					"summary" : "Have you looked at #DB2 lately?  You should, we would like to save you some $$$  at http://t.co/yYDrVLXuwr"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T02:17:50.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								19,
+								23
+							],
+							"text" : "DB2"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "ibmbluhub.com",
+							"expanded_url" : "http://www.ibmbluhub.com",
+							"indices" : 
+							[
+								84,
+								106
+							],
+							"url" : "http://t.co/yYDrVLXuwr"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Sunrise",
+						"country" : "United States",
+						"state" : "Florida"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Veredus - Miami",
+					"favoritesCount" : 0,
+					"followersCount" : 60,
+					"friendsCount" : 25,
+					"id" : "id:twitter.com:227066317",
+					"image" : "https://pbs.twimg.com/profile_images/1223968007/veredus-175_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/veredusmiami",
+					"links" : 
+					[
+						{
+							"href" : "http://miami.vereduscorp.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 3,
+					"location" : 
+					{
+						"displayName" : "Sunrise, Florida",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-12-15T20:38:04.000Z",
+					"preferredUsername" : "veredusmiami",
+					"statusesCount" : 1391,
+					"summary" : "Keep up with our Hottest Information Technology Jobs in the South Florida area. Follow us now!",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "Sr. DB2 Developer: Sr. DB2 Developer - CONTRACT - MIAMI, FL Sr. DB2 Developer Skills &amp; Requirements: :… http://t.co/B5EHgWytZz #IT #Jobs",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "fr"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Sunrise",
+								"region" : "Florida",
+								"subRegion" : "Broward County"
+							},
+							"displayName" : "Sunrise, Florida, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-80.286109999999994,
+									26.15767
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 408,
+							"expanded_url" : "http://webconnect.sendouts.com/index.aspx?id=VC&Key=Cn&ApplyNewCan=0&PostNum=30481&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/B5EHgWytZz"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536118186467270656",
+				"link" : "http://twitter.com/veredusmiami/statuses/536118186467270656",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536118186467270656",
+					"link" : "http://twitter.com/veredusmiami/statuses/536118186467270656",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T11:25:10.000Z",
+					"summary" : "Sr. DB2 Developer: Sr. DB2 Developer - CONTRACT - MIAMI, FL Sr. DB2 Developer Skills &amp; Requirements: :… http://t.co/B5EHgWytZz #IT #Jobs"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T11:25:10.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								131,
+								134
+							],
+							"text" : "IT"
+						},
+						{
+							"indices" : 
+							[
+								135,
+								140
+							],
+							"text" : "Jobs"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7blztF",
+							"expanded_url" : "http://dlvr.it/7blztF",
+							"indices" : 
+							[
+								108,
+								130
+							],
+							"url" : "http://t.co/B5EHgWytZz"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "Florida"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Florida IT",
+					"favoritesCount" : 0,
+					"followersCount" : 22,
+					"friendsCount" : 28,
+					"id" : "id:twitter.com:2785555673",
+					"image" : "https://pbs.twimg.com/profile_images/515509229331832833/JKWboSSH_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Florida_Recruit",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Florida",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-26T14:31:06.000Z",
+					"preferredUsername" : "Florida_Recruit",
+					"statusesCount" : 5888,
+					"summary" : "IT Hiring, posting job opportunities. Open networker, follow and add me to your network! Now Hiring all IT positions",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Charlotte - Cobol DB2 developer http://t.co/Mheh9NFWYN view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "Florida"
+							},
+							"displayName" : "Florida, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-82.500100000000003,
+									28.750540000000001
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=6f921b36-3ba6-4117-b5c7-9f57f8249912&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/Mheh9NFWYN"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536204724593102849",
+				"link" : "http://twitter.com/Florida_Recruit/statuses/536204724593102849",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536204724593102849",
+					"link" : "http://twitter.com/Florida_Recruit/statuses/536204724593102849",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T17:09:03.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Charlotte - Cobol DB2 developer http://t.co/Mheh9NFWYN view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T17:09:03.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								40
+							],
+							"text" : "Charlotte"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7btlDH",
+							"expanded_url" : "http://dlvr.it/7btlDH",
+							"indices" : 
+							[
+								63,
+								85
+							],
+							"url" : "http://t.co/Mheh9NFWYN"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "female",
+					"location" : 
+					{
+						"city" : "York",
+						"country" : "UNITED KINGDOM",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Radhika Arora",
+					"favoritesCount" : 5,
+					"followersCount" : 292,
+					"friendsCount" : 861,
+					"id" : "id:twitter.com:1525490348",
+					"image" : "https://pbs.twimg.com/profile_images/463681258598309890/gAkNIqvj_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/radhikaostny",
+					"links" : 
+					[
+						{
+							"href" : "http://www.opensystemstech.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 11,
+					"location" : 
+					{
+						"displayName" : "New York, NY",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-06-17T18:04:40.000Z",
+					"preferredUsername" : "radhikaostny",
+					"statusesCount" : 13495,
+					"summary" : "Seeking best in class developers for a variety of roles in the financial technology community https://www.linkedin.com/in/radhikaarora245",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Hiring - Lead DB2 DBA in montreal, qc http://t.co/5PFFIEdTD1 #jobs #db2 #montreal",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Bullhorn Reach",
+					"link" : "http://www.bullhornreach.com/"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "New York"
+							},
+							"displayName" : "New York, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-75.499899999999997,
+									43.000349999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.bullhornreach.com/sites/opensystems/job/1823481_lead-db2-dba-montreal-qc?utm_campaign=v1&utm_content=25&utm_source=twitter.com&referer=None&utm_medium=referral",
+							"url" : "http://t.co/5PFFIEdTD1"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536493658472984577",
+				"link" : "http://twitter.com/radhikaostny/statuses/536493658472984577",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536493658472984577",
+					"link" : "http://twitter.com/radhikaostny/statuses/536493658472984577",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T12:17:10.000Z",
+					"summary" : "Hiring - Lead DB2 DBA in montreal, qc http://t.co/5PFFIEdTD1 #jobs #db2 #montreal"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T12:17:10.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								61,
+								66
+							],
+							"text" : "jobs"
+						},
+						{
+							"indices" : 
+							[
+								67,
+								71
+							],
+							"text" : "db2"
+						},
+						{
+							"indices" : 
+							[
+								72,
+								81
+							],
+							"text" : "montreal"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bull.hn/l/2A1BP/25",
+							"expanded_url" : "http://bull.hn/l/2A1BP/25",
+							"indices" : 
+							[
+								38,
+								60
+							],
+							"url" : "http://t.co/5PFFIEdTD1"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "tl",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "Phoenix",
+						"country" : "United States",
+						"state" : "Arizona"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Jobs in Phoenix",
+					"favoritesCount" : 0,
+					"followersCount" : 365,
+					"friendsCount" : 569,
+					"id" : "id:twitter.com:2336514271",
+					"image" : "https://pbs.twimg.com/profile_images/432834550696120320/ydfSvd1s_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/JobsinPhoenix1",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 12,
+					"location" : 
+					{
+						"displayName" : "Phoenix, AZ",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-02-10T11:12:10.000Z",
+					"preferredUsername" : "JobsinPhoenix1",
+					"statusesCount" : 79948,
+					"summary" : "Tweets with latest #Jobs #Offers in #Phoenix !!",
+					"twitterTimeZone" : "Amsterdam",
+					"utcOffset" : "3600",
+					"verified" : false
+				},
+				"body" : "#Job #Phoenix DB2 Database Administrator (DBA): Phoenix Jobs &gt; Information Technology &gt; Arizona &gt; DB2 Database... http://t.co/ck0Jieiwxw",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "it"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Phoenix",
+								"region" : "Arizona",
+								"subRegion" : "Maricopa County"
+							},
+							"displayName" : "Phoenix, Arizona, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-112.07404,
+									33.44838
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://jobs.urlshort.info/2FK4",
+							"url" : "http://t.co/ck0Jieiwxw"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536477080477646848",
+				"link" : "http://twitter.com/JobsinPhoenix1/statuses/536477080477646848",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536477080477646848",
+					"link" : "http://twitter.com/JobsinPhoenix1/statuses/536477080477646848",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T11:11:17.000Z",
+					"summary" : "#Job #Phoenix DB2 Database Administrator (DBA): Phoenix Jobs &gt; Information Technology &gt; Arizona &gt; DB2 Database... http://t.co/ck0Jieiwxw"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T11:11:17.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								4
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								5,
+								13
+							],
+							"text" : "Phoenix"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "jobs.urlshort.info/2FK4",
+							"expanded_url" : "http://jobs.urlshort.info/2FK4",
+							"indices" : 
+							[
+								123,
+								145
+							],
+							"url" : "http://t.co/ck0Jieiwxw"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "AutumnLaird",
+					"favoritesCount" : 0,
+					"followersCount" : 39,
+					"friendsCount" : 1,
+					"id" : "id:twitter.com:1240595652",
+					"image" : "https://pbs.twimg.com/profile_images/3501003397/2fab1ea38acc3a73c78198c75821f958_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/AutumnLaird1",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"objectType" : "person",
+					"postedTime" : "2013-03-04T05:55:08.000Z",
+					"preferredUsername" : "AutumnLaird1",
+					"statusesCount" : 55623,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Fetch tableau to have a go 000-730 db2 9 superclass fundamentals: NobJTVXSA",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:536586201172414464",
+				"link" : "http://twitter.com/AutumnLaird1/statuses/536586201172414464",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536586201172414464",
+					"link" : "http://twitter.com/AutumnLaird1/statuses/536586201172414464",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T18:24:54.000Z",
+					"summary" : "Fetch tableau to have a go 000-730 db2 9 superclass fundamentals: NobJTVXSA"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T18:24:54.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "London",
+						"country" : "United Kingdom",
+						"state" : "England"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Jonathan Lewis",
+					"favoritesCount" : 8,
+					"followersCount" : 2419,
+					"friendsCount" : 26,
+					"id" : "id:twitter.com:1564224402",
+					"image" : "https://pbs.twimg.com/profile_images/378800000079670561/78472459472afb556f35c11bb993e72e_normal.jpeg",
+					"languages" : 
+					[
+						"en-gb"
+					],
+					"link" : "http://www.twitter.com/JLOracle",
+					"links" : 
+					[
+						{
+							"href" : "http://jonathanlewis.wordpress.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 59,
+					"location" : 
+					{
+						"displayName" : "London, UK",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-07-02T22:27:25.000Z",
+					"preferredUsername" : "JLOracle",
+					"statusesCount" : 2123,
+					"summary" : "No longer an alien of exceptional ability, just an ordinary genius.",
+					"twitterTimeZone" : "Amsterdam",
+					"utcOffset" : "3600",
+					"verified" : false
+				},
+				"body" : "@TanelPoder @GregRahn On the flip side I was once offered a job using DB2 on an IBM 3090 because I had dBase II skills on a PC",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter for iPad",
+					"link" : "http://twitter.com/#!/download/ipad"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United Kingdom",
+								"countryCode" : "GB",
+								"locality" : "London",
+								"region" : "England"
+							},
+							"displayName" : "London, England, United Kingdom",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-0.12573999999999999,
+									51.50853
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536051508371271680",
+				"inReplyTo" : 
+				{
+					"link" : "http://twitter.com/TanelPoder/statuses/535923901461987328"
+				},
+				"link" : "http://twitter.com/JLOracle/statuses/536051508371271680",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536051508371271680",
+					"link" : "http://twitter.com/JLOracle/statuses/536051508371271680",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T07:00:13.000Z",
+					"summary" : "@TanelPoder @GregRahn On the flip side I was once offered a job using DB2 on an IBM 3090 because I had dBase II skills on a PC"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T07:00:13.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : 
+					[
+						{
+							"id" : 21128462,
+							"id_str" : "21128462",
+							"indices" : 
+							[
+								0,
+								11
+							],
+							"name" : "Tanel Poder",
+							"screen_name" : "TanelPoder"
+						},
+						{
+							"id" : 33987566,
+							"id_str" : "33987566",
+							"indices" : 
+							[
+								12,
+								21
+							],
+							"name" : "Greg Rahn",
+							"screen_name" : "GregRahn"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "LEÓN",
+						"country" : "SPAIN",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Trabajos en Leon",
+					"favoritesCount" : 0,
+					"followersCount" : 357,
+					"friendsCount" : 674,
+					"id" : "id:twitter.com:2374471999",
+					"image" : "https://pbs.twimg.com/profile_images/441349935703683072/K_bF6gL6_normal.jpeg",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/TrabajoLeon",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 5,
+					"location" : 
+					{
+						"displayName" : "Leon",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-03-05T23:09:15.000Z",
+					"preferredUsername" : "TrabajoLeon",
+					"statusesCount" : 54201,
+					"summary" : "Los Tweets con las últimas #Ofertas de #Trabajo en #Leon !!!!",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#Trabajo #Leon Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 añ... http://t.co/j9tLyKEwkt",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.urlshort.info/7IGa",
+							"url" : "http://t.co/j9tLyKEwkt"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536285480904429568",
+				"link" : "http://twitter.com/TrabajoLeon/statuses/536285480904429568",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536285480904429568",
+					"link" : "http://twitter.com/TrabajoLeon/statuses/536285480904429568",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T22:29:57.000Z",
+					"summary" : "#Trabajo #Leon Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 añ... http://t.co/j9tLyKEwkt"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T22:29:57.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								8
+							],
+							"text" : "Trabajo"
+						},
+						{
+							"indices" : 
+							[
+								9,
+								14
+							],
+							"text" : "Leon"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.urlshort.info/7IGa",
+							"expanded_url" : "http://empleo.urlshort.info/7IGa",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/j9tLyKEwkt"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "POSITIVE",
+								"sentimentTerm" : "available"
+							}
+						],
+						"polarity" : "POSITIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "New Job Posting",
+					"favoritesCount" : 0,
+					"followersCount" : 2931,
+					"friendsCount" : 2008,
+					"id" : "id:twitter.com:544669498",
+					"image" : "https://pbs.twimg.com/profile_images/2031379032/bjw2_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/BestJobWebsite",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 38,
+					"objectType" : "person",
+					"postedTime" : "2012-04-03T23:19:17.000Z",
+					"preferredUsername" : "BestJobWebsite",
+					"statusesCount" : 304195,
+					"summary" : "The best way to appreciate your job is to imagine yourself without one.  ~Oscar Wilde",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "New #Job Posting in Rochester, MN.  SQL DB2 Epic Clarity Programmer / Analyst Consultant (remote available) at http://t.co/G5YYbAgSey #...",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IFTTT",
+					"link" : "http://ifttt.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 405,
+							"expanded_url" : "http://www.indeed.com/viewjob?jk=84b778c99038dae7&qd=Dr_GeapevJFaATKmWYHrITx6VbG0pFttZiNlkD81KzK-l1NX_6rZkON-A3Id9lSfOAxeF2HQyPqh1r6CeWchuLgynOZOUaIz8y6gIJvvMwo&chnl=bestjobwebsite&atk=197de12ng0mq17u9&utm_source=publisher&utm_medium=organic_listings&utm_campaign=affiliate",
+							"url" : "http://t.co/G5YYbAgSey"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536373529420525568",
+				"link" : "http://twitter.com/BestJobWebsite/statuses/536373529420525568",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536373529420525568",
+					"link" : "http://twitter.com/BestJobWebsite/statuses/536373529420525568",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T04:19:49.000Z",
+					"summary" : "New #Job Posting in Rochester, MN.  SQL DB2 Epic Clarity Programmer / Analyst Consultant (remote available) at http://t.co/G5YYbAgSey #..."
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T04:19:49.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								4,
+								8
+							],
+							"text" : "Job"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/155MbqL",
+							"expanded_url" : "http://bit.ly/155MbqL",
+							"indices" : 
+							[
+								111,
+								133
+							],
+							"url" : "http://t.co/G5YYbAgSey"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "León",
+						"country" : "SPAIN",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "León Trabaja",
+					"favoritesCount" : 0,
+					"followersCount" : 468,
+					"friendsCount" : 944,
+					"id" : "id:twitter.com:2421996547",
+					"image" : "https://pbs.twimg.com/profile_images/450963948091629569/d8KWQrDU_normal.png",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/LeonTrabaja",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 9,
+					"location" : 
+					{
+						"displayName" : "León, España",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-04-01T11:51:35.000Z",
+					"preferredUsername" : "LeonTrabaja",
+					"statusesCount" : 85765,
+					"summary" : "#Empleo en #León #Ofertas de #Trabajo en #León",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#León #Trabajo Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 añ... http://t.co/eqZeWn8lL5",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"region" : "Castille and León"
+							},
+							"displayName" : "Castille and León, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-4.25,
+									41.666670000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.urlshort.info/7Jtb",
+							"url" : "http://t.co/eqZeWn8lL5"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536380838405869570",
+				"link" : "http://twitter.com/LeonTrabaja/statuses/536380838405869570",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536380838405869570",
+					"link" : "http://twitter.com/LeonTrabaja/statuses/536380838405869570",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T04:48:52.000Z",
+					"summary" : "#León #Trabajo Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 añ... http://t.co/eqZeWn8lL5"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T04:48:52.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								5
+							],
+							"text" : "León"
+						},
+						{
+							"indices" : 
+							[
+								6,
+								14
+							],
+							"text" : "Trabajo"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.urlshort.info/7Jtb",
+							"expanded_url" : "http://empleo.urlshort.info/7Jtb",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/eqZeWn8lL5"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "León",
+						"country" : "SPAIN",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Trabaja en León",
+					"favoritesCount" : 0,
+					"followersCount" : 372,
+					"friendsCount" : 951,
+					"id" : "id:twitter.com:2416017992",
+					"image" : "https://pbs.twimg.com/profile_images/449558803466317824/CGgtF2JJ_normal.png",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/TrabajaLeon",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 8,
+					"location" : 
+					{
+						"displayName" : "León, España",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-03-28T14:47:43.000Z",
+					"preferredUsername" : "TrabajaLeon",
+					"statusesCount" : 86885,
+					"summary" : "Consige #Trabajo en #León #Ofertas de #Empleo en #León",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#Empleo en #León Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 ... http://t.co/2UrkrYtgNH",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"region" : "Castille and León"
+							},
+							"displayName" : "Castille and León, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-4.25,
+									41.666670000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.miurl.org/8owe",
+							"url" : "http://t.co/2UrkrYtgNH"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536416135562792960",
+				"link" : "http://twitter.com/TrabajaLeon/statuses/536416135562792960",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536416135562792960",
+					"link" : "http://twitter.com/TrabajaLeon/statuses/536416135562792960",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T07:09:07.000Z",
+					"summary" : "#Empleo en #León Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 ... http://t.co/2UrkrYtgNH"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T07:09:07.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								7
+							],
+							"text" : "Empleo"
+						},
+						{
+							"indices" : 
+							[
+								11,
+								16
+							],
+							"text" : "León"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.miurl.org/8owe",
+							"expanded_url" : "http://empleo.miurl.org/8owe",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/2UrkrYtgNH"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "León",
+						"country" : "SPAIN",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Empleo en León",
+					"favoritesCount" : 0,
+					"followersCount" : 400,
+					"friendsCount" : 943,
+					"id" : "id:twitter.com:2415891768",
+					"image" : "https://pbs.twimg.com/profile_images/449535951472041985/MJ8d8gUz_normal.jpeg",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/EmpleoLeon_",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 9,
+					"location" : 
+					{
+						"displayName" : "León, España",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-03-28T13:16:44.000Z",
+					"preferredUsername" : "EmpleoLeon_",
+					"statusesCount" : 85189,
+					"summary" : "#Ofertas de #Empleo y #Trabajo en #León",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#Empleo #León Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 año... http://t.co/0MKVXaEsMH",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"region" : "Castille and León"
+							},
+							"displayName" : "Castille and León, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-4.25,
+									41.666670000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.urlshort.info/7Ipu",
+							"url" : "http://t.co/0MKVXaEsMH"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536320149351985152",
+				"link" : "http://twitter.com/EmpleoLeon_/statuses/536320149351985152",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536320149351985152",
+					"link" : "http://twitter.com/EmpleoLeon_/statuses/536320149351985152",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T00:47:42.000Z",
+					"summary" : "#Empleo #León Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 año... http://t.co/0MKVXaEsMH"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T00:47:42.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								7
+							],
+							"text" : "Empleo"
+						},
+						{
+							"indices" : 
+							[
+								8,
+								13
+							],
+							"text" : "León"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.urlshort.info/7Ipu",
+							"expanded_url" : "http://empleo.urlshort.info/7Ipu",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/0MKVXaEsMH"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "AutumnLaird",
+					"favoritesCount" : 0,
+					"followersCount" : 39,
+					"friendsCount" : 1,
+					"id" : "id:twitter.com:1240595652",
+					"image" : "https://pbs.twimg.com/profile_images/3501003397/2fab1ea38acc3a73c78198c75821f958_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/AutumnLaird1",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"objectType" : "person",
+					"postedTime" : "2013-03-04T05:55:08.000Z",
+					"preferredUsername" : "AutumnLaird1",
+					"statusesCount" : 55606,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Settle music drama in association with engagement 000-730 db2 9 family fundamentals: VlBnfkoXf",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:536554013240487937",
+				"link" : "http://twitter.com/AutumnLaird1/statuses/536554013240487937",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536554013240487937",
+					"link" : "http://twitter.com/AutumnLaird1/statuses/536554013240487937",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T16:17:00.000Z",
+					"summary" : "Settle music drama in association with engagement 000-730 db2 9 family fundamentals: VlBnfkoXf"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T16:17:00.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "TechWars",
+					"favoritesCount" : 44,
+					"followersCount" : 461,
+					"friendsCount" : 8,
+					"id" : "id:twitter.com:2558427012",
+					"image" : "https://pbs.twimg.com/profile_images/496979329880825857/7wW65fja_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/TechWars_io",
+					"links" : 
+					[
+						{
+							"href" : "http://www.techwars.io",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 35,
+					"location" : 
+					{
+						"displayName" : "Comparing Every Tech!",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-06-10T07:30:09.000Z",
+					"preferredUsername" : "TechWars_io",
+					"statusesCount" : 150893,
+					"summary" : "TechWars is a technology comparison engine that compares a variety of 32,031 Programming Languages, SaaS & PaaS services, CRM's, opensource frameworks & plugins",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "We compared #datacom vs #db2 - see results: http://t.co/HkxFtcysFe",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "TechWars",
+					"link" : "http://www.techwars.io"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.techwars.io/fight/datacom/db2/",
+							"url" : "http://t.co/HkxFtcysFe"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536044914086522880",
+				"link" : "http://twitter.com/TechWars_io/statuses/536044914086522880",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536044914086522880",
+					"link" : "http://twitter.com/TechWars_io/statuses/536044914086522880",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T06:34:01.000Z",
+					"summary" : "We compared #datacom vs #db2 - see results: http://t.co/HkxFtcysFe"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T06:34:01.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								12,
+								20
+							],
+							"text" : "datacom"
+						},
+						{
+							"indices" : 
+							[
+								24,
+								28
+							],
+							"text" : "db2"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "techwars.io/fight/datacom/…",
+							"expanded_url" : "http://www.techwars.io/fight/datacom/db2/",
+							"indices" : 
+							[
+								44,
+								66
+							],
+							"url" : "http://t.co/HkxFtcysFe"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "LEÓN",
+						"country" : "SPAIN",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Trabajos en Leon",
+					"favoritesCount" : 0,
+					"followersCount" : 357,
+					"friendsCount" : 674,
+					"id" : "id:twitter.com:2374471999",
+					"image" : "https://pbs.twimg.com/profile_images/441349935703683072/K_bF6gL6_normal.jpeg",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/TrabajoLeon",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 5,
+					"location" : 
+					{
+						"displayName" : "Leon",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-03-05T23:09:15.000Z",
+					"preferredUsername" : "TrabajoLeon",
+					"statusesCount" : 54226,
+					"summary" : "Los Tweets con las últimas #Ofertas de #Trabajo en #Leon !!!!",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#Trabajo #Leon Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 añ... http://t.co/cR13HZZTNr",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.urlshort.info/7Ipo",
+							"url" : "http://t.co/cR13HZZTNr"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536320144725667840",
+				"link" : "http://twitter.com/TrabajoLeon/statuses/536320144725667840",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536320144725667840",
+					"link" : "http://twitter.com/TrabajoLeon/statuses/536320144725667840",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T00:47:41.000Z",
+					"summary" : "#Trabajo #Leon Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 añ... http://t.co/cR13HZZTNr"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T00:47:41.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								8
+							],
+							"text" : "Trabajo"
+						},
+						{
+							"indices" : 
+							[
+								9,
+								14
+							],
+							"text" : "Leon"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.urlshort.info/7Ipo",
+							"expanded_url" : "http://empleo.urlshort.info/7Ipo",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/cR13HZZTNr"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "LEÓN",
+						"country" : "SPAIN",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Trabajos en Leon",
+					"favoritesCount" : 0,
+					"followersCount" : 357,
+					"friendsCount" : 674,
+					"id" : "id:twitter.com:2374471999",
+					"image" : "https://pbs.twimg.com/profile_images/441349935703683072/K_bF6gL6_normal.jpeg",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/TrabajoLeon",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 5,
+					"location" : 
+					{
+						"displayName" : "Leon",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-03-05T23:09:15.000Z",
+					"preferredUsername" : "TrabajoLeon",
+					"statusesCount" : 54178,
+					"summary" : "Los Tweets con las últimas #Ofertas de #Trabajo en #Leon !!!!",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#Trabajo #Leon Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 añ... http://t.co/fOdi6flw6P",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.urlshort.info/7HoK",
+							"url" : "http://t.co/fOdi6flw6P"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536259450642759680",
+				"link" : "http://twitter.com/TrabajoLeon/statuses/536259450642759680",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536259450642759680",
+					"link" : "http://twitter.com/TrabajoLeon/statuses/536259450642759680",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T20:46:30.000Z",
+					"summary" : "#Trabajo #Leon Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 añ... http://t.co/fOdi6flw6P"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T20:46:30.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								8
+							],
+							"text" : "Trabajo"
+						},
+						{
+							"indices" : 
+							[
+								9,
+								14
+							],
+							"text" : "Leon"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.urlshort.info/7HoK",
+							"expanded_url" : "http://empleo.urlshort.info/7HoK",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/fOdi6flw6P"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "St. Louis",
+						"country" : "United States",
+						"state" : "Missouri"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Amitech Solutions",
+					"favoritesCount" : 0,
+					"followersCount" : 11,
+					"friendsCount" : 2,
+					"id" : "id:twitter.com:197429814",
+					"image" : "https://pbs.twimg.com/profile_images/1135110628/Spiral_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/AmitechJobs",
+					"links" : 
+					[
+						{
+							"href" : "http://www.amitechsolutions.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "St. Louis, MO",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-10-01T13:48:43.000Z",
+					"preferredUsername" : "AmitechJobs",
+					"statusesCount" : 1324,
+					"summary" : "Jobs with Amitech Solutions, a leading information management and business analytics consulting firm.",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "IBM Infosphere Data Replication (IIDR) DB2 DBA in Little Rock, AR http://t.co/7tB5ZS68iZ #job",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Bullhorn Reach",
+					"link" : "http://www.bullhornreach.com/"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "St. Louis",
+								"region" : "Missouri",
+								"subRegion" : "City of Saint Louis"
+							},
+							"displayName" : "St. Louis, Missouri, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-90.197890000000001,
+									38.627270000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.bullhornreach.com/job/1783230_ibm-infosphere-data-replication-iidr-db2-dba-little-rock-ar?utm_campaign=v1&shortlink=3757185&utm_content=38&utm_source=twitter.com&referer=None&utm_medium=referral",
+							"url" : "http://t.co/7tB5ZS68iZ"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536132462213332992",
+				"link" : "http://twitter.com/AmitechJobs/statuses/536132462213332992",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536132462213332992",
+					"link" : "http://twitter.com/AmitechJobs/statuses/536132462213332992",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T12:21:54.000Z",
+					"summary" : "IBM Infosphere Data Replication (IIDR) DB2 DBA in Little Rock, AR http://t.co/7tB5ZS68iZ #job"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T12:21:54.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								89,
+								93
+							],
+							"text" : "job"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bull.hn/l/28J29/38",
+							"expanded_url" : "http://bull.hn/l/28J29/38",
+							"indices" : 
+							[
+								66,
+								88
+							],
+							"url" : "http://t.co/7tB5ZS68iZ"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Brett Murphy",
+					"favoritesCount" : 276,
+					"followersCount" : 168,
+					"friendsCount" : 294,
+					"id" : "id:twitter.com:383893310",
+					"image" : "https://pbs.twimg.com/profile_images/1902317165/Brett-SIS_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/PowerMan_SIS",
+					"links" : 
+					[
+						{
+							"href" : "http://www.thinksis.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 6,
+					"location" : 
+					{
+						"displayName" : "USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2011-10-02T18:10:33.000Z",
+					"preferredUsername" : "PowerMan_SIS",
+					"statusesCount" : 2097,
+					"summary" : null,
+					"twitterTimeZone" : "Indiana (East)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "Seriously....aren't u tired of the expense &amp; pressure of using Oracle sw? Read how 2 convert Oracle to DB2 in Redbook http://t.co/uGNncTwjIs",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter Web Client",
+					"link" : "http://twitter.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US"
+							},
+							"displayName" : "United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-98.5,
+									39.759999999999998
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.redbooks.ibm.com/redbooks/pdfs/sg247736.pdf",
+							"url" : "http://t.co/uGNncTwjIs"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536050393525268480",
+				"link" : "http://twitter.com/PowerMan_SIS/statuses/536050393525268480",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536050393525268480",
+					"link" : "http://twitter.com/PowerMan_SIS/statuses/536050393525268480",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T06:55:47.000Z",
+					"summary" : "Seriously....aren't u tired of the expense &amp; pressure of using Oracle sw? Read how 2 convert Oracle to DB2 in Redbook http://t.co/uGNncTwjIs"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T06:55:47.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "redbooks.ibm.com/redbooks/pdfs/…",
+							"expanded_url" : "http://www.redbooks.ibm.com/redbooks/pdfs/sg247736.pdf",
+							"indices" : 
+							[
+								122,
+								144
+							],
+							"url" : "http://t.co/uGNncTwjIs"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "LEÓN",
+						"country" : "SPAIN",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Trabajos en Leon",
+					"favoritesCount" : 0,
+					"followersCount" : 357,
+					"friendsCount" : 674,
+					"id" : "id:twitter.com:2374471999",
+					"image" : "https://pbs.twimg.com/profile_images/441349935703683072/K_bF6gL6_normal.jpeg",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/TrabajoLeon",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 5,
+					"location" : 
+					{
+						"displayName" : "Leon",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-03-05T23:09:15.000Z",
+					"preferredUsername" : "TrabajoLeon",
+					"statusesCount" : 54206,
+					"summary" : "Los Tweets con las últimas #Ofertas de #Trabajo en #Leon !!!!",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#Trabajo #Leon Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 añ... http://t.co/m3t31GWO0P",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.urlshort.info/7IP7",
+							"url" : "http://t.co/m3t31GWO0P"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536294032645705728",
+				"link" : "http://twitter.com/TrabajoLeon/statuses/536294032645705728",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536294032645705728",
+					"link" : "http://twitter.com/TrabajoLeon/statuses/536294032645705728",
+					"objectType" : "note",
+					"postedTime" : "2014-11-22T23:03:55.000Z",
+					"summary" : "#Trabajo #Leon Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 añ... http://t.co/m3t31GWO0P"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-22T23:03:55.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								8
+							],
+							"text" : "Trabajo"
+						},
+						{
+							"indices" : 
+							[
+								9,
+								14
+							],
+							"text" : "Leon"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.urlshort.info/7IP7",
+							"expanded_url" : "http://empleo.urlshort.info/7IP7",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/m3t31GWO0P"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "India",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "   Srinimf",
+					"favoritesCount" : 2,
+					"followersCount" : 23,
+					"friendsCount" : 121,
+					"id" : "id:twitter.com:99281511",
+					"image" : "https://pbs.twimg.com/profile_images/496215453237141504/DYoHose-_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/srinimf",
+					"links" : 
+					[
+						{
+							"href" : "http://about.me/srinimf",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "India",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-12-25T13:16:34.000Z",
+					"preferredUsername" : "srinimf",
+					"statusesCount" : 841,
+					"summary" : "Sr.Software Developer - Technology",
+					"twitterTimeZone" : "New Delhi",
+					"utcOffset" : "19800",
+					"verified" : false
+				},
+				"body" : "DB2 Catalog Tables http://t.co/8tRkY2OcJU",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Google",
+					"link" : "http://www.google.com/"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "India",
+								"countryCode" : "IN"
+							},
+							"displayName" : "India",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									77,
+									20
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://srinimf.com/2014/11/23/db2-catalog-tables/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed:%20srinimf%20(Srinimf)",
+							"url" : "http://t.co/8tRkY2OcJU"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536536061615157248",
+				"link" : "http://twitter.com/srinimf/statuses/536536061615157248",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536536061615157248",
+					"link" : "http://twitter.com/srinimf/statuses/536536061615157248",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T15:05:40.000Z",
+					"summary" : "DB2 Catalog Tables http://t.co/8tRkY2OcJU"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T15:05:40.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "goo.gl/fb/iOY2ir",
+							"expanded_url" : "http://goo.gl/fb/iOY2ir",
+							"indices" : 
+							[
+								19,
+								41
+							],
+							"url" : "http://t.co/8tRkY2OcJU"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "tl",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "León",
+						"country" : "SPAIN",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Trabaja en León",
+					"favoritesCount" : 0,
+					"followersCount" : 372,
+					"friendsCount" : 951,
+					"id" : "id:twitter.com:2416017992",
+					"image" : "https://pbs.twimg.com/profile_images/449558803466317824/CGgtF2JJ_normal.png",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/TrabajaLeon",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 8,
+					"location" : 
+					{
+						"displayName" : "León, España",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-03-28T14:47:43.000Z",
+					"preferredUsername" : "TrabajaLeon",
+					"statusesCount" : 86746,
+					"summary" : "Consige #Trabajo en #León #Ofertas de #Empleo en #León",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#Empleo en #León Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 ... http://t.co/NgrRPgjBba",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "es"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Spain",
+								"countryCode" : "ES",
+								"region" : "Castille and León"
+							},
+							"displayName" : "Castille and León, Spain",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-4.25,
+									41.666670000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://empleo.miurl.org/8meQ",
+							"url" : "http://t.co/NgrRPgjBba"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536311531709812736",
+				"link" : "http://twitter.com/TrabajaLeon/statuses/536311531709812736",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536311531709812736",
+					"link" : "http://twitter.com/TrabajaLeon/statuses/536311531709812736",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T00:13:28.000Z",
+					"summary" : "#Empleo en #León Programador Cobol: León Se precisa incorporar un Programador Cobol, Cics, Db2 con al menos 2 ... http://t.co/NgrRPgjBba"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T00:13:28.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								7
+							],
+							"text" : "Empleo"
+						},
+						{
+							"indices" : 
+							[
+								11,
+								16
+							],
+							"text" : "León"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "empleo.miurl.org/8meQ",
+							"expanded_url" : "http://empleo.miurl.org/8meQ",
+							"indices" : 
+							[
+								114,
+								136
+							],
+							"url" : "http://t.co/NgrRPgjBba"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "RarityBook.com",
+					"favoritesCount" : 0,
+					"followersCount" : 741,
+					"friendsCount" : 1689,
+					"id" : "id:twitter.com:1089912504",
+					"image" : "https://pbs.twimg.com/profile_images/3109776740/a7d6a331f4097e0918023055afb766ac_normal.png",
+					"languages" : 
+					[
+						"uk"
+					],
+					"link" : "http://www.twitter.com/RarityBook",
+					"links" : 
+					[
+						{
+							"href" : "http://www.raritybook.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 1,
+					"location" : 
+					{
+						"displayName" : "Planet Earth",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-01-14T19:25:31.000Z",
+					"preferredUsername" : "RarityBook",
+					"statusesCount" : 7276,
+					"summary" : "High quality digital products portal",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "IBM : 000-706 IBM DB2 UDB V8.1 for Linux UNIX and Windows Data Full Version http://t.co/kKyzbwFyaK",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://infernocity.com/coupon/ibm-000-706-ibm-db2-udb-v8-1-for-linux-unix-and-windows-data-full-version/?utm_medium=twitter&utm_source=twitterfeed",
+							"url" : "http://t.co/kKyzbwFyaK"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:536584031027351552",
+				"link" : "http://twitter.com/RarityBook/statuses/536584031027351552",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:536584031027351552",
+					"link" : "http://twitter.com/RarityBook/statuses/536584031027351552",
+					"objectType" : "note",
+					"postedTime" : "2014-11-23T18:16:16.000Z",
+					"summary" : "IBM : 000-706 IBM DB2 UDB V8.1 for Linux UNIX and Windows Data Full Version http://t.co/kKyzbwFyaK"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-11-23T18:16:16.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1vCwO3Z",
+							"expanded_url" : "http://bit.ly/1vCwO3Z",
+							"indices" : 
+							[
+								76,
+								98
+							],
+							"url" : "http://t.co/kKyzbwFyaK"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "da",
+				"verb" : "post"
+			}
+		}
+	]
+}

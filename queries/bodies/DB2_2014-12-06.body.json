@@ -1,0 +1,7830 @@
+{
+	"date" : "2014-12-06",
+	"related" : 
+	{
+		"next" : 
+		{
+			"href" : "https://cdeservice.mybluemix.net/api/v1/messages/search?q=DB2+posted%3A2014-12-06%2C2014-12-07&from=47&size=500"
+		}
+	},
+	"search" : 
+	{
+		"current" : 47,
+		"results" : 47
+	},
+	"title" : "DB2",
+	"tweets" : 
+	[
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "New York"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Amy Burns  hiring IT",
+					"favoritesCount" : 14,
+					"followersCount" : 268,
+					"friendsCount" : 159,
+					"id" : "id:twitter.com:1907074644",
+					"image" : "https://pbs.twimg.com/profile_images/378800000509587869/b15a87d16714829d3787884f5bdcbe57_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/IT_AmyB",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobPro.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 4,
+					"location" : 
+					{
+						"displayName" : "New York ",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-09-26T08:07:58.000Z",
+					"preferredUsername" : "IT_AmyB",
+					"statusesCount" : 27505,
+					"summary" : "National Accounts Executive @ ITJobPro IT #Recruiter‬. Specialization: #Recruitment‬ | #Recruitments‬ | #Recruiters‬ | #Headhunter‬ | #Hiring‬ | #Jobs‬ |",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "☆ JOB ALERT ☆ #ITJob #Job #Lake Success - DB2 Database Administrator http://t.co/m7Eu1RWg2h ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "it"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "New York"
+							},
+							"displayName" : "New York, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-75.499899999999997,
+									43.000349999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=9b09ab3d-6547-455e-aa7f-744d1ef36e1a&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/m7Eu1RWg2h"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541383753889628161",
+				"link" : "http://twitter.com/IT_AmyB/statuses/541383753889628161",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541383753889628161",
+					"link" : "http://twitter.com/IT_AmyB/statuses/541383753889628161",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T00:08:40.000Z",
+					"summary" : "☆ JOB ALERT ☆ #ITJob #Job #Lake Success - DB2 Database Administrator http://t.co/m7Eu1RWg2h ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T00:08:40.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								14,
+								20
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								21,
+								25
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								26,
+								31
+							],
+							"text" : "Lake"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lL3Ft",
+							"expanded_url" : "http://dlvr.it/7lL3Ft",
+							"indices" : 
+							[
+								69,
+								91
+							],
+							"url" : "http://t.co/m7Eu1RWg2h"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Chicago",
+						"country" : "United States",
+						"state" : "Illinois"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Chicago Jobs",
+					"favoritesCount" : 0,
+					"followersCount" : 4,
+					"friendsCount" : 96,
+					"id" : "id:twitter.com:2901267801",
+					"image" : "https://pbs.twimg.com/profile_images/539533737763954691/ksLjDZ3-_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/NeuvooChicago",
+					"links" : 
+					[
+						{
+							"href" : "http://neuvoo.com/",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Chicago",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-12-01T21:36:45.000Z",
+					"preferredUsername" : "NeuvooChicago",
+					"statusesCount" : 302,
+					"summary" : "Check out our jobs in Chicago on our webiste http://neuvoo.com/. Any question? Tweet us at @Neuvoo",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Apply now to work for MG Software Consultants Inc as #DB2 #DBA , f2f interview needed in IL in #Chicago #jobs http://t.co/xriei6yHZp",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter for Websites",
+					"link" : "https://dev.twitter.com/docs/tfw"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Chicago",
+								"region" : "Illinois",
+								"subRegion" : "Cook County"
+							},
+							"displayName" : "Chicago, Illinois, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-87.650049999999993,
+									41.850029999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://neuvoo.com/job.php?id=140678440&source=twitter&client_id=76",
+							"url" : "http://t.co/xriei6yHZp"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541368787740524544",
+				"link" : "http://twitter.com/NeuvooChicago/statuses/541368787740524544",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541368787740524544",
+					"link" : "http://twitter.com/NeuvooChicago/statuses/541368787740524544",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T23:09:11.000Z",
+					"summary" : "Apply now to work for MG Software Consultants Inc as #DB2 #DBA , f2f interview needed in IL in #Chicago #jobs http://t.co/xriei6yHZp"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T23:09:11.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								53,
+								57
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								58,
+								62
+							],
+							"text" : "DBA"
+						},
+						{
+							"indices" : 
+							[
+								95,
+								103
+							],
+							"text" : "Chicago"
+						},
+						{
+							"indices" : 
+							[
+								104,
+								109
+							],
+							"text" : "jobs"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "neuvoo.com/job.php?id=140…",
+							"expanded_url" : "http://neuvoo.com/job.php?id=140678440&source=twitter&client_id=76",
+							"indices" : 
+							[
+								110,
+								132
+							],
+							"url" : "http://t.co/xriei6yHZp"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Emma Croft",
+					"favoritesCount" : 28,
+					"followersCount" : 186,
+					"friendsCount" : 171,
+					"id" : "id:twitter.com:2665590816",
+					"image" : "https://pbs.twimg.com/profile_images/491181226959446018/_3nP6FUe_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/emmacroft11",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobPro.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 3,
+					"location" : 
+					{
+						"displayName" : "USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-07-21T11:19:46.000Z",
+					"preferredUsername" : "emmacroft11",
+					"statusesCount" : 19167,
+					"summary" : "Team Support at http://ITJobPro.com",
+					"twitterTimeZone" : "Midway Island",
+					"utcOffset" : "-39600",
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Jersey City - DB2 DBA http://t.co/TQEGMpR7k3 view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US"
+							},
+							"displayName" : "United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-98.5,
+									39.759999999999998
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=e39bcc48-cf66-4532-a187-df23cfaa0d78&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/TQEGMpR7k3"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541647594045198336",
+				"link" : "http://twitter.com/emmacroft11/statuses/541647594045198336",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541647594045198336",
+					"link" : "http://twitter.com/emmacroft11/statuses/541647594045198336",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T17:37:04.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Jersey City - DB2 DBA http://t.co/TQEGMpR7k3 view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T17:37:04.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								37
+							],
+							"text" : "Jersey"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lfLpY",
+							"expanded_url" : "http://dlvr.it/7lfLpY",
+							"indices" : 
+							[
+								53,
+								75
+							],
+							"url" : "http://t.co/TQEGMpR7k3"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "AutumnLaird",
+					"favoritesCount" : 0,
+					"followersCount" : 44,
+					"friendsCount" : 1,
+					"id" : "id:twitter.com:1240595652",
+					"image" : "https://pbs.twimg.com/profile_images/3501003397/2fab1ea38acc3a73c78198c75821f958_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/AutumnLaird1",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"objectType" : "person",
+					"postedTime" : "2013-03-04T05:55:08.000Z",
+					"preferredUsername" : "AutumnLaird1",
+					"statusesCount" : 58298,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Get to predomination upon goldstein-sheerer test 000-730 db2 9 phratry fundamentals: HwCGiWEVI",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:541737256122212352",
+				"link" : "http://twitter.com/AutumnLaird1/statuses/541737256122212352",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541737256122212352",
+					"link" : "http://twitter.com/AutumnLaird1/statuses/541737256122212352",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T23:33:21.000Z",
+					"summary" : "Get to predomination upon goldstein-sheerer test 000-730 db2 9 phratry fundamentals: HwCGiWEVI"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T23:33:21.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "New York City",
+						"country" : "United States",
+						"state" : "New York"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Jo Campbell",
+					"favoritesCount" : 123,
+					"followersCount" : 392,
+					"friendsCount" : 746,
+					"id" : "id:twitter.com:1903823016",
+					"image" : "https://pbs.twimg.com/profile_images/378800000505787037/215d65b277c310e9636a1771f628a208_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/ITJobBoardExec",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobPro.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 2,
+					"location" : 
+					{
+						"displayName" : "NYC",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-09-25T11:18:13.000Z",
+					"preferredUsername" : "ITJobBoardExec",
+					"statusesCount" : 12022,
+					"summary" : "Senior Executive at ITJobPro the biggest IT job site on the planet. more at http://www.ITJobPro.com",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Columbia - DB2 DBA http://t.co/HFXJUdIXx1 ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "New York City",
+								"region" : "New York"
+							},
+							"displayName" : "New York City, New York, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-74.005970000000005,
+									40.714269999999999
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=b6a65ade-9e79-46d4-a199-069c4bc8c9d9&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/HFXJUdIXx1"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541680561681473537",
+				"link" : "http://twitter.com/ITJobBoardExec/statuses/541680561681473537",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541680561681473537",
+					"link" : "http://twitter.com/ITJobBoardExec/statuses/541680561681473537",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T19:48:04.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Columbia - DB2 DBA http://t.co/HFXJUdIXx1 ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T19:48:04.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								39
+							],
+							"text" : "Columbia"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lhRZd",
+							"expanded_url" : "http://dlvr.it/7lhRZd",
+							"indices" : 
+							[
+								50,
+								72
+							],
+							"url" : "http://t.co/HFXJUdIXx1"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "AutumnLaird",
+					"favoritesCount" : 0,
+					"followersCount" : 40,
+					"friendsCount" : 1,
+					"id" : "id:twitter.com:1240595652",
+					"image" : "https://pbs.twimg.com/profile_images/3501003397/2fab1ea38acc3a73c78198c75821f958_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/AutumnLaird1",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"objectType" : "person",
+					"postedTime" : "2013-03-04T05:55:08.000Z",
+					"preferredUsername" : "AutumnLaird1",
+					"statusesCount" : 57929,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Pelf total theater about pap test 000-730 db2 9 superclass fundamentals: MKEvuUawW",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:541043532052430848",
+				"link" : "http://twitter.com/AutumnLaird1/statuses/541043532052430848",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541043532052430848",
+					"link" : "http://twitter.com/AutumnLaird1/statuses/541043532052430848",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T01:36:44.000Z",
+					"summary" : "Pelf total theater about pap test 000-730 db2 9 superclass fundamentals: MKEvuUawW"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T01:36:44.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "Canada",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Internships Canada",
+					"favoritesCount" : 0,
+					"followersCount" : 31,
+					"friendsCount" : 288,
+					"id" : "id:twitter.com:2883208654",
+					"image" : "https://pbs.twimg.com/profile_images/534823531096203264/uhjQmrXb_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/NeuvooInternCA",
+					"links" : 
+					[
+						{
+							"href" : "http://neuvoo.ca/",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 2,
+					"location" : 
+					{
+						"displayName" : "Canada",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-11-18T21:40:05.000Z",
+					"preferredUsername" : "NeuvooInternCA",
+					"statusesCount" : 840,
+					"summary" : "Check out our internship positions in Canada! Any question? Tweet us at @Neuvoo",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "IBM Canada is hiring! #Java/DB2 #Web Developer - Internship (Markham, ON) in #Toronto, apply now! #jobs http://t.co/rQcUxIcVZk",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter for Websites",
+					"link" : "https://dev.twitter.com/docs/tfw"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Canada",
+								"countryCode" : "CA"
+							},
+							"displayName" : "Canada",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-113.64258,
+									60.108669999999996
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://neuvoo.ca/job.php?id=140693564&source=twitter&client_id=53",
+							"url" : "http://t.co/rQcUxIcVZk"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541384138922536960",
+				"link" : "http://twitter.com/NeuvooInternCA/statuses/541384138922536960",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541384138922536960",
+					"link" : "http://twitter.com/NeuvooInternCA/statuses/541384138922536960",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T00:10:11.000Z",
+					"summary" : "IBM Canada is hiring! #Java/DB2 #Web Developer - Internship (Markham, ON) in #Toronto, apply now! #jobs http://t.co/rQcUxIcVZk"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T00:10:11.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								22,
+								27
+							],
+							"text" : "Java"
+						},
+						{
+							"indices" : 
+							[
+								32,
+								36
+							],
+							"text" : "Web"
+						},
+						{
+							"indices" : 
+							[
+								77,
+								85
+							],
+							"text" : "Toronto"
+						},
+						{
+							"indices" : 
+							[
+								98,
+								103
+							],
+							"text" : "jobs"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "neuvoo.ca/job.php?id=140…",
+							"expanded_url" : "http://neuvoo.ca/job.php?id=140693564&source=twitter&client_id=53",
+							"indices" : 
+							[
+								104,
+								126
+							],
+							"url" : "http://t.co/rQcUxIcVZk"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "Georgia"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IT Jobs in Georgia",
+					"favoritesCount" : 13,
+					"followersCount" : 44,
+					"friendsCount" : 66,
+					"id" : "id:twitter.com:2577417884",
+					"image" : "https://pbs.twimg.com/profile_images/479721104345292800/dfkJuM8n_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/ITJobsGeorgia",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobPro.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 1,
+					"location" : 
+					{
+						"displayName" : "Georgia, USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-06-19T20:22:04.000Z",
+					"preferredUsername" : "ITJobsGeorgia",
+					"statusesCount" : 4177,
+					"summary" : "Follow this account for geo-targeted IT job tweets in Georgia from ITJobPro the biggest IT job site on the planet. more at http://www.ITJobPro.com",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "★ JOB ALERT ★ #ITJob #Job #Atlanta - MySQL-DB2 Administrator http://t.co/DirycF6EAJ ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "Georgia"
+							},
+							"displayName" : "Georgia, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-83.50018,
+									32.750419999999998
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=88179180-86e6-4782-b688-3f00c14cf098&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/DirycF6EAJ"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541729879994023936",
+				"link" : "http://twitter.com/ITJobsGeorgia/statuses/541729879994023936",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541729879994023936",
+					"link" : "http://twitter.com/ITJobsGeorgia/statuses/541729879994023936",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T23:04:02.000Z",
+					"summary" : "★ JOB ALERT ★ #ITJob #Job #Atlanta - MySQL-DB2 Administrator http://t.co/DirycF6EAJ ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T23:04:02.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								14,
+								20
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								21,
+								25
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								26,
+								34
+							],
+							"text" : "Atlanta"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7llG6W",
+							"expanded_url" : "http://dlvr.it/7llG6W",
+							"indices" : 
+							[
+								61,
+								83
+							],
+							"url" : "http://t.co/DirycF6EAJ"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Pune",
+						"country" : "India",
+						"state" : "Mahārāshtra"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Amar Babhulgaonkar",
+					"favoritesCount" : 145,
+					"followersCount" : 547,
+					"friendsCount" : 765,
+					"id" : "id:twitter.com:2268339048",
+					"image" : "https://pbs.twimg.com/profile_images/519346055024889857/B4N7SRSf_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/amar81sb",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 32,
+					"location" : 
+					{
+						"displayName" : "Pune",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-12-30T04:55:39.000Z",
+					"preferredUsername" : "amar81sb",
+					"statusesCount" : 6866,
+					"summary" : "#IBMer day & night. #Cloud #Bluemix #Cloudant tweets flow in my nerves. One life live twice is my motto. O2 is the element I vote for so go green.",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "#NodeJS with #DB2 Data Base sample at #JazzHub and #Bluemix: http://t.co/Gy6EexnD1s @NoSQLDigest",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter Web Client",
+					"link" : "http://twitter.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "India",
+								"countryCode" : "IN",
+								"locality" : "Pune",
+								"region" : "Mahārāshtra"
+							},
+							"displayName" : "Pune, Mahārāshtra, India",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									73.855350000000001,
+									18.519570000000002
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 403,
+							"expanded_url" : "https://hub.jazz.net/project/chemi/Demo4Bluemix%20(Node%20and%20DB2)/overview",
+							"url" : "http://t.co/Gy6EexnD1s"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541296541697187843",
+				"link" : "http://twitter.com/amar81sb/statuses/541296541697187843",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541296541697187843",
+					"link" : "http://twitter.com/amar81sb/statuses/541296541697187843",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T18:22:07.000Z",
+					"summary" : "#NodeJS with #DB2 Data Base sample at #JazzHub and #Bluemix: http://t.co/Gy6EexnD1s @NoSQLDigest"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T18:22:07.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								0,
+								7
+							],
+							"text" : "NodeJS"
+						},
+						{
+							"indices" : 
+							[
+								13,
+								17
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								38,
+								46
+							],
+							"text" : "JazzHub"
+						},
+						{
+							"indices" : 
+							[
+								51,
+								59
+							],
+							"text" : "Bluemix"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1vTqrqT",
+							"expanded_url" : "http://bit.ly/1vTqrqT",
+							"indices" : 
+							[
+								61,
+								83
+							],
+							"url" : "http://t.co/Gy6EexnD1s"
+						}
+					],
+					"user_mentions" : 
+					[
+						{
+							"id" : 2704548373,
+							"id_str" : "2704548373",
+							"indices" : 
+							[
+								84,
+								96
+							],
+							"name" : "NoSQL",
+							"screen_name" : "NoSQLDigest"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Chicago",
+						"country" : "United States",
+						"state" : "Illinois"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Andre Carter",
+					"favoritesCount" : 2,
+					"followersCount" : 124,
+					"friendsCount" : 56,
+					"id" : "id:twitter.com:2791451380",
+					"image" : "https://pbs.twimg.com/profile_images/516561314714374145/SFij7MFe_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Pro_Recruiting",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 5,
+					"location" : 
+					{
+						"displayName" : "Chicago ",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-29T12:01:03.000Z",
+					"preferredUsername" : "Pro_Recruiting",
+					"statusesCount" : 22143,
+					"summary" : "Freelance Recruiter 14 yrs exp. Family man enjoying life & Jazz",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆ JOB ALERT ☆ #ITJob #Job #San Antonio - DB2 z/OS DBA http://t.co/Moaty0nzdE ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Chicago",
+								"region" : "Illinois",
+								"subRegion" : "Cook County"
+							},
+							"displayName" : "Chicago, Illinois, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-87.650049999999993,
+									41.850029999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=fec16303-63e9-4ba3-92a7-5ce8438494b0&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/Moaty0nzdE"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541336562928070656",
+				"link" : "http://twitter.com/Pro_Recruiting/statuses/541336562928070656",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541336562928070656",
+					"link" : "http://twitter.com/Pro_Recruiting/statuses/541336562928070656",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T21:01:08.000Z",
+					"summary" : "☆ JOB ALERT ☆ #ITJob #Job #San Antonio - DB2 z/OS DBA http://t.co/Moaty0nzdE ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T21:01:08.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								14,
+								20
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								21,
+								25
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								26,
+								30
+							],
+							"text" : "San"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lHRkz",
+							"expanded_url" : "http://dlvr.it/7lHRkz",
+							"indices" : 
+							[
+								54,
+								76
+							],
+							"url" : "http://t.co/Moaty0nzdE"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "OSTCareers",
+					"favoritesCount" : 0,
+					"followersCount" : 37,
+					"friendsCount" : 42,
+					"id" : "id:twitter.com:2810464325",
+					"image" : "https://pbs.twimg.com/profile_images/519608989265313792/vOr_tKfW_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/OstCareers",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 2,
+					"objectType" : "person",
+					"postedTime" : "2014-10-06T14:45:32.000Z",
+					"preferredUsername" : "OstCareers",
+					"statusesCount" : 6075,
+					"summary" : "Follow us for real-time job updates. For recruiter insights and tips, please follow @OpenSystemsTech",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "I'm hiring - Cobol Developer in Jersey City, NJ http://t.co/RbQeEyQbnZ #jobs #cobol #db2",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "GroupTweet",
+					"link" : "http://www.GroupTweet.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.bullhornreach.com/sites/opensystems/job/1824075_cobol-developer-jersey-city-nj?utm_campaign=v1&utm_content=71&utm_source=twitter.com&referer=None&utm_medium=referral",
+							"url" : "http://t.co/RbQeEyQbnZ"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541721818143666177",
+				"link" : "http://twitter.com/OstCareers/statuses/541721818143666177",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541721818143666177",
+					"link" : "http://twitter.com/OstCareers/statuses/541721818143666177",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T22:32:00.000Z",
+					"summary" : "I'm hiring - Cobol Developer in Jersey City, NJ http://t.co/RbQeEyQbnZ #jobs #cobol #db2"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T22:32:00.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								71,
+								76
+							],
+							"text" : "jobs"
+						},
+						{
+							"indices" : 
+							[
+								77,
+								83
+							],
+							"text" : "cobol"
+						},
+						{
+							"indices" : 
+							[
+								84,
+								88
+							],
+							"text" : "db2"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bull.hn/l/2A26T/71",
+							"expanded_url" : "http://bull.hn/l/2A26T/71",
+							"indices" : 
+							[
+								48,
+								70
+							],
+							"url" : "http://t.co/RbQeEyQbnZ"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "California"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IT Recruiter - Bella",
+					"favoritesCount" : 1,
+					"followersCount" : 142,
+					"friendsCount" : 104,
+					"id" : "id:twitter.com:2784172672",
+					"image" : "https://pbs.twimg.com/profile_images/515223424113717248/UF8qGUfD_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/IT_Recruiter_CA",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 5,
+					"location" : 
+					{
+						"displayName" : "California, USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-25T19:33:26.000Z",
+					"preferredUsername" : "IT_Recruiter_CA",
+					"statusesCount" : 15859,
+					"summary" : "i am IT #Recruiter posting job opportunities      #Recruitment | #Recruitments | #Recruiters | #Headhunter | #Hiring | #Jobs | #IT | #HR",
+					"twitterTimeZone" : "Central Time (US & Canada)",
+					"utcOffset" : "-21600",
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Raleigh - TRICARE - Lead DB2 Database Administrator http://t.co/Fi82epePXy ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "California"
+							},
+							"displayName" : "California, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-119.75126,
+									37.250219999999999
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=9054a305-a780-48ac-af85-c40572f06a60&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/Fi82epePXy"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541633562026323968",
+				"link" : "http://twitter.com/IT_Recruiter_CA/statuses/541633562026323968",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541633562026323968",
+					"link" : "http://twitter.com/IT_Recruiter_CA/statuses/541633562026323968",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T16:41:18.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Raleigh - TRICARE - Lead DB2 Database Administrator http://t.co/Fi82epePXy ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T16:41:18.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								38
+							],
+							"text" : "Raleigh"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7ldTFz",
+							"expanded_url" : "http://dlvr.it/7ldTFz",
+							"indices" : 
+							[
+								83,
+								105
+							],
+							"url" : "http://t.co/Fi82epePXy"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "New York"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Karen Mayer",
+					"favoritesCount" : 13,
+					"followersCount" : 211,
+					"friendsCount" : 203,
+					"id" : "id:twitter.com:1907383776",
+					"image" : "https://pbs.twimg.com/profile_images/378800000509864061/c2350afd19b05f753f18cbe01b03726d_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/ITJobs_Karen",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobPro.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 5,
+					"location" : 
+					{
+						"displayName" : "New York",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-09-26T10:21:44.000Z",
+					"preferredUsername" : "ITJobs_Karen",
+					"statusesCount" : 10130,
+					"summary" : "National Accounts Executive @ ITJobPro",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Raleigh - TRICARE - Lead DB2 Database Administrator http://t.co/V3lUBuG4Mi ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "New York"
+							},
+							"displayName" : "New York, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-75.499899999999997,
+									43.000349999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=9054a305-a780-48ac-af85-c40572f06a60&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/V3lUBuG4Mi"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541601831252529152",
+				"link" : "http://twitter.com/ITJobs_Karen/statuses/541601831252529152",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541601831252529152",
+					"link" : "http://twitter.com/ITJobs_Karen/statuses/541601831252529152",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T14:35:13.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Raleigh - TRICARE - Lead DB2 Database Administrator http://t.co/V3lUBuG4Mi ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T14:35:13.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								38
+							],
+							"text" : "Raleigh"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lbFqT",
+							"expanded_url" : "http://dlvr.it/7lbFqT",
+							"indices" : 
+							[
+								83,
+								105
+							],
+							"url" : "http://t.co/V3lUBuG4Mi"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "ちゅうさま☆DB3S",
+					"favoritesCount" : 0,
+					"followersCount" : 326,
+					"friendsCount" : 352,
+					"id" : "id:twitter.com:1678153734",
+					"image" : "https://pbs.twimg.com/profile_images/378800000312702662/ec58267d4a8d9ae4010f5d5e18ddee32_normal.jpeg",
+					"languages" : 
+					[
+						"ja"
+					],
+					"link" : "http://www.twitter.com/csmDB3s",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 5,
+					"location" : 
+					{
+						"displayName" : "ちゅうさまランド",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-08-17T13:03:19.000Z",
+					"preferredUsername" : "csmDB3s",
+					"statusesCount" : 488,
+					"summary" : "初のレース専用車",
+					"twitterTimeZone" : "Tokyo",
+					"utcOffset" : "32400",
+					"verified" : false
+				},
+				"body" : "シャシーはロードカーのDB2とは全く無関係の鋼管ラダーフレームで、前ダブルトレーリング・リンク／後ドディオン・アクスル、スプリングは前後とも横置ト－ションバーを装備していました。ブレーキは前アルフィン・ドラム、後インボード・ドラムという組み合わせ",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twittbot.net",
+					"link" : "http://twittbot.net/"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "ja"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:541671120303190016",
+				"link" : "http://twitter.com/csmDB3s/statuses/541671120303190016",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541671120303190016",
+					"link" : "http://twitter.com/csmDB3s/statuses/541671120303190016",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T19:10:33.000Z",
+					"summary" : "シャシーはロードカーのDB2とは全く無関係の鋼管ラダーフレームで、前ダブルトレーリング・リンク／後ドディオン・アクスル、スプリングは前後とも横置ト－ションバーを装備していました。ブレーキは前アルフィン・ドラム、後インボード・ドラムという組み合わせ"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T19:10:33.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "ja",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "New York City",
+						"country" : "United States",
+						"state" : "New York"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Jo Campbell",
+					"favoritesCount" : 123,
+					"followersCount" : 391,
+					"friendsCount" : 746,
+					"id" : "id:twitter.com:1903823016",
+					"image" : "https://pbs.twimg.com/profile_images/378800000505787037/215d65b277c310e9636a1771f628a208_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/ITJobBoardExec",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobPro.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 2,
+					"location" : 
+					{
+						"displayName" : "NYC",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-09-25T11:18:13.000Z",
+					"preferredUsername" : "ITJobBoardExec",
+					"statusesCount" : 11807,
+					"summary" : "Senior Executive at ITJobPro the biggest IT job site on the planet. more at http://www.ITJobPro.com",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #McLean - L3 DB2 Mainframe DBA http://t.co/q8IUO3aSQg ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "New York City",
+								"region" : "New York"
+							},
+							"displayName" : "New York City, New York, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-74.005970000000005,
+									40.714269999999999
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=0b5fa52d-70d3-430f-ab7d-c3997d3e5ce3&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/q8IUO3aSQg"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541566064748793856",
+				"link" : "http://twitter.com/ITJobBoardExec/statuses/541566064748793856",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541566064748793856",
+					"link" : "http://twitter.com/ITJobBoardExec/statuses/541566064748793856",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T12:13:06.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #McLean - L3 DB2 Mainframe DBA http://t.co/q8IUO3aSQg ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T12:13:06.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								37
+							],
+							"text" : "McLean"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lXYS0",
+							"expanded_url" : "http://dlvr.it/7lXYS0",
+							"indices" : 
+							[
+								61,
+								83
+							],
+							"url" : "http://t.co/q8IUO3aSQg"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Pune",
+						"country" : "India",
+						"state" : "Mahārāshtra"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Amar Babhulgaonkar",
+					"favoritesCount" : 145,
+					"followersCount" : 544,
+					"friendsCount" : 759,
+					"id" : "id:twitter.com:2268339048",
+					"image" : "https://pbs.twimg.com/profile_images/519346055024889857/B4N7SRSf_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/amar81sb",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 32,
+					"location" : 
+					{
+						"displayName" : "Pune",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-12-30T04:55:39.000Z",
+					"preferredUsername" : "amar81sb",
+					"statusesCount" : 6739,
+					"summary" : "#IBMer day & night. #Cloud #Bluemix #Cloudant tweets flow in my nerves. One life live twice is my motto. O2 is the element I vote for so go green.",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "20% of #IBM #Bluemix (http//t.co/QqUaSFCIDb) deployments are #DB2 or #Cloudant @dkrishan @soumitralimaye @bimalj13 @akshayanand44",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Post with Klout",
+					"link" : "http://klout.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "India",
+								"countryCode" : "IN",
+								"locality" : "Pune",
+								"region" : "Mahārāshtra"
+							},
+							"displayName" : "Pune, Mahārāshtra, India",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									73.855350000000001,
+									18.519570000000002
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541272650136301568",
+				"link" : "http://twitter.com/amar81sb/statuses/541272650136301568",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541272650136301568",
+					"link" : "http://twitter.com/amar81sb/statuses/541272650136301568",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T16:47:10.000Z",
+					"summary" : "20% of #IBM #Bluemix (http//t.co/QqUaSFCIDb) deployments are #DB2 or #Cloudant @dkrishan @soumitralimaye @bimalj13 @akshayanand44"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T16:47:10.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								7,
+								11
+							],
+							"text" : "IBM"
+						},
+						{
+							"indices" : 
+							[
+								12,
+								20
+							],
+							"text" : "Bluemix"
+						},
+						{
+							"indices" : 
+							[
+								61,
+								65
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								69,
+								78
+							],
+							"text" : "Cloudant"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : 
+					[
+						{
+							"id" : 62294711,
+							"id_str" : "62294711",
+							"indices" : 
+							[
+								79,
+								88
+							],
+							"name" : "Dheeraj Kumar",
+							"screen_name" : "dkrishan"
+						},
+						{
+							"id" : 89407895,
+							"id_str" : "89407895",
+							"indices" : 
+							[
+								89,
+								104
+							],
+							"name" : "Soumitra",
+							"screen_name" : "soumitralimaye"
+						},
+						{
+							"id" : 2835833288,
+							"id_str" : "2835833288",
+							"indices" : 
+							[
+								105,
+								114
+							],
+							"name" : "Bimal Jha",
+							"screen_name" : "bimalj13"
+						},
+						{
+							"id" : 155904345,
+							"id_str" : "155904345",
+							"indices" : 
+							[
+								115,
+								129
+							],
+							"name" : "akshay anand",
+							"screen_name" : "akshayanand44"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "Arizona"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Arizona Recruiting",
+					"favoritesCount" : 0,
+					"followersCount" : 18,
+					"friendsCount" : 32,
+					"id" : "id:twitter.com:2785313157",
+					"image" : "https://pbs.twimg.com/profile_images/515477319226368000/SKao7sYt_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/IT_Arizona",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Arizona",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-26T12:22:59.000Z",
+					"preferredUsername" : "IT_Arizona",
+					"statusesCount" : 5506,
+					"summary" : "IT Hiring, posting job opportunities. Open networker, follow and add me to your network! Now Hiring all IT positions",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Eagan - Mainframe (Z/OS) SAP and DB2 Systems Programmer http://t.co/LKadAE40dG ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "Arizona"
+							},
+							"displayName" : "Arizona, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-111.50098,
+									34.500300000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=f4716bb6-c828-4c63-a514-65abeb8f2fbc&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/LKadAE40dG"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541271989944475648",
+				"link" : "http://twitter.com/IT_Arizona/statuses/541271989944475648",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541271989944475648",
+					"link" : "http://twitter.com/IT_Arizona/statuses/541271989944475648",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T16:44:33.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Eagan - Mainframe (Z/OS) SAP and DB2 Systems Programmer http://t.co/LKadAE40dG ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T16:44:33.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								36
+							],
+							"text" : "Eagan"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lCnzC",
+							"expanded_url" : "http://dlvr.it/7lCnzC",
+							"indices" : 
+							[
+								87,
+								109
+							],
+							"url" : "http://t.co/LKadAE40dG"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Paris",
+						"country" : "France",
+						"state" : "Île-de-France"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Wil",
+					"favoritesCount" : 607,
+					"followersCount" : 1351,
+					"friendsCount" : 455,
+					"id" : "id:twitter.com:20665286",
+					"image" : "https://pbs.twimg.com/profile_images/441953891316662272/AAt-GzFJ_normal.jpeg",
+					"languages" : 
+					[
+						"fr"
+					],
+					"link" : "http://www.twitter.com/wil75",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 52,
+					"location" : 
+					{
+						"displayName" : "Paris",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-02-12T09:56:44.000Z",
+					"preferredUsername" : "wil75",
+					"statusesCount" : 75219,
+					"summary" : "#Entrepreneur, passionné d'éco et d'info. BFMBusiness est ma bible #CigarSocialClub @CigarSocialClub Pin BBM 7c3b5650\n#AllBleues",
+					"twitterTimeZone" : "Paris",
+					"utcOffset" : "3600",
+					"verified" : false
+				},
+				"body" : "1950 Aston Martin DB2 http://t.co/cwDCkEEy3J (via @CarPicsH)",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Tweetbot for iΟS",
+					"link" : "http://tapbots.com/tweetbot"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "France",
+								"countryCode" : "FR",
+								"locality" : "Paris",
+								"region" : "Île-de-France"
+							},
+							"displayName" : "Paris, Île-de-France, France",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									2.3488000000000002,
+									48.853409999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://twitter.com/CarPicsH/status/541278726110334977/photo/1",
+							"url" : "http://t.co/cwDCkEEy3J"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541310684064387072",
+				"link" : "http://twitter.com/wil75/statuses/541310684064387072",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541310684064387072",
+					"link" : "http://twitter.com/wil75/statuses/541310684064387072",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T19:18:18.000Z",
+					"summary" : "1950 Aston Martin DB2 http://t.co/cwDCkEEy3J (via @CarPicsH)"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T19:18:18.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/cwDCkEEy3J",
+							"expanded_url" : "http://twitter.com/CarPicsH/status/541278726110334977/photo/1",
+							"id" : 541278726072586240,
+							"id_str" : "541278726072586240",
+							"indices" : 
+							[
+								22,
+								44
+							],
+							"media_url" : "http://pbs.twimg.com/media/B4MCIjAIUAAcqh9.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B4MCIjAIUAAcqh9.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 352,
+									"resize" : "fit",
+									"w" : 236
+								},
+								"medium" : 
+								{
+									"h" : 352,
+									"resize" : "fit",
+									"w" : 236
+								},
+								"small" : 
+								{
+									"h" : 352,
+									"resize" : "fit",
+									"w" : 236
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"source_status_id" : 541278726110334977,
+							"source_status_id_str" : "541278726110334977",
+							"type" : "photo",
+							"url" : "http://t.co/cwDCkEEy3J"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : 
+					[
+						{
+							"id" : 2385551401,
+							"id_str" : "2385551401",
+							"indices" : 
+							[
+								50,
+								59
+							],
+							"name" : "Car Pics",
+							"screen_name" : "CarPicsH"
+						}
+					]
+				},
+				"twitter_extended_entities" : 
+				{
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/cwDCkEEy3J",
+							"expanded_url" : "http://twitter.com/CarPicsH/status/541278726110334977/photo/1",
+							"id" : 541278726072586240,
+							"id_str" : "541278726072586240",
+							"indices" : 
+							[
+								22,
+								44
+							],
+							"media_url" : "http://pbs.twimg.com/media/B4MCIjAIUAAcqh9.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B4MCIjAIUAAcqh9.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 352,
+									"resize" : "fit",
+									"w" : 236
+								},
+								"medium" : 
+								{
+									"h" : 352,
+									"resize" : "fit",
+									"w" : 236
+								},
+								"small" : 
+								{
+									"h" : 352,
+									"resize" : "fit",
+									"w" : 236
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"source_status_id" : 541278726110334977,
+							"source_status_id_str" : "541278726110334977",
+							"type" : "photo",
+							"url" : "http://t.co/cwDCkEEy3J"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "tl",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "North Carolina"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "North Carolina Jobs",
+					"favoritesCount" : 0,
+					"followersCount" : 6,
+					"friendsCount" : 6,
+					"id" : "id:twitter.com:2846914909",
+					"image" : "https://pbs.twimg.com/profile_images/519778391885496320/qxKNm8gS_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Hiring_NC",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ApexOpus.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "North Carolina USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-10-08T09:15:57.000Z",
+					"preferredUsername" : "Hiring_NC",
+					"statusesCount" : 9713,
+					"summary" : "See who is hiring in North Carolina. Be the first to see the latest jobs. \nSearch millions of jobs using http://ApexOpus.com",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "★ JOB ALERT ★ #ITJob #Job #Raleigh - TRICARE - Lead DB2 Database Administrator http://t.co/KCaDQWkMIY ☜ view full details #job #hiring",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "North Carolina"
+							},
+							"displayName" : "North Carolina, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-80.000320000000002,
+									35.500689999999999
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=9054a305-a780-48ac-af85-c40572f06a60&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/KCaDQWkMIY"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541708362820247554",
+				"link" : "http://twitter.com/Hiring_NC/statuses/541708362820247554",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541708362820247554",
+					"link" : "http://twitter.com/Hiring_NC/statuses/541708362820247554",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T21:38:32.000Z",
+					"summary" : "★ JOB ALERT ★ #ITJob #Job #Raleigh - TRICARE - Lead DB2 Database Administrator http://t.co/KCaDQWkMIY ☜ view full details #job #hiring"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T21:38:32.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								14,
+								20
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								21,
+								25
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								26,
+								34
+							],
+							"text" : "Raleigh"
+						},
+						{
+							"indices" : 
+							[
+								122,
+								126
+							],
+							"text" : "job"
+						},
+						{
+							"indices" : 
+							[
+								127,
+								134
+							],
+							"text" : "hiring"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lk2xv",
+							"expanded_url" : "http://dlvr.it/7lk2xv",
+							"indices" : 
+							[
+								79,
+								101
+							],
+							"url" : "http://t.co/KCaDQWkMIY"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "female",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "Georgia"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Georgia Jobs",
+					"favoritesCount" : 2,
+					"followersCount" : 6,
+					"friendsCount" : 11,
+					"id" : "id:twitter.com:2813922484",
+					"image" : "https://pbs.twimg.com/profile_images/519474751274643456/r7WMR2XU_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Hiring_Georgia",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ApexOpus.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Georgia USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-10-07T13:09:20.000Z",
+					"preferredUsername" : "Hiring_Georgia",
+					"statusesCount" : 9123,
+					"summary" : "See who is hiring in Georgia. Be the first to see the latest jobs. \nSearch millions of jobs using http://ApexOpus.com",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "★ JOB ALERT ★ #ITJob #Job #Atlanta - DBA - MYSQL and DB2 http://t.co/9zQBiVhVwe ☜ view full details #job #hiring",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Georgia",
+								"countryCode" : "GE"
+							},
+							"displayName" : "Georgia",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									43.499899999999997,
+									41.999980000000001
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=c6e2268f-64bb-4950-89a9-450b6bcf0d8a&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/9zQBiVhVwe"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541414195288215552",
+				"link" : "http://twitter.com/Hiring_Georgia/statuses/541414195288215552",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541414195288215552",
+					"link" : "http://twitter.com/Hiring_Georgia/statuses/541414195288215552",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T02:09:37.000Z",
+					"summary" : "★ JOB ALERT ★ #ITJob #Job #Atlanta - DBA - MYSQL and DB2 http://t.co/9zQBiVhVwe ☜ view full details #job #hiring"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T02:09:37.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								14,
+								20
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								21,
+								25
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								26,
+								34
+							],
+							"text" : "Atlanta"
+						},
+						{
+							"indices" : 
+							[
+								100,
+								104
+							],
+							"text" : "job"
+						},
+						{
+							"indices" : 
+							[
+								105,
+								112
+							],
+							"text" : "hiring"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lMV2T",
+							"expanded_url" : "http://dlvr.it/7lMV2T",
+							"indices" : 
+							[
+								57,
+								79
+							],
+							"url" : "http://t.co/9zQBiVhVwe"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Mathias Kaldenhoff",
+					"favoritesCount" : 4,
+					"followersCount" : 31,
+					"friendsCount" : 53,
+					"id" : "id:twitter.com:198925814",
+					"image" : "https://pbs.twimg.com/profile_images/1142605469/ich_normal.jpg",
+					"languages" : 
+					[
+						"de"
+					],
+					"link" : "http://www.twitter.com/mkaldenh",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 3,
+					"objectType" : "person",
+					"postedTime" : "2010-10-05T16:02:50.000Z",
+					"preferredUsername" : "mkaldenh",
+					"statusesCount" : 235,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "SAP HANA, Oracle 12c in-memory, IBM DB2 BLU - a comparison - SAP HANA -  http://t.co/CcoveBrq8G Kunden fragen:    \n- HANA - verglichen ...",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "XING",
+					"link" : "https://www.xing.com/"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "de"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 403,
+							"expanded_url" : "https://www.xing.com/r/wivF9",
+							"url" : "http://t.co/CcoveBrq8G"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541207515925848064",
+				"link" : "http://twitter.com/mkaldenh/statuses/541207515925848064",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541207515925848064",
+					"link" : "http://twitter.com/mkaldenh/statuses/541207515925848064",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T12:28:21.000Z",
+					"summary" : "SAP HANA, Oracle 12c in-memory, IBM DB2 BLU - a comparison - SAP HANA -  http://t.co/CcoveBrq8G Kunden fragen:    \n- HANA - verglichen ..."
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T12:28:21.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "xing.com/r/wivF9",
+							"expanded_url" : "http://xing.com/r/wivF9",
+							"indices" : 
+							[
+								73,
+								95
+							],
+							"url" : "http://t.co/CcoveBrq8G"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "New York City",
+						"country" : "United States",
+						"state" : "New York"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Jo Campbell",
+					"favoritesCount" : 123,
+					"followersCount" : 392,
+					"friendsCount" : 746,
+					"id" : "id:twitter.com:1903823016",
+					"image" : "https://pbs.twimg.com/profile_images/378800000505787037/215d65b277c310e9636a1771f628a208_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/ITJobBoardExec",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobPro.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 2,
+					"location" : 
+					{
+						"displayName" : "NYC",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-09-25T11:18:13.000Z",
+					"preferredUsername" : "ITJobBoardExec",
+					"statusesCount" : 12040,
+					"summary" : "Senior Executive at ITJobPro the biggest IT job site on the planet. more at http://www.ITJobPro.com",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Columbia - DB2 DBA http://t.co/NFv0MyEh4W ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "New York City",
+								"region" : "New York"
+							},
+							"displayName" : "New York City, New York, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-74.005970000000005,
+									40.714269999999999
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=47e78eb8-ce5d-464c-a574-0fd3a89308bd&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/NFv0MyEh4W"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541689115134025728",
+				"link" : "http://twitter.com/ITJobBoardExec/statuses/541689115134025728",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541689115134025728",
+					"link" : "http://twitter.com/ITJobBoardExec/statuses/541689115134025728",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T20:22:03.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Columbia - DB2 DBA http://t.co/NFv0MyEh4W ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T20:22:03.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								39
+							],
+							"text" : "Columbia"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lhyCl",
+							"expanded_url" : "http://dlvr.it/7lhyCl",
+							"indices" : 
+							[
+								50,
+								72
+							],
+							"url" : "http://t.co/NFv0MyEh4W"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "Canada",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Internships Canada",
+					"favoritesCount" : 0,
+					"followersCount" : 30,
+					"friendsCount" : 242,
+					"id" : "id:twitter.com:2883208654",
+					"image" : "https://pbs.twimg.com/profile_images/534823531096203264/uhjQmrXb_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/NeuvooInternCA",
+					"links" : 
+					[
+						{
+							"href" : "http://neuvoo.ca/",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 2,
+					"location" : 
+					{
+						"displayName" : "Canada",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-11-18T21:40:05.000Z",
+					"preferredUsername" : "NeuvooInternCA",
+					"statusesCount" : 800,
+					"summary" : "Check out our internship positions in Canada! Any question? Tweet us at @Neuvoo",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "IBM Canada is looking for a #DB2 #Quality Assurance Software Developer, Internship, (Markham, ON) #jobs http://t.co/7gjjc0FH2G",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Twitter for Websites",
+					"link" : "https://dev.twitter.com/docs/tfw"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Canada",
+								"countryCode" : "CA"
+							},
+							"displayName" : "Canada",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-113.64258,
+									60.108669999999996
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://neuvoo.ca/job.php?id=133608334&source=twitter&client_id=53",
+							"url" : "http://t.co/7gjjc0FH2G"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541210239295451136",
+				"link" : "http://twitter.com/NeuvooInternCA/statuses/541210239295451136",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541210239295451136",
+					"link" : "http://twitter.com/NeuvooInternCA/statuses/541210239295451136",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T12:39:10.000Z",
+					"summary" : "IBM Canada is looking for a #DB2 #Quality Assurance Software Developer, Internship, (Markham, ON) #jobs http://t.co/7gjjc0FH2G"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T12:39:10.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								28,
+								32
+							],
+							"text" : "DB2"
+						},
+						{
+							"indices" : 
+							[
+								33,
+								41
+							],
+							"text" : "Quality"
+						},
+						{
+							"indices" : 
+							[
+								98,
+								103
+							],
+							"text" : "jobs"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "neuvoo.ca/job.php?id=133…",
+							"expanded_url" : "http://neuvoo.ca/job.php?id=133608334&source=twitter&client_id=53",
+							"indices" : 
+							[
+								104,
+								126
+							],
+							"url" : "http://t.co/7gjjc0FH2G"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "Connecticut"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IT Connecticut",
+					"favoritesCount" : 0,
+					"followersCount" : 14,
+					"friendsCount" : 40,
+					"id" : "id:twitter.com:2785527748",
+					"image" : "https://pbs.twimg.com/profile_images/515506879724670978/OzK_JugM_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Connecticut_IT",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Connecticut",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-26T14:12:43.000Z",
+					"preferredUsername" : "Connecticut_IT",
+					"statusesCount" : 5256,
+					"summary" : "IT Hiring, posting job opportunities. Open networker, follow and add me to your network! Now Hiring all IT positions",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Bloomfield - PL/SQL Developer (Oracle, DB2) http://t.co/WNnQidcL4n ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "Connecticut"
+							},
+							"displayName" : "Connecticut, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-72.666480000000007,
+									41.66704
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=4194935e-f2b2-4470-bc8c-73af124f42f7&origin=rss&provider=j&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/WNnQidcL4n"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541279310657503233",
+				"link" : "http://twitter.com/Connecticut_IT/statuses/541279310657503233",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541279310657503233",
+					"link" : "http://twitter.com/Connecticut_IT/statuses/541279310657503233",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T17:13:38.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Bloomfield - PL/SQL Developer (Oracle, DB2) http://t.co/WNnQidcL4n ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T17:13:38.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								41
+							],
+							"text" : "Bloomfield"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lD8sb",
+							"expanded_url" : "http://dlvr.it/7lD8sb",
+							"indices" : 
+							[
+								75,
+								97
+							],
+							"url" : "http://t.co/WNnQidcL4n"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "India",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IT Jobs, India",
+					"favoritesCount" : 0,
+					"followersCount" : 1280,
+					"friendsCount" : 0,
+					"id" : "id:twitter.com:123537533",
+					"image" : "https://pbs.twimg.com/profile_images/790482269/sm_it1_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/tech_career",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 44,
+					"location" : 
+					{
+						"displayName" : "India",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-03-16T11:48:44.000Z",
+					"preferredUsername" : "tech_career",
+					"statusesCount" : 67209,
+					"summary" : "Get latest job opportunities in Indian IT industry",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "AS400, RPG Developer, Other - India, 0 - 10 Year Exp,  , DB2,RPG,AS400,SQL http://t.co/UIPdrqEUVx",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IT jobs, India",
+					"link" : "http://monsterindia.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "India",
+								"countryCode" : "IN"
+							},
+							"displayName" : "India",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									77,
+									20
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://jobs.monsterindia.com/index.html",
+							"url" : "http://t.co/UIPdrqEUVx"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541616326364921856",
+				"link" : "http://twitter.com/tech_career/statuses/541616326364921856",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541616326364921856",
+					"link" : "http://twitter.com/tech_career/statuses/541616326364921856",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T15:32:49.000Z",
+					"summary" : "AS400, RPG Developer, Other - India, 0 - 10 Year Exp,  , DB2,RPG,AS400,SQL http://t.co/UIPdrqEUVx"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T15:32:49.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1ysubR4",
+							"expanded_url" : "http://bit.ly/1ysubR4",
+							"indices" : 
+							[
+								75,
+								97
+							],
+							"url" : "http://t.co/UIPdrqEUVx"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Jobs at Technosoft",
+					"favoritesCount" : 0,
+					"followersCount" : 21,
+					"friendsCount" : 35,
+					"id" : "id:twitter.com:1901909150",
+					"image" : "https://pbs.twimg.com/profile_images/378800000503713280/d7f1246131901ad386a962d4fb490e06_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/TechnosoftJobs",
+					"links" : 
+					[
+						{
+							"href" : "http://www.TechnosoftCorp.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 1,
+					"location" : 
+					{
+						"displayName" : "all US markets",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-09-24T21:55:25.000Z",
+					"preferredUsername" : "TechnosoftJobs",
+					"statusesCount" : 37589,
+					"summary" : "...beyond possible...",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Sr DBA Db2 - Chicago, IL http://t.co/jCbMucEFK0",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "CATS Applicant Tracking System",
+					"link" : "http://www.catsone.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "it"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://technosoftcorp.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=4486530",
+							"url" : "http://t.co/jCbMucEFK0"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541633257063084032",
+				"link" : "http://twitter.com/TechnosoftJobs/statuses/541633257063084032",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541633257063084032",
+					"link" : "http://twitter.com/TechnosoftJobs/statuses/541633257063084032",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T16:40:06.000Z",
+					"summary" : "Sr DBA Db2 - Chicago, IL http://t.co/jCbMucEFK0"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T16:40:06.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "technosoftcorp.catsone.com/careers/index.…",
+							"expanded_url" : "http://technosoftcorp.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=4486530",
+							"indices" : 
+							[
+								25,
+								47
+							],
+							"url" : "http://t.co/jCbMucEFK0"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "es",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "AutumnLaird",
+					"favoritesCount" : 0,
+					"followersCount" : 43,
+					"friendsCount" : 1,
+					"id" : "id:twitter.com:1240595652",
+					"image" : "https://pbs.twimg.com/profile_images/3501003397/2fab1ea38acc3a73c78198c75821f958_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/AutumnLaird1",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"objectType" : "person",
+					"postedTime" : "2013-03-04T05:55:08.000Z",
+					"preferredUsername" : "AutumnLaird1",
+					"statusesCount" : 58215,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Manage bomb over and above midsemester 000-730 db2 9 superspecies fundamentals: CxbpZFVLK",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "de"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:541575649572302849",
+				"link" : "http://twitter.com/AutumnLaird1/statuses/541575649572302849",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541575649572302849",
+					"link" : "http://twitter.com/AutumnLaird1/statuses/541575649572302849",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T12:51:11.000Z",
+					"summary" : "Manage bomb over and above midsemester 000-730 db2 9 superspecies fundamentals: CxbpZFVLK"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T12:51:11.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "Maryland"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Maryland Recruiter",
+					"favoritesCount" : 0,
+					"followersCount" : 12,
+					"friendsCount" : 12,
+					"id" : "id:twitter.com:2786184251",
+					"image" : "https://pbs.twimg.com/profile_images/515587904551137280/O7XzDfwf_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Maryland_IT",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Maryland, USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-26T19:29:37.000Z",
+					"preferredUsername" : "Maryland_IT",
+					"statusesCount" : 5733,
+					"summary" : "IT #Recruiter‬. Specialization: #Recruitment‬ | #Recruitments‬ | #Recruiters‬ | #Headhunter‬ | #Hiring‬ | #Jobs‬ | #IT‬ | #HR‬",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Durham - Principal - Database Engineering-DB2 LUW http://t.co/idnCihu6Jd ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "Maryland"
+							},
+							"displayName" : "Maryland, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-76.749970000000005,
+									39.000390000000003
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=c0db94e0-3909-4acd-bae1-ba0fcd8675c7&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/idnCihu6Jd"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541044005597741056",
+				"link" : "http://twitter.com/Maryland_IT/statuses/541044005597741056",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541044005597741056",
+					"link" : "http://twitter.com/Maryland_IT/statuses/541044005597741056",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T01:38:37.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Durham - Principal - Database Engineering-DB2 LUW http://t.co/idnCihu6Jd ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T01:38:37.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								37
+							],
+							"text" : "Durham"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7kwvZl",
+							"expanded_url" : "http://dlvr.it/7kwvZl",
+							"indices" : 
+							[
+								81,
+								103
+							],
+							"url" : "http://t.co/idnCihu6Jd"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "California"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Dan Bright",
+					"favoritesCount" : 2,
+					"followersCount" : 92,
+					"friendsCount" : 54,
+					"id" : "id:twitter.com:2791561691",
+					"image" : "https://pbs.twimg.com/profile_images/516571270347911168/Qz_Ii4Lu_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/BrightRecruiter",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 3,
+					"location" : 
+					{
+						"displayName" : "California USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-29T12:51:06.000Z",
+					"preferredUsername" : "BrightRecruiter",
+					"statusesCount" : 12340,
+					"summary" : "Experienced freelance recruiter 20+ yrs Promoting jobs in all 50 states Follow me if you want a Bright future",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Eagan - Mainframe (Z/OS) SAP and DB2 Systems… http://t.co/wdTMi3nrW8 ☜ view full details #bright #hiring",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Mexico",
+								"countryCode" : "MX",
+								"region" : "Baja California Sur"
+							},
+							"displayName" : "Baja California Sur, Mexico",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-111.83333,
+									25.83333
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=f4716bb6-c828-4c63-a514-65abeb8f2fbc&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/wdTMi3nrW8"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541346101186400256",
+				"link" : "http://twitter.com/BrightRecruiter/statuses/541346101186400256",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541346101186400256",
+					"link" : "http://twitter.com/BrightRecruiter/statuses/541346101186400256",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T21:39:02.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Eagan - Mainframe (Z/OS) SAP and DB2 Systems… http://t.co/wdTMi3nrW8 ☜ view full details #bright #hiring"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T21:39:02.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								36
+							],
+							"text" : "Eagan"
+						},
+						{
+							"indices" : 
+							[
+								120,
+								127
+							],
+							"text" : "bright"
+						},
+						{
+							"indices" : 
+							[
+								128,
+								135
+							],
+							"text" : "hiring"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lJ2l0",
+							"expanded_url" : "http://dlvr.it/7lJ2l0",
+							"indices" : 
+							[
+								77,
+								99
+							],
+							"url" : "http://t.co/wdTMi3nrW8"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "AutumnLaird",
+					"favoritesCount" : 0,
+					"followersCount" : 43,
+					"friendsCount" : 1,
+					"id" : "id:twitter.com:1240595652",
+					"image" : "https://pbs.twimg.com/profile_images/3501003397/2fab1ea38acc3a73c78198c75821f958_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/AutumnLaird1",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"objectType" : "person",
+					"postedTime" : "2013-03-04T05:55:08.000Z",
+					"preferredUsername" : "AutumnLaird1",
+					"statusesCount" : 58243,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Proliferate bed of roses from tripos 000-730 db2 9 house fundamentals: DFYjnHnRx",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:541632473990299648",
+				"link" : "http://twitter.com/AutumnLaird1/statuses/541632473990299648",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541632473990299648",
+					"link" : "http://twitter.com/AutumnLaird1/statuses/541632473990299648",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T16:36:59.000Z",
+					"summary" : "Proliferate bed of roses from tripos 000-730 db2 9 house fundamentals: DFYjnHnRx"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T16:36:59.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "Minnesota"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Minnesota Recruiter",
+					"favoritesCount" : 0,
+					"followersCount" : 34,
+					"friendsCount" : 33,
+					"id" : "id:twitter.com:2786905275",
+					"image" : "https://pbs.twimg.com/profile_images/515798044663488512/wWXEBfii_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/minnesota_job",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Minnesota",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-27T09:38:39.000Z",
+					"preferredUsername" : "minnesota_job",
+					"statusesCount" : 5419,
+					"summary" : "IT Hiring, posting job opportunities. Open networker, follow and add me to your network! Now Hiring all IT positions",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Columbia - DB2 DBA http://t.co/ONS1slSoFG ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "Minnesota"
+							},
+							"displayName" : "Minnesota, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-94.250550000000004,
+									46.250239999999998
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=47e78eb8-ce5d-464c-a574-0fd3a89308bd&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/ONS1slSoFG"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541648342296457216",
+				"link" : "http://twitter.com/minnesota_job/statuses/541648342296457216",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541648342296457216",
+					"link" : "http://twitter.com/minnesota_job/statuses/541648342296457216",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T17:40:02.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Columbia - DB2 DBA http://t.co/ONS1slSoFG ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T17:40:02.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								39
+							],
+							"text" : "Columbia"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lfQzQ",
+							"expanded_url" : "http://dlvr.it/7lfQzQ",
+							"indices" : 
+							[
+								50,
+								72
+							],
+							"url" : "http://t.co/ONS1slSoFG"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Charlotte",
+						"country" : "United States",
+						"state" : "North Carolina"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Urban Hitz Radio",
+					"favoritesCount" : 698,
+					"followersCount" : 1314,
+					"friendsCount" : 1151,
+					"id" : "id:twitter.com:225340650",
+					"image" : "https://pbs.twimg.com/profile_images/3424721247/d1111dabf5fd05d86d7fadde2be2e956_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/HitzNY",
+					"links" : 
+					[
+						{
+							"href" : "http://www.urbanradiousa.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 20,
+					"location" : 
+					{
+						"displayName" : "Charlotte NC",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-12-11T09:58:21.000Z",
+					"preferredUsername" : "HitzNY",
+					"statusesCount" : 228304,
+					"summary" : "WUHR-DB.:: Urban Hitz Radio™ ::. The People's Choice...WHERE R&B and HIP HOP CONNECT!   FLAC/320/HQ ONLY!",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "Now Playing on Urban Hitz Radio: DB2 - Never Let You Go ...Listen Now - http://t.co/1m8F6phaAs",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "SAM Broadcaster Song Info",
+					"link" : "http://www.sam-song.info"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Charlotte",
+								"region" : "North Carolina",
+								"subRegion" : "Mecklenburg County"
+							},
+							"displayName" : "Charlotte, North Carolina, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-80.843130000000002,
+									35.227089999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.urbanradiousa.com",
+							"url" : "http://t.co/1m8F6phaAs"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541039060509552640",
+				"link" : "http://twitter.com/HitzNY/statuses/541039060509552640",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541039060509552640",
+					"link" : "http://twitter.com/HitzNY/statuses/541039060509552640",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T01:18:58.000Z",
+					"summary" : "Now Playing on Urban Hitz Radio: DB2 - Never Let You Go ...Listen Now - http://t.co/1m8F6phaAs"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T01:18:58.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "urbanradiousa.com",
+							"expanded_url" : "http://www.urbanradiousa.com",
+							"indices" : 
+							[
+								72,
+								94
+							],
+							"url" : "http://t.co/1m8F6phaAs"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "India",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IT Jobs, India",
+					"favoritesCount" : 0,
+					"followersCount" : 1281,
+					"friendsCount" : 0,
+					"id" : "id:twitter.com:123537533",
+					"image" : "https://pbs.twimg.com/profile_images/790482269/sm_it1_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/tech_career",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 44,
+					"location" : 
+					{
+						"displayName" : "India",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-03-16T11:48:44.000Z",
+					"preferredUsername" : "tech_career",
+					"statusesCount" : 67128,
+					"summary" : "Get latest job opportunities in Indian IT industry",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "AS400, RPG Developer, Other - India, 0 - 10 Year Exp,  , DB2,RPG,AS400,SQL http://t.co/UIPdrqEUVx",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IT jobs, India",
+					"link" : "http://monsterindia.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "India",
+								"countryCode" : "IN"
+							},
+							"displayName" : "India",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									77,
+									20
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 500,
+							"expanded_url" : "http://jobs.monsterindia.com/details/15869745.html?from=MSTWT&spl=IN_Twitter_feed&WT.mc_n=sk_feed_Twitter_IN",
+							"url" : "http://t.co/UIPdrqEUVx"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541570856313708544",
+				"link" : "http://twitter.com/tech_career/statuses/541570856313708544",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541570856313708544",
+					"link" : "http://twitter.com/tech_career/statuses/541570856313708544",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T12:32:08.000Z",
+					"summary" : "AS400, RPG Developer, Other - India, 0 - 10 Year Exp,  , DB2,RPG,AS400,SQL http://t.co/UIPdrqEUVx"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T12:32:08.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1ysubR4",
+							"expanded_url" : "http://bit.ly/1ysubR4",
+							"indices" : 
+							[
+								75,
+								97
+							],
+							"url" : "http://t.co/UIPdrqEUVx"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "California"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Dan Bright",
+					"favoritesCount" : 2,
+					"followersCount" : 92,
+					"friendsCount" : 54,
+					"id" : "id:twitter.com:2791561691",
+					"image" : "https://pbs.twimg.com/profile_images/516571270347911168/Qz_Ii4Lu_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/BrightRecruiter",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 3,
+					"location" : 
+					{
+						"displayName" : "California USA",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-29T12:51:06.000Z",
+					"preferredUsername" : "BrightRecruiter",
+					"statusesCount" : 12382,
+					"summary" : "Experienced freelance recruiter 20+ yrs Promoting jobs in all 50 states Follow me if you want a Bright future",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆ JOB ALERT ☆ #ITJob #Job #San Antonio - DB2 DBA http://t.co/MjRKEKQy3t ☜ view full details #bright #hiring",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "sv"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Mexico",
+								"countryCode" : "MX",
+								"region" : "Baja California Sur"
+							},
+							"displayName" : "Baja California Sur, Mexico",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-111.83333,
+									25.83333
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=7e511d1b-60d0-4fa7-8ffa-291de509fe93&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/MjRKEKQy3t"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541366361365045248",
+				"link" : "http://twitter.com/BrightRecruiter/statuses/541366361365045248",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541366361365045248",
+					"link" : "http://twitter.com/BrightRecruiter/statuses/541366361365045248",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T22:59:33.000Z",
+					"summary" : "☆ JOB ALERT ☆ #ITJob #Job #San Antonio - DB2 DBA http://t.co/MjRKEKQy3t ☜ view full details #bright #hiring"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T22:59:33.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								14,
+								20
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								21,
+								25
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								26,
+								30
+							],
+							"text" : "San"
+						},
+						{
+							"indices" : 
+							[
+								92,
+								99
+							],
+							"text" : "bright"
+						},
+						{
+							"indices" : 
+							[
+								100,
+								107
+							],
+							"text" : "hiring"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lK2m3",
+							"expanded_url" : "http://dlvr.it/7lK2m3",
+							"indices" : 
+							[
+								49,
+								71
+							],
+							"url" : "http://t.co/MjRKEKQy3t"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "New York"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Amy Burns  hiring IT",
+					"favoritesCount" : 14,
+					"followersCount" : 263,
+					"friendsCount" : 159,
+					"id" : "id:twitter.com:1907074644",
+					"image" : "https://pbs.twimg.com/profile_images/378800000509587869/b15a87d16714829d3787884f5bdcbe57_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/IT_AmyB",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobPro.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 4,
+					"location" : 
+					{
+						"displayName" : "New York ",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-09-26T08:07:58.000Z",
+					"preferredUsername" : "IT_AmyB",
+					"statusesCount" : 27724,
+					"summary" : "National Accounts Executive @ ITJobPro IT #Recruiter‬. Specialization: #Recruitment‬ | #Recruitments‬ | #Recruiters‬ | #Headhunter‬ | #Hiring‬ | #Jobs‬ |",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Columbia - DB2 DBA http://t.co/azA9ZL1Rmd ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "New York"
+							},
+							"displayName" : "New York, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-75.499899999999997,
+									43.000349999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=b6a65ade-9e79-46d4-a199-069c4bc8c9d9&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/azA9ZL1Rmd"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541635887738535936",
+				"link" : "http://twitter.com/IT_AmyB/statuses/541635887738535936",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541635887738535936",
+					"link" : "http://twitter.com/IT_AmyB/statuses/541635887738535936",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T16:50:33.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Columbia - DB2 DBA http://t.co/azA9ZL1Rmd ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T16:50:33.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								39
+							],
+							"text" : "Columbia"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7ldbQ3",
+							"expanded_url" : "http://dlvr.it/7ldbQ3",
+							"indices" : 
+							[
+								50,
+								72
+							],
+							"url" : "http://t.co/azA9ZL1Rmd"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Halifax",
+						"country" : "United Kingdom",
+						"state" : "England"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Andrew Tudor",
+					"favoritesCount" : 102,
+					"followersCount" : 942,
+					"friendsCount" : 1761,
+					"id" : "id:twitter.com:21434850",
+					"image" : "https://pbs.twimg.com/profile_images/537735943009366016/5r-HYUt6_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/atudor27",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 24,
+					"location" : 
+					{
+						"displayName" : "Halifax, England",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-02-20T21:16:28.000Z",
+					"preferredUsername" : "atudor27",
+					"statusesCount" : 2836,
+					"summary" : "Mainframe Service Integration Leader @IBM\n#IBM #Mainframe #SIL #UNIX #AIX #Solaris #Linux #HP #Delivery #Manager #FF #Leadership\nViews & opinions are my own",
+					"twitterTimeZone" : "London",
+					"utcOffset" : "0",
+					"verified" : false
+				},
+				"body" : "Whats new for #Analytics in DB2 10.5 Cancun Release #Power8 http://t.co/moUnWdEUKD",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "VoiceStorm",
+					"link" : "http://login.voicestorm.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United Kingdom",
+								"countryCode" : "GB",
+								"locality" : "Halifax",
+								"region" : "England"
+							},
+							"displayName" : "Halifax, England, United Kingdom",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-1.8500000000000001,
+									53.716670000000001
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.ibmbluhub.com/amitpatel_cancun-release/",
+							"url" : "http://t.co/moUnWdEUKD"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541703150546063361",
+				"link" : "http://twitter.com/atudor27/statuses/541703150546063361",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541703150546063361",
+					"link" : "http://twitter.com/atudor27/statuses/541703150546063361",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T21:17:50.000Z",
+					"summary" : "Whats new for #Analytics in DB2 10.5 Cancun Release #Power8 http://t.co/moUnWdEUKD"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T21:17:50.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								14,
+								24
+							],
+							"text" : "Analytics"
+						},
+						{
+							"indices" : 
+							[
+								52,
+								59
+							],
+							"text" : "Power8"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1AMZkPE",
+							"expanded_url" : "http://bit.ly/1AMZkPE",
+							"indices" : 
+							[
+								60,
+								82
+							],
+							"url" : "http://t.co/moUnWdEUKD"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : 
+					{
+						"city" : "Cleveland",
+						"country" : "United States",
+						"state" : "Ohio"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "S. Cardinale-White",
+					"favoritesCount" : 3,
+					"followersCount" : 56,
+					"friendsCount" : 106,
+					"id" : "id:twitter.com:2309203544",
+					"image" : "https://pbs.twimg.com/profile_images/426888422746107904/3SoinsXk_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/SCardinaleWhite",
+					"links" : 
+					[
+						{
+							"href" : "http://www.rosetta.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 3,
+					"location" : 
+					{
+						"displayName" : "Cleveland, Ohio",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-01-25T01:10:08.000Z",
+					"preferredUsername" : "SCardinaleWhite",
+					"statusesCount" : 2946,
+					"summary" : "Manager, Talent Acquisition                             @RosettaMarketing @RosettaCareers",
+					"twitterTimeZone" : "Hawaii",
+					"utcOffset" : "-36000",
+					"verified" : false
+				},
+				"body" : "Now Hiring: Database Administrator (DBA/ DB2)  in Cleveland, OH http://t.co/vPSiVkf3Y5 #job",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "Bullhorn Reach",
+					"link" : "http://www.bullhornreach.com/"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Cleveland",
+								"region" : "Ohio",
+								"subRegion" : "Cuyahoga County"
+							},
+							"displayName" : "Cleveland, Ohio, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-81.695409999999995,
+									41.499499999999998
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.bullhornreach.com/job/1583199_database-administrator-dba-db2-cleveland-oh?utm_campaign=v1&shortlink=3372725&utm_content=7&utm_source=twitter.com&referer=None&utm_medium=referral",
+							"url" : "http://t.co/vPSiVkf3Y5"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541364517536813056",
+				"link" : "http://twitter.com/SCardinaleWhite/statuses/541364517536813056",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541364517536813056",
+					"link" : "http://twitter.com/SCardinaleWhite/statuses/541364517536813056",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T22:52:13.000Z",
+					"summary" : "Now Hiring: Database Administrator (DBA/ DB2)  in Cleveland, OH http://t.co/vPSiVkf3Y5 #job"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T22:52:13.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								87,
+								91
+							],
+							"text" : "job"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bull.hn/l/20AET/7",
+							"expanded_url" : "http://bull.hn/l/20AET/7",
+							"indices" : 
+							[
+								64,
+								86
+							],
+							"url" : "http://t.co/vPSiVkf3Y5"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "tl",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "fascinating offers",
+					"favoritesCount" : 0,
+					"followersCount" : 6,
+					"friendsCount" : 28,
+					"id" : "id:twitter.com:2896648161",
+					"image" : "https://pbs.twimg.com/profile_images/538499434904961024/TbP2SWy7_normal.jpeg",
+					"languages" : 
+					[
+						"es"
+					],
+					"link" : "http://www.twitter.com/ofefars",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"objectType" : "person",
+					"postedTime" : "2014-11-29T01:06:08.000Z",
+					"preferredUsername" : "ofefars",
+					"statusesCount" : 4454,
+					"summary" : "fascinating offers",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "YU-GI-OH  - DB2 - 163 Different Cards - Mint - Unplayed - Unlimited Edition http://t.co/s6jpW4B4xL http://t.co/j3BB9YUNSi",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IFTTT",
+					"link" : "http://ifttt.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://gekoo.co/buy/01/?query=121510637507",
+							"url" : "http://t.co/s6jpW4B4xL"
+						},
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://twitter.com/ofefars/status/541641152446103552/photo/1",
+							"url" : "http://t.co/j3BB9YUNSi"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541641152446103552",
+				"link" : "http://twitter.com/ofefars/statuses/541641152446103552",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541641152446103552",
+					"link" : "http://twitter.com/ofefars/statuses/541641152446103552",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T17:11:28.000Z",
+					"summary" : "YU-GI-OH  - DB2 - 163 Different Cards - Mint - Unplayed - Unlimited Edition http://t.co/s6jpW4B4xL http://t.co/j3BB9YUNSi"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T17:11:28.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/j3BB9YUNSi",
+							"expanded_url" : "http://twitter.com/ofefars/status/541641152446103552/photo/1",
+							"id" : 541641152374792193,
+							"id_str" : "541641152374792193",
+							"indices" : 
+							[
+								99,
+								121
+							],
+							"media_url" : "http://pbs.twimg.com/media/B4RLwiMIYAE-ppi.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B4RLwiMIYAE-ppi.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 750,
+									"resize" : "fit",
+									"w" : 1000
+								},
+								"medium" : 
+								{
+									"h" : 450,
+									"resize" : "fit",
+									"w" : 600
+								},
+								"small" : 
+								{
+									"h" : 255,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/j3BB9YUNSi"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "gekoo.co/buy/01/?query=…",
+							"expanded_url" : "http://gekoo.co/buy/01/?query=121510637507",
+							"indices" : 
+							[
+								76,
+								98
+							],
+							"url" : "http://t.co/s6jpW4B4xL"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_extended_entities" : 
+				{
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/j3BB9YUNSi",
+							"expanded_url" : "http://twitter.com/ofefars/status/541641152446103552/photo/1",
+							"id" : 541641152374792193,
+							"id_str" : "541641152374792193",
+							"indices" : 
+							[
+								99,
+								121
+							],
+							"media_url" : "http://pbs.twimg.com/media/B4RLwiMIYAE-ppi.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/B4RLwiMIYAE-ppi.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 750,
+									"resize" : "fit",
+									"w" : 1000
+								},
+								"medium" : 
+								{
+									"h" : 450,
+									"resize" : "fit",
+									"w" : 600
+								},
+								"small" : 
+								{
+									"h" : 255,
+									"resize" : "fit",
+									"w" : 340
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "http://t.co/j3BB9YUNSi"
+						}
+					]
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "New York"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Amy Burns  hiring IT",
+					"favoritesCount" : 14,
+					"followersCount" : 263,
+					"friendsCount" : 159,
+					"id" : "id:twitter.com:1907074644",
+					"image" : "https://pbs.twimg.com/profile_images/378800000509587869/b15a87d16714829d3787884f5bdcbe57_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/IT_AmyB",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobPro.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 4,
+					"location" : 
+					{
+						"displayName" : "New York ",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2013-09-26T08:07:58.000Z",
+					"preferredUsername" : "IT_AmyB",
+					"statusesCount" : 27669,
+					"summary" : "National Accounts Executive @ ITJobPro IT #Recruiter‬. Specialization: #Recruitment‬ | #Recruitments‬ | #Recruiters‬ | #Headhunter‬ | #Hiring‬ | #Jobs‬ |",
+					"twitterTimeZone" : "Eastern Time (US & Canada)",
+					"utcOffset" : "-18000",
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #McLean - L3 DB2 Mainframe DBA http://t.co/UmGpJ21WNb ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "New York"
+							},
+							"displayName" : "New York, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-75.499899999999997,
+									43.000349999999997
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=0b5fa52d-70d3-430f-ab7d-c3997d3e5ce3&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/UmGpJ21WNb"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541616152695160832",
+				"link" : "http://twitter.com/IT_AmyB/statuses/541616152695160832",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541616152695160832",
+					"link" : "http://twitter.com/IT_AmyB/statuses/541616152695160832",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T15:32:08.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #McLean - L3 DB2 Mainframe DBA http://t.co/UmGpJ21WNb ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T15:32:08.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								37
+							],
+							"text" : "McLean"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lcBcl",
+							"expanded_url" : "http://dlvr.it/7lcBcl",
+							"indices" : 
+							[
+								61,
+								83
+							],
+							"url" : "http://t.co/UmGpJ21WNb"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Jamie",
+					"favoritesCount" : 0,
+					"followersCount" : 1,
+					"friendsCount" : 0,
+					"id" : "id:twitter.com:619081799",
+					"image" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/ContractJavaNY",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"objectType" : "person",
+					"postedTime" : "2012-06-26T13:39:02.000Z",
+					"preferredUsername" : "ContractJavaNY",
+					"statusesCount" : 44730,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "BPM- DB2- DBA (14-19306) - New York- NY http://t.co/jE7oOTaD6C",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://careers.itmmi.com/private/myjobs/openjob_outside.jsp?a=msbcir2tpnlsxrm3cfbvkwxiuirnkcjg06bczgpfqh9rcuhtmh41vqoq01pup7u7&from=COMP&id=8410251&SearchString&StatesString&t=1417947021746&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/jE7oOTaD6C"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541535370429464577",
+				"link" : "http://twitter.com/ContractJavaNY/statuses/541535370429464577",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541535370429464577",
+					"link" : "http://twitter.com/ContractJavaNY/statuses/541535370429464577",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T10:11:08.000Z",
+					"summary" : "BPM- DB2- DBA (14-19306) - New York- NY http://t.co/jE7oOTaD6C"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T10:11:08.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lVP4R",
+							"expanded_url" : "http://dlvr.it/7lVP4R",
+							"indices" : 
+							[
+								40,
+								62
+							],
+							"url" : "http://t.co/jE7oOTaD6C"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "Denver",
+						"country" : "United States",
+						"state" : "Colorado"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Denver Recruiter",
+					"favoritesCount" : 0,
+					"followersCount" : 22,
+					"friendsCount" : 60,
+					"id" : "id:twitter.com:2785410513",
+					"image" : "https://pbs.twimg.com/profile_images/515500055826923520/ly-QfgMT_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Recruit_Denver",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "Denver",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-26T13:54:37.000Z",
+					"preferredUsername" : "Recruit_Denver",
+					"statusesCount" : 3943,
+					"summary" : "IT Hiring, posting job opportunities. Open networker, follow and add me to your network! Now Hiring all IT positions",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Eagan - Mainframe (Z/OS) SAP and DB2 Systems Programmer http://t.co/UN2IDfKyBV ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Denver",
+								"region" : "Colorado",
+								"subRegion" : "Denver County"
+							},
+							"displayName" : "Denver, Colorado, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-104.9847,
+									39.739150000000002
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=f4716bb6-c828-4c63-a514-65abeb8f2fbc&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/UN2IDfKyBV"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541483509093642241",
+				"link" : "http://twitter.com/Recruit_Denver/statuses/541483509093642241",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541483509093642241",
+					"link" : "http://twitter.com/Recruit_Denver/statuses/541483509093642241",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T06:45:03.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Eagan - Mainframe (Z/OS) SAP and DB2 Systems Programmer http://t.co/UN2IDfKyBV ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T06:45:03.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								36
+							],
+							"text" : "Eagan"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lQnlC",
+							"expanded_url" : "http://dlvr.it/7lQnlC",
+							"indices" : 
+							[
+								87,
+								109
+							],
+							"url" : "http://t.co/UN2IDfKyBV"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Atlanta",
+						"country" : "United States",
+						"state" : "Georgia"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Atlanta IT Jobs",
+					"favoritesCount" : 8,
+					"followersCount" : 46,
+					"friendsCount" : 83,
+					"id" : "id:twitter.com:2731591567",
+					"image" : "https://pbs.twimg.com/profile_images/499890953339940865/BKzgl63o_normal.png",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/it_Job_atl",
+					"links" : 
+					[
+						{
+							"href" : "http://www.ITJobPro.com",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 1,
+					"location" : 
+					{
+						"displayName" : "Atlanta",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-08-14T12:10:34.000Z",
+					"preferredUsername" : "it_Job_atl",
+					"statusesCount" : 2126,
+					"summary" : "Follow this account for geo-targeted IT job tweets in Altanta from ITJobPro the biggest IT job site on the planet. more at http://www.ITJobPro.com",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "★ JOB ALERT ★ #ITJob #Job #Atlanta - DBA - MYSQL and DB2 http://t.co/CwWi63NJIW ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Atlanta",
+								"region" : "Georgia",
+								"subRegion" : "Fulton County"
+							},
+							"displayName" : "Atlanta, Georgia, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-84.387979999999999,
+									33.749000000000002
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=c6e2268f-64bb-4950-89a9-450b6bcf0d8a&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/CwWi63NJIW"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541344339582922752",
+				"link" : "http://twitter.com/it_Job_atl/statuses/541344339582922752",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541344339582922752",
+					"link" : "http://twitter.com/it_Job_atl/statuses/541344339582922752",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T21:32:02.000Z",
+					"summary" : "★ JOB ALERT ★ #ITJob #Job #Atlanta - DBA - MYSQL and DB2 http://t.co/CwWi63NJIW ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T21:32:02.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								14,
+								20
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								21,
+								25
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								26,
+								34
+							],
+							"text" : "Atlanta"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lHskc",
+							"expanded_url" : "http://dlvr.it/7lHskc",
+							"indices" : 
+							[
+								57,
+								79
+							],
+							"url" : "http://t.co/CwWi63NJIW"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "",
+						"country" : "India",
+						"state" : ""
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "IT Jobs, India",
+					"favoritesCount" : 0,
+					"followersCount" : 1279,
+					"friendsCount" : 0,
+					"id" : "id:twitter.com:123537533",
+					"image" : "https://pbs.twimg.com/profile_images/790482269/sm_it1_normal.jpg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/tech_career",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 44,
+					"location" : 
+					{
+						"displayName" : "India",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2010-03-16T11:48:44.000Z",
+					"preferredUsername" : "tech_career",
+					"statusesCount" : 66827,
+					"summary" : "Get latest job opportunities in Indian IT industry",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "AS400, RPG Developer, Other - India, 0 - 10 Year Exp,  , DB2,RPG,AS400,SQL http://t.co/UIPdrqEUVx",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "IT jobs, India",
+					"link" : "http://monsterindia.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "India",
+								"countryCode" : "IN"
+							},
+							"displayName" : "India",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									77,
+									20
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 500,
+							"expanded_url" : "http://jobs.monsterindia.com/details/15869745.html?from=MSTWT&spl=IN_Twitter_feed&WT.mc_n=sk_feed_Twitter_IN",
+							"url" : "http://t.co/UIPdrqEUVx"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541314718561210368",
+				"link" : "http://twitter.com/tech_career/statuses/541314718561210368",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541314718561210368",
+					"link" : "http://twitter.com/tech_career/statuses/541314718561210368",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T19:34:20.000Z",
+					"summary" : "AS400, RPG Developer, Other - India, 0 - 10 Year Exp,  , DB2,RPG,AS400,SQL http://t.co/UIPdrqEUVx"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T19:34:20.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "bit.ly/1ysubR4",
+							"expanded_url" : "http://bit.ly/1ysubR4",
+							"indices" : 
+							[
+								75,
+								97
+							],
+							"url" : "http://t.co/UIPdrqEUVx"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "unknown",
+					"location" : {},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : 
+						[
+							{
+								"polarity" : "NEGATIVE",
+								"sentimentTerm" : "bomb"
+							}
+						],
+						"polarity" : "NEGATIVE"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "AutumnLaird",
+					"favoritesCount" : 0,
+					"followersCount" : 42,
+					"friendsCount" : 1,
+					"id" : "id:twitter.com:1240595652",
+					"image" : "https://pbs.twimg.com/profile_images/3501003397/2fab1ea38acc3a73c78198c75821f958_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/AutumnLaird1",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"objectType" : "person",
+					"postedTime" : "2013-03-04T05:55:08.000Z",
+					"preferredUsername" : "AutumnLaird1",
+					"statusesCount" : 58073,
+					"summary" : null,
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "Master bomb together on inkblot test 000-730 db2 9 kinswoman fundamentals: yELaXhoCU",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "twitterfeed",
+					"link" : "http://twitterfeed.com"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "en"
+					}
+				},
+				"id" : "tag:search.twitter.com,2005:541312775348178947",
+				"link" : "http://twitter.com/AutumnLaird1/statuses/541312775348178947",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541312775348178947",
+					"link" : "http://twitter.com/AutumnLaird1/statuses/541312775348178947",
+					"objectType" : "note",
+					"postedTime" : "2014-12-06T19:26:37.000Z",
+					"summary" : "Master bomb together on inkblot test 000-730 db2 9 kinswoman fundamentals: yELaXhoCU"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-06T19:26:37.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"gender" : "male",
+					"location" : 
+					{
+						"city" : "Atlanta",
+						"country" : "United States",
+						"state" : "Georgia"
+					},
+					"maritalStatus" : 
+					{
+						"evidence" : "",
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"evidence" : "",
+						"isParent" : "unknown"
+					}
+				},
+				"content" : 
+				{
+					"sentiment" : 
+					{
+						"evidence" : [],
+						"polarity" : "NEUTRAL"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Recruiter Don",
+					"favoritesCount" : 2,
+					"followersCount" : 111,
+					"friendsCount" : 88,
+					"id" : "id:twitter.com:2832229376",
+					"image" : "https://pbs.twimg.com/profile_images/515236776714051586/zfbSY7Ab_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/Recruiter_Don",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 4,
+					"location" : 
+					{
+						"displayName" : "Atlanta",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-25T20:27:59.000Z",
+					"preferredUsername" : "Recruiter_Don",
+					"statusesCount" : 16358,
+					"summary" : "IT Recruiter, posting job opportunities. Open networker, follow and add me to your network!",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆ JOB ALERT ☆ #ITJob #Job #San Antonio - DB2 z/OS DBA http://t.co/vS9nEsRo0g ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"locality" : "Atlanta",
+								"region" : "Georgia",
+								"subRegion" : "Fulton County"
+							},
+							"displayName" : "Atlanta, Georgia, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-84.387979999999999,
+									33.749000000000002
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=fec16303-63e9-4ba3-92a7-5ce8438494b0&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/vS9nEsRo0g"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541400103261446144",
+				"link" : "http://twitter.com/Recruiter_Don/statuses/541400103261446144",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541400103261446144",
+					"link" : "http://twitter.com/Recruiter_Don/statuses/541400103261446144",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T01:13:38.000Z",
+					"summary" : "☆ JOB ALERT ☆ #ITJob #Job #San Antonio - DB2 z/OS DBA http://t.co/vS9nEsRo0g ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T01:13:38.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								14,
+								20
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								21,
+								25
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								26,
+								30
+							],
+							"text" : "San"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lLxGq",
+							"expanded_url" : "http://dlvr.it/7lLxGq",
+							"indices" : 
+							[
+								54,
+								76
+							],
+							"url" : "http://t.co/vS9nEsRo0g"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "Tokyo",
+						"country" : "Japan",
+						"state" : "Tōkyō"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "Akira Shimosako",
+					"favoritesCount" : 62,
+					"followersCount" : 914,
+					"friendsCount" : 871,
+					"id" : "id:twitter.com:46845440",
+					"image" : "https://pbs.twimg.com/profile_images/508661378098270208/rfWOqlzw_normal.jpeg",
+					"languages" : 
+					[
+						"ja"
+					],
+					"link" : "http://www.twitter.com/simosako",
+					"links" : 
+					[
+						{
+							"href" : "http://db2.jugem.cc/",
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 53,
+					"location" : 
+					{
+						"displayName" : "Tokyo",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2009-06-13T07:06:54.000Z",
+					"preferredUsername" : "simosako",
+					"statusesCount" : 8424,
+					"summary" : "東京在住。IT関連で面白そうと思ったニュースやブログについてつぶやきます。最近ゴルフを始めたのでそれについても少し。著書→ http://bit.ly/foF2KY http://j.mp/50YPoF DB2についてはこちら→ http://db2.jugem.cc/",
+					"twitterTimeZone" : "Tokyo",
+					"utcOffset" : "32400",
+					"verified" : false
+				},
+				"body" : "[ブログ更新]  再度お知らせ：DB2 9.5の標準サポートは2015年4月末までです http://t.co/OdARg6lGNa",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "ja"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "Japan",
+								"countryCode" : "JP",
+								"locality" : "Tokyo",
+								"region" : "Tōkyō"
+							},
+							"displayName" : "Tokyo, Tōkyō, Japan",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									139.69171,
+									35.689500000000002
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://db2.jugem.cc/?eid=2658",
+							"url" : "http://t.co/OdARg6lGNa"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541579390040023041",
+				"link" : "http://twitter.com/simosako/statuses/541579390040023041",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541579390040023041",
+					"link" : "http://twitter.com/simosako/statuses/541579390040023041",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T13:06:03.000Z",
+					"summary" : "[ブログ更新]  再度お知らせ：DB2 9.5の標準サポートは2015年4月末までです http://t.co/OdARg6lGNa"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T13:06:03.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "j.mp/1AK1C1Q",
+							"expanded_url" : "http://j.mp/1AK1C1Q",
+							"indices" : 
+							[
+								44,
+								66
+							],
+							"url" : "http://t.co/OdARg6lGNa"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "ja",
+				"verb" : "post"
+			}
+		},
+		{
+			"cde" : 
+			{
+				"author" : 
+				{
+					"location" : 
+					{
+						"city" : "",
+						"country" : "United States",
+						"state" : "North Carolina"
+					},
+					"maritalStatus" : 
+					{
+						"isMarried" : "unknown"
+					},
+					"parenthood" : 
+					{
+						"isParent" : "unknown"
+					}
+				}
+			},
+			"message" : 
+			{
+				"actor" : 
+				{
+					"displayName" : "N Carolina Recruiter",
+					"favoritesCount" : 0,
+					"followersCount" : 25,
+					"friendsCount" : 47,
+					"id" : "id:twitter.com:2786984488",
+					"image" : "https://pbs.twimg.com/profile_images/515806970972880896/hGAEeGGP_normal.jpeg",
+					"languages" : 
+					[
+						"en"
+					],
+					"link" : "http://www.twitter.com/NC_hiring",
+					"links" : 
+					[
+						{
+							"href" : null,
+							"rel" : "me"
+						}
+					],
+					"listedCount" : 0,
+					"location" : 
+					{
+						"displayName" : "North Carolina",
+						"objectType" : "place"
+					},
+					"objectType" : "person",
+					"postedTime" : "2014-09-27T10:14:35.000Z",
+					"preferredUsername" : "NC_hiring",
+					"statusesCount" : 6824,
+					"summary" : "IT #Recruiter‬. Specialization: #Recruitment‬ | #Recruitments‬ | #Recruiters‬ | #Headhunter‬ | #Hiring‬ | #Jobs‬ | #IT‬ | #HR‬",
+					"twitterTimeZone" : null,
+					"utcOffset" : null,
+					"verified" : false
+				},
+				"body" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Columbia - DB2 DBA http://t.co/dtN7ed9B95 ☜ view full details",
+				"favoritesCount" : 0,
+				"generator" : 
+				{
+					"displayName" : "dlvr.it",
+					"link" : "http://dlvr.it"
+				},
+				"gnip" : 
+				{
+					"language" : 
+					{
+						"value" : "no"
+					},
+					"profileLocations" : 
+					[
+						{
+							"address" : 
+							{
+								"country" : "United States",
+								"countryCode" : "US",
+								"region" : "North Carolina"
+							},
+							"displayName" : "North Carolina, United States",
+							"geo" : 
+							{
+								"coordinates" : 
+								[
+									-80.000320000000002,
+									35.500689999999999
+								],
+								"type" : "point"
+							},
+							"objectType" : "place"
+						}
+					],
+					"urls" : 
+					[
+						{
+							"expanded_status" : 200,
+							"expanded_url" : "http://www.itjobpro.com/en/search/jobhighlights.aspx?JobID=b6a65ade-9e79-46d4-a199-069c4bc8c9d9&origin=rss&provider=m&utm_source=dlvr.it&utm_medium=twitter",
+							"url" : "http://t.co/dtN7ed9B95"
+						}
+					]
+				},
+				"id" : "tag:search.twitter.com,2005:541593252227325952",
+				"link" : "http://twitter.com/NC_hiring/statuses/541593252227325952",
+				"object" : 
+				{
+					"id" : "object:search.twitter.com,2005:541593252227325952",
+					"link" : "http://twitter.com/NC_hiring/statuses/541593252227325952",
+					"objectType" : "note",
+					"postedTime" : "2014-12-07T14:01:08.000Z",
+					"summary" : "☆★☆ JOB ALERT ☆★☆ #ITJob #Job #Columbia - DB2 DBA http://t.co/dtN7ed9B95 ☜ view full details"
+				},
+				"objectType" : "activity",
+				"postedTime" : "2014-12-07T14:01:08.000Z",
+				"provider" : 
+				{
+					"displayName" : "Twitter",
+					"link" : "http://www.twitter.com",
+					"objectType" : "service"
+				},
+				"retweetCount" : 0,
+				"twitter_entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								18,
+								24
+							],
+							"text" : "ITJob"
+						},
+						{
+							"indices" : 
+							[
+								25,
+								29
+							],
+							"text" : "Job"
+						},
+						{
+							"indices" : 
+							[
+								30,
+								39
+							],
+							"text" : "Columbia"
+						}
+					],
+					"symbols" : [],
+					"trends" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "dlvr.it/7lZfHq",
+							"expanded_url" : "http://dlvr.it/7lZfHq",
+							"indices" : 
+							[
+								50,
+								72
+							],
+							"url" : "http://t.co/dtN7ed9B95"
+						}
+					],
+					"user_mentions" : []
+				},
+				"twitter_filter_level" : "medium",
+				"twitter_lang" : "en",
+				"verb" : "post"
+			}
+		}
+	]
+}
